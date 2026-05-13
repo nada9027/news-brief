@@ -5,9 +5,14 @@
       "category": "경제·시사",
       "icon": "💰",
       "en": "Economy & Current Affairs",
-      "summary": "최근 서울 용산의 한 아파트에 수많은 사람이 몰려 청약을 신청한 것처럼 주택 시장의 뜨거운 관심과 함께 '로또' 같은 기회가 여전히 존재함을 알 수 있습니다. 한편, 해외 주식 시장에서는 미국 반도체주의 약세로 대만 증시가 하락하고, 미중 정상회담을 앞두고 홍콩 증시가 관망세를 보이는 등 국제 정세와 산업 동향이 각국 경제에 큰 영향을 미치고 있습니다. 국내에서는 정부가 개발도상국을 돕기 위한 '한국형 개발금융'을 추진하며 전문가 자문위원회를 신설했고, 농협중앙회는 직원 변호사비 대납 의혹으로 경찰 조사를 받는 등 기업 윤리와 투명성에 대한 중요성도 부각되고 있습니다.",
-      "insight": "이러한 소식들은 우리 사회의 경제 활동이 부동산, 주식 시장, 국제 관계, 그리고 기업의 윤리 문제에 이르기까지 얼마나 다양한 요소들과 복잡하게 얽혀 있는지 보여줍니다. 아이들에게 경제 교육을 할 때, 단순히 돈의 가치를 넘어 사회의 여러 현상과 연결하여 폭넓게 이해할 수 있도록 돕는 것이 중요하겠습니다.",
+      "summary": "최근 경제 소식들을 살펴보면, 유럽 지역의 실업률은 소폭 낮아졌지만, 여전히 많은 사람이 일자리를 찾고 있습니다. 우리나라에서는 서울 용산의 한 아파트에 수만 명이 청약 신청을 하며 주택 시장의 뜨거운 관심을 보여주었습니다. 한편, 대만과 홍콩 증시는 미국 반도체 시장 상황이나 미중 정상회담 같은 국제적인 이슈에 영향을 받아 변동성을 보였습니다. 국내 정유사들은 큰 이익을 낸 것처럼 보이지만, 이는 유가 변동에 따른 재고 가치 평가의 일시적인 현상일 수 있다는 분석도 나왔습니다.",
+      "insight": "교사들은 이러한 경제 및 시사 뉴스를 통해 우리 사회의 경제 흐름과 국제 정세가 개인의 삶, 특히 주거와 일자리 문제에 어떤 영향을 미치는지 이해하고, 아이들과 함께",
       "articles": [
+        {
+          "title": "유로존 3월 실업률 6.2%…독 4.0%, 불 7.7%, 핀란드 10.4%, 스웨덴 8.7%",
+          "desc": "[서울=뉴시스] 김재영 기자 = 유로존 21개 국의 실업률이 3월 시점으로 6.2%를 기록해 전월의 6.3%에서 약간 낮아졌다고 13일 유럽연합 통계국 유로스탯이 발표했다.3월은 이란 전쟁 첫 한 달인데도 유로존(EA) 실업률은 더 낮아졌고 유럽연합(EU) 전 27개국 실업률은 6.0%로 전월과 같았다.실업률은 노동가능 인구 중 경제활동에 참가한 사람 전원 가운데 취업하지 못한 사람 비율이다. 유로존의 총 실업자 수는 3월에 1098만 명이었고 유럽연합은 1322만 명이었다.유로스탯은 인플레 수치를 그 달 마지막날에 &#039;번개",
+          "link": "https://www.newsis.com/view/NISX20260513_0003628442"
+        },
         {
           "title": "\"14억 로또\"…용산 무순위 청약 1가구 모집에 1만2299명 몰려",
           "desc": "[서울=뉴시스] 강세훈 기자 = 서울 용산구 &#039;용산호반써밋에이디션&#039; 무순위 청약 1가구 모집에 1만2299명의 신청자가 몰렸다. 13일 한국부동산원 청약홈에 따르면 이날 진행된 서울 용산구 한강대로 일대 &#039;용산호반써밋에이디션&#039; 무순위 청약 일반공급 1가구 모집에 총 1만2299명이 신청했다.이번 물량은 기존 계약자가 불법 전매 등 공급질서 교란 행위로 적발되면서 계약이 취소된 데 따른 것이다. 공급 물량은 전용면적 105㎡B 타입 1가구다. 분양가는 2023년 최초 분양 당시 가격인 19억8160",
@@ -24,14 +29,9 @@
           "link": "https://www.newsis.com/view/NISX20260513_0003628431"
         },
         {
-          "title": "한국형 개발금융 추진방향은?…재경부, 자문위 신설",
-          "desc": "[세종=뉴시스] 안호균 기자 = 정부가 새롭게 추진하는 &#039;한국형 개발금융&#039;에 대한 의견 수렴을 위해 학계·산업계·시민사회 등이 참여하는 자문위원회를 신설했다. 재정경제부는 13일 정부서울청사에서 허장 2차관 주재로 개발금융 자문위원회 1차 회의를 열었다. 자문위는 각계 전문가들로부터 다양한 의견을 수렴하고 향후 정책 방향에 반영하기 위한 목적으로 설치됐다. 개발금융이란 시장 차입 등 민간재원을 활용해 다양한 금융수단으로 개발도상국 민간부문 개발을 지원하는 협력 방식이다. 정부는 최근 개발금융 추진 필요성이 확대되고",
-          "link": "https://www.newsis.com/view/NISX20260513_0003628397"
-        },
-        {
-          "title": "압수수색 당한 농협중앙회…이번엔 무슨 일?",
-          "desc": "‘임직원 변호사비 대납’ 의혹 강제수사경찰이 임직원 변호사비를 공금으로 대납한 의혹을 받는 농협중앙회에 대한 강제수사에 나섰다. 13일 경찰 등에 따르면 서울경찰청 금융범죄수사대는..",
-          "link": "https://www.mk.co.kr/news/society/12046688"
+          "title": "63억 적자→5조 흑자라고?…정유사 미친 실적, 실은 신기루라는데",
+          "desc": "1분기 4社 영업익 5조 ‘깜짝 실적’ 유가급등 따른 재고평가 착시영향 하반기 원유 도입비용 증가 우려도 3연속 동결 최고가격제 부담도 커중동 전쟁 장기화로 국제유가가 급변하는 ..",
+          "link": "https://www.mk.co.kr/news/business/12046706"
         }
       ]
     },
@@ -39,8 +39,8 @@
       "category": "AI 뉴스",
       "icon": "🤖",
       "en": "AI News",
-      "summary": "AI 기술 경쟁이 우수한 모델 개발을 넘어, 실제 현장에서 쉽게 활용되도록 돕는 방향으로 변화하고 있습니다. 구글은 기업의 AI 도입을 지원할 엔지니어를 대규모 채용하고, 애플은 '시리'를 사용자 데이터를 이해하는 똑똑한 AI 에이전트로 전면 개편합니다. 메타 AI는 사람처럼 자연스러운 대화와 시각 인식 기능을 추가했고, 앤트로픽도 자사 AI 모델 확산을 위한 전문가를 모집 중입니다. 이는 AI가 단순한 기술을 넘어 우리 일상과 교육 현장에 더욱 밀접하게 다가오고 있음을 보여줍니다.",
-      "insight": "이러한 변화는 AI가 교육 현장에서도 학생들의 학습을 돕거나 교사의 업무 효율을 높이는 데 더욱 유용하게 활용될 가능성을 시사합니다. 미래 사회를 살아갈 아이들이 AI와 함께 성장할 수 있도록, 교사들이 AI의 발전 방향을 이해하고 교육에 접목할 방안을 함께 고민해 볼 중요한 시점입니다.",
+      "summary": "최근 주요 IT 기업들은 인공지능(AI) 기술을 더욱 똑똑하고 유용하게 만드는 데 집중하고 있습니다. 구글과 앤트로픽은 기업들이 AI를 현장에서 잘 활용하도록 돕는 전문가를 대거 채용하며, 단순히 AI를 만드는 것을 넘어 실제 생활에 적용하는 것이 중요해지고 있음을 보여줍니다. 애플은 아이폰의 '시리'를 사용자 데이터를 이해하고 여러 작업을 수행하는 똑똑한 비서로 완전히 바꿀 예정이며, 메타는 AI가 사람처럼 보고 듣고 대화하며 다양한 정보를 활용할 수 있도록 기능을 강화했습니다. 이처럼 AI는 이제 우리 주변에서 더 많은 일을 할 수 있는 똑똑한 도우미로 진화하고 있습니다.",
+      "insight": "이러한 AI 발전은 미래 교육 현장에서도 학생들이 AI를 단순히 지식 습득 도구가 아닌, 문제 해결과 창의적 활동을 돕는 파트너로 인식하고 활용하는 능력을 키워야 함을 시사합니다.",
       "articles": [
         {
           "title": "구글도 FDE 수백명 채용...AI 경쟁, '모델'에서 '현장 도입'으로",
@@ -68,28 +68,28 @@
       "category": "AI·테크 논문",
       "icon": "📄",
       "en": "Research · AI Times KR",
-      "summary": "최근 인공지능(AI) 기술은 우리 생활을 더 편리하게 만드는 방향으로 빠르게 발전하고 있습니다. 온라인 쇼핑몰에서 개인에게 맞는 상품을 추천해주거나, 여러 AI가 함께 협력하여 문제를 해결하는 방식이 연구되고 있어요. 또한, AI가 기존 데이터를 활용하면서도 실시간으로 새로운 것을 배우고 판단력을 키우며, 복잡한 문제 해결 과정에서 발생하는 작은 오류를 스스로 고쳐나가는 능력도 향상되고 있습니다. 이처럼 AI는 점점 더 우리에게 맞춰지고, 함께 일하며, 스스로 배우고 발전하는 방향으로 진화하고 있습니다.",
-      "insight": "이러한 AI의 발전은 미래 교육과 아이들의 삶에 큰 영향을 미칠 것임을 이해하는 것이 중요합니다. AI가 단순히 도구가 아니라, 협력하고 스스로 학습하는 주체로 진화하고 있기에, 아이들이 AI와 함께 살아갈 미래를 준비하도록 돕는 교육적 접근 방식에 대해 고민할 필요가 있습니다.",
+      "summary": "최근 AI 및 기술 관련 연구들은 초등학생 교육에 중요한 시사점을 제공합니다. 메타버스 같은 가상 공간이 현실과 동떨어진 곳이 아니라 법과 윤리가 적용되는 사회적 공간임을 강조하며, 아이들에게 가상 세계에서의 책임감을 가르치는 것이 중요해지고 있습니다. 또한, 인공지능(AI)과 사람이 함께하는 교육 방식이 AI 단독 교육보다 효과적이며, 특히 학습 부진 학생에게는 인간 교사의 역할이 더욱 중요함이 밝혀졌습니다. 이와 함께 AI가 학습하는 데이터의 개발 과정에 윤리적 문제가 개입될 수 있음을 이해하고, 온라인 콘텐츠를 관리하는 사람들의 근무 환경과 같은 기술의 사회적 측면에도 관심을 기울여야 합니다.",
+      "insight": "교사들은 AI 기술을 교육에 활용할 때 학생 개개인의 필요에 맞춰 인간 교사의 섬세한 지도를 결합하고, 디지털 공간에서의 윤리적 책임감과 AI의 사회적 영향력을 함께 가르치는 데 집중해야 합니다.",
       "articles": [
         {
-          "title": "A Cascaded Generative Approach for e-Commerce Recommendations",
-          "desc": "arXiv:2605.11118v1 Announce Type: new Abstract: Personalized storefronts in large e-commerce marketplaces are often assembled from many independent components: static themes per page section (\"placement\"), retrieval systems to fetch eligible products per placement, and pointwise rankers to order con",
-          "link": "https://arxiv.org/abs/2605.11118"
+          "title": "The Metaverse Is Not a Place Apart: Law, Code, and the Recursive Governance of Digital Space (A Review Essay on Mark Findlay, Governing the Metaverse: Law, Order and Freedom in Digital Space (2025))",
+          "desc": "arXiv:2605.11023v1 Announce Type: new Abstract: This review essay examines Mark Findlay's Governing the Metaverse: Law, Order and Freedom in Digital Space. Findlay offers an ambitious and timely account of the metaverse as a social and imaginative space that should be governed for freedom, personhoo",
+          "link": "https://arxiv.org/abs/2605.11023"
         },
         {
-          "title": "EVOCHAMBER: Test-Time Co-evolution of Multi-Agent System at Individual, Team, and Population Scales",
-          "desc": "arXiv:2605.11136v1 Announce Type: new Abstract: We argue that multi-agent test-time evolution is not single-agent evolution replicated N times. A single-agent learner can only evolve its own context and memory. A multi-agent system additionally evolves who collaborates, how they collaborate, and how",
-          "link": "https://arxiv.org/abs/2605.11136"
+          "title": "Improving Hybrid Human-AI Tutoring by Differentiating Human Tutor Roles Based on Student Needs",
+          "desc": "arXiv:2605.11155v1 Announce Type: new Abstract: Hybrid human-AI tutoring, where technology and humans jointly facilitate student learning, can be more beneficial than AI-only tutoring. However, preliminary evidence suggests that lower-performing students derive greater benefit from human-AI tutoring",
+          "link": "https://arxiv.org/abs/2605.11155"
         },
         {
-          "title": "RankQ: Offline-to-Online Reinforcement Learning via Self-Supervised Action Ranking",
-          "desc": "arXiv:2605.11151v1 Announce Type: new Abstract: Offline-to-online reinforcement learning (RL) improves sample efficiency by leveraging pre-collected datasets prior to online interaction. A key challenge, however, is learning an accurate critic in large state--action spaces with limited dataset cover",
-          "link": "https://arxiv.org/abs/2605.11151"
+          "title": "Evaluating Structured Documentation as a Tool for Reflexivity in Dataset Development",
+          "desc": "arXiv:2605.11345v1 Announce Type: new Abstract: It is prominently recognized that dataset development in machine learning is a value-laden process from problem formulation to data processing, use, and reuse. Structured documentation frameworks such as datasheets, data statements, and dataset nutriti",
+          "link": "https://arxiv.org/abs/2605.11345"
         },
         {
-          "title": "OLIVIA: Online Learning via Inference-time Action Adaptation for Decision Making in LLM ReAct Agents",
-          "desc": "arXiv:2605.11169v1 Announce Type: new Abstract: Large language model agents interleave reasoning, action selection, and observation to solve sequential decision-making tasks. In deployed settings where agents repeatedly handle related multi-step tasks, small action-selection errors can accumulate in",
-          "link": "https://arxiv.org/abs/2605.11169"
+          "title": "Auditing African Content Moderators' Working Conditions by Using the European General Data Protection Regulation (GDPR)",
+          "desc": "arXiv:2605.11699v1 Announce Type: new Abstract: In this article, we audit the working conditions of content moderators in Kenya and Nigeria employed by business process outsourcing (BPO) companies by using the European General Data Protection Regulation (GDPR). We demonstrate its extraterritorial sc",
+          "link": "https://arxiv.org/abs/2605.11699"
         }
       ]
     },
@@ -97,8 +97,8 @@
       "category": "교육 뉴스",
       "icon": "🏫",
       "en": "Education News",
-      "summary": "최근 심리상담 기사에서는 스트레스와 마음 건강의 중요성을 다루고 있습니다. 어린 시절 부모님의 언어폭력과 같은 부정적인 경험은 성인이 되어서도 작은 지적에 쉽게 상처받는 원인이 될 수 있다고 합니다. 스트레스는 우리 몸과 마음이 보내는 중요한 신호이므로, 두려워하기보다 먼저 알아차리고 돌보는 일이 필요합니다. 선생님들 또한 자신과 학생들의 스트레스 신호를 이해하고 건강하게 관리하는 방법을 아는 것이 중요합니다.",
-      "insight": "이 기사는 학생들의 행동 뒤에 숨겨진 감정적 배경을 이해하고, 교사 스스로의 스트레스 관리에도 신경 써야 한다는 점을 시사합니다. 특히, 어린 시절의 경험이 아이들에게 미치는 장기적인 영향을 인지하고, 교실에서 긍정적인 언어와 지지적인 환경을 제공하는 것이 얼마나 중요한지 다시 한번 생각하게 합니다.",
+      "summary": "‘스트레스의 파도에 무너지지 않으려면’과 ‘마음의 지진을 막는 내진 설계’ 기사들은 스트레스가 무엇인지, 그리고 어떻게 관리해야 하는지에 대해 이야기합니다. 특히 어린 시절의 언어폭력 같은 경험이 성인이 되어서도 스트레스에 취약하게 만들 수 있음을 보여주며, 스트레스는 몸과 마음이 보내는 중요한 신호이므로 두려워하기보다 알아차리고 스스로를 돌보는 것이 중요하다고 강조합니다. 다른 기사들은 서울시교육감 후보 확정 소식과 중국 교육에 대한 복잡한 시각을 다루지만, 교사들에게는 학생들의 정서적 안녕과 스트레스 관리에 대한 이해가 핵심적인 메시지입니다.",
+      "insight": "교사들은 학생들이 겪는 스트레스와 정서적 어려움에 민감하게 반응하고, 특히 가정환경에서 비롯될 수 있는 상처가 학업 및 사회생활에 미치는 영향을 이해하여 학생들의 마음을 돌보는 데 더욱 세심한 주의를 기울여야 합니다.",
       "articles": [
         {
           "title": "조희순 소장 심리상담 [스트레스의 파도에 무너지지 않으려면]",
@@ -123,5 +123,5 @@
       ]
     }
   ],
-  "createdAt": "2026-05-13T12:15:21.281Z"
+  "createdAt": "2026-05-13T12:27:01.381Z"
 }
