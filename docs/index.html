@@ -304,9 +304,8 @@
 </header>
 
 <div class="stats">
-  <div class="stat"><div class="stat-n">5</div><div class="stat-l">Categories</div></div>
   <div class="stat"><div class="stat-n">07:00</div><div class="stat-l">업데이트</div></div>
-  <div class="stat"><div class="stat-n">KST</div><div class="stat-l">Timezone</div></div>
+  <div class="stat"><div class="stat-n" id="live-clock">--:--:--</div><div class="stat-l">현재 시각 KST</div></div>
 </div>
 
 <div class="wrap">
@@ -525,6 +524,19 @@
 
   // ── 시작 ─────────────────────────────────────
   initTimeline();
+</script>
+  <script>
+  function updateClock() {
+    var now = new Date();
+    var kst = new Date(now.getTime() + 9 * 60 * 60 * 1000);
+    var h = String(kst.getUTCHours()).padStart(2, '0');
+    var m = String(kst.getUTCMinutes()).padStart(2, '0');
+    var s = String(kst.getUTCSeconds()).padStart(2, '0');
+    var el = document.getElementById('live-clock');
+    if (el) el.textContent = h + ':' + m + ':' + s;
+  }
+  updateClock();
+  setInterval(updateClock, 1000);
 </script>
 </body>
 </html>
