@@ -1,0 +1,142 @@
+{
+  "date": "20260522",
+  "categories": [
+    {
+      "category": "경제·시사",
+      "icon": "💰",
+      "en": "Economy & Current Affairs",
+      "summary": "최근 삼성전자와 SK하이닉스 등 반도체 기업들이 막대한 성과급을 지급하며 산업계에 새로운 보상 체계 변화의 바람이 불고 있습니다. 이는 인공지능(AI) 기술 발전으로 인한 산업 호황과 맞물려 기업 간, 그리고 내부 직원 간 소득 격차를 심화시킬 수 있다는 우려를 낳고 있습니다. 한편, 대법원은 '노란봉투법'이 시행되기 전 발생한 하청 노조의 교섭 요구에 대해서는 원청의 교섭 의무가 없다고 판단하여 법 적용의 혼란을 줄이고자 했습니다.",
+      "insight": "학생들에게 미래 사회의 경제 활동과 노동의 가치, 그리고 법과 제도가 사회에 미치는 영향을 균형 잡힌 시각으로 이해하도록 돕는 교육이 중요해지고 있습니다.",
+      "articles": [
+        {
+          "title": "1인당 6억 성과급 도미노",
+          "desc": "삼성전자, SK하이닉스 성과급 새 기준 제시.",
+          "link": "https://www.donga.com/news/Economy/article/all/20260522/133972496/2"
+        },
+        {
+          "title": "노란봉투법 소급 불가",
+          "desc": "대법원, 시행 전 원청 교섭 의무 없다고 판결.",
+          "link": "https://www.donga.com/news/Society/article/all/20260522/133972493/2"
+        },
+        {
+          "title": "대법, 노란봉투법 소급",
+          "desc": "법 시행 전후 산업계 혼란 최소화 기대.",
+          "link": "https://www.donga.com/news/Society/article/all/20260522/133972300/2"
+        },
+        {
+          "title": "코스피 8%↑ 7800 회복",
+          "desc": "삼성전자 파업 해소 등 호재로 코스피 급등.",
+          "link": "https://www.donga.com/news/Economy/article/all/20260522/133972298/2"
+        },
+        {
+          "title": "성과급 격차, 기업 긴장",
+          "desc": "삼전닉스 성과급, 타 기업에 보상 격차 부담.",
+          "link": "https://www.donga.com/news/Economy/article/all/20260522/133972503/2"
+        }
+      ]
+    },
+    {
+      "category": "AI 뉴스",
+      "icon": "🤖",
+      "en": "AI News",
+      "summary": "최근 인공지능(AI)은 80년 된 수학 난제를 해결할 만큼 똑똑해지고 있으며, 정부는 AI의 안전한 사용을 위해 규제를 논의하고 있습니다. 한편, AI 기업들은 빠르게 성장하며 새로운 AI 칩과 로봇 기술을 개발하여 우리 삶에 더 가까이 다가오고 있습니다.",
+      "insight": "AI 기술의 빠른 발전은 우리 아이들이 살아갈 미래 사회의 모습을 크게 변화시킬 것이므로, AI에 대한 이해와 윤리적 사고 교육의 중요성이 더욱 커지고 있습니다.",
+      "articles": [
+        {
+          "title": "오픈AI, 수학 난제 해결",
+          "desc": "AI가 80년 된 기하학 난제를 해결하며 수학 분야의 새로운 가능성을 열었습니다.",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=210785"
+        },
+        {
+          "title": "백악관, AI 사전심사 추진",
+          "desc": "미국 정부가 AI 모델 공개 전 안전성 검토를 의무화하는 행정명령을 추진합니다.",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=210791"
+        },
+        {
+          "title": "앤트로픽, 첫 분기 흑자",
+          "desc": "AI 기업 앤트로픽이 2분기 16조원 매출로 첫 흑자를 기록하며 성장세를 보입니다.",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=210792"
+        },
+        {
+          "title": "알리바바, 새 AI 칩 공개",
+          "desc": "알리바바가 엔비디아에 맞설 차세대 AI 칩 '젠우 M890'을 공개했습니다.",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=210789"
+        },
+        {
+          "title": "위로보틱스, 950억 투자 유치",
+          "desc": "위로보틱스가 인간 데이터를 활용한 휴머노이드 기술로 950억 투자를 유치했습니다.",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=210807"
+        }
+      ]
+    },
+    {
+      "category": "AI·테크 논문",
+      "icon": "📄",
+      "en": "Research · AI Times KR",
+      "summary": "최근 인공지능, 특히 대규모 언어 모델(LLM)에 대한 연구가 활발합니다. 이 연구들은 LLM이 데이터를 어떻게 학습하고 활용하는지, 실제 환경에서 효율적으로 작동하는지, 그리고 개인 건강 기록 분석이나 자연어-SQL 변환 등 다양한 분야에 어떻게 적용될 수 있는지를 탐구하고 있습니다. 이는 AI가 더욱 똑똑하고 유용해지는 방향으로 발전하고 있음을 보여줍니다.",
+      "insight": "미래 교육에서 AI는 학생들의 학습을 돕고 교사의 업무 효율성을 높이는 중요한 도구가 될 것이므로, 교사들은 AI의 발전 동향을 이해하고 교육에 접목할 방안을 꾸준히 고민해야 합니다.",
+      "articles": [
+        {
+          "title": "데이터의 LLM 성능 영향 이해",
+          "desc": "LLM의 데이터 활용법 연구의 중요성 강조",
+          "link": "https://arxiv.org/abs/2605.18801"
+        },
+        {
+          "title": "문서 AI 운영: OCR 및 LLM",
+          "desc": "문서 이해 AI 모델의 실제 적용 방안 제시",
+          "link": "https://arxiv.org/abs/2605.18818"
+        },
+        {
+          "title": "개인 건강 기록의 AI 활용성 평가",
+          "desc": "개인 건강 기록을 활용한 맞춤형 AI 연구",
+          "link": "https://arxiv.org/abs/2605.18937"
+        },
+        {
+          "title": "LLM 학습 제어: 안정성과 효율성",
+          "desc": "LLM 학습 과정의 안정성 및 효율성 향상 방안",
+          "link": "https://arxiv.org/abs/2605.19008"
+        },
+        {
+          "title": "자연어-SQL 변환 에이전트: AgentNLQ",
+          "desc": "자연어를 SQL로 변환하는 AI 에이전트 개발",
+          "link": "https://arxiv.org/abs/2605.19010"
+        }
+      ]
+    },
+    {
+      "category": "교육 뉴스",
+      "icon": "🏫",
+      "en": "Education News",
+      "summary": "서울시 교육감 선거가 본격적으로 시작되었으며, 후보들은 교육 대통합을 내세우며 지지층을 넓히고 있습니다. 교육부는 현장체험학습 사고 시 교사 면책을 추진하고 있지만, 학교 교육성과 및 생활지도 공개 법안 발의로 교사들의 우려가 커지는 상황입니다. 이러한 가운데 교육활동 보호를 위한 교육공동체 간 소통의 중요성이 강조되고 있습니다.",
+      "insight": "다가오는 교육감 선거와 교육 정책 변화가 우리 학교 현장과 교사의 업무에 어떤 영향을 미칠지 주의 깊게 지켜보고, 특히 체험학습 안전과 교권 보호에 대한 논의에 적극적인 관심을 가져야 합니다.",
+      "articles": [
+        {
+          "title": "서울교육감 선거 시작",
+          "desc": "정근식, 조전혁 후보가 출정식을 열고 본격적인 선거운동에 돌입했습니다.",
+          "link": "https://www.edupress.kr/news/articleView.html?idxno=30246"
+        },
+        {
+          "title": "체험학습 교사 면책 추진",
+          "desc": "교육부가 체험학습 사고 시 교사 면책 방안을 법무부와 협의 중입니다.",
+          "link": "https://www.edupress.kr/news/articleView.html?idxno=30245"
+        },
+        {
+          "title": "학교 정보 공개 논란",
+          "desc": "국민의힘이 학교 교육성과, 생활지도 공개 법안을 발의해 교사들이 우려합니다.",
+          "link": "https://www.edupress.kr/news/articleView.html?idxno=30244"
+        },
+        {
+          "title": "정근식 후보 지지 확장",
+          "desc": "정근식 후보가 교육 대통합을 추진하며 안양옥 전 교총 회장의 지지를 얻었습니다.",
+          "link": "https://www.edupress.kr/news/articleView.html?idxno=30243"
+        },
+        {
+          "title": "교육활동 보호 소통 강화",
+          "desc": "성북강북교육청이 교육활동 보호를 위한 교육공동체 정담회를 열었습니다.",
+          "link": "https://www.edupress.kr/news/articleView.html?idxno=30242"
+        }
+      ]
+    }
+  ],
+  "createdAt": "2026-05-21T20:52:14.002Z"
+}
