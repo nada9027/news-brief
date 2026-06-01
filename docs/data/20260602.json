@@ -1,0 +1,142 @@
+{
+  "date": "20260602",
+  "categories": [
+    {
+      "category": "경제·시사",
+      "icon": "💰",
+      "en": "Economy & Current Affairs",
+      "summary": "최근 뉴스는 우리 사회의 다양한 변화를 보여줍니다. 고령화 시대에 맞춰 중장년층의 재취업 노력이 활발하고, 경제는 반도체 수출 호조로 긍정적인 면도 있지만, 청년들의 주거 문제와 기업의 노사 갈등 등 해결해야 할 과제도 많습니다. 또한, 산업재해 인정 기준 개선처럼 노동 환경 변화에 대한 논의도 활발합니다.",
+      "insight": "이러한 사회경제적 흐름을 이해하고 학생들에게 미래 사회의 변화와 직업 세계, 그리고 사회 문제 해결의 중요성을 가르치는 것이 중요합니다.",
+      "articles": [
+        {
+          "title": "교통사고 조사원 산재 적용",
+          "desc": "교통사고 조사원 산재 적용, 질병 기준 개선.",
+          "link": "https://www.donga.com/news/Society/article/all/20260602/134032041/2"
+        },
+        {
+          "title": "중장년층 호텔 재취업",
+          "desc": "은퇴 중장년층, 호텔 서비스 교육으로 재취업.",
+          "link": "https://www.donga.com/news/Society/article/all/20260602/134032038/2"
+        },
+        {
+          "title": "5월 수출 역대 최대 기록",
+          "desc": "5월 수출, 반도체 덕분에 역대 최대 기록 경신.",
+          "link": "https://www.donga.com/news/Economy/article/all/20260602/134032981/2"
+        },
+        {
+          "title": "청년 공공임대 경쟁 심화",
+          "desc": "청년 공공임대 경쟁률 높아지고 공급 감소.",
+          "link": "https://www.donga.com/news/Economy/article/all/20260602/134032979/2"
+        },
+        {
+          "title": "현대차 노조 갈등 우려",
+          "desc": "현대차 노조, 성과급 등 요구로 노사 갈등 심화.",
+          "link": "https://www.donga.com/news/Economy/article/all/20260602/134033045/2"
+        }
+      ]
+    },
+    {
+      "category": "AI 뉴스",
+      "icon": "🤖",
+      "en": "AI News",
+      "summary": "최근 인공지능(AI) 기술이 빠르게 발전하면서, AI를 실제 현장에 적용하는 전문가의 중요성이 커지고 있습니다. AI는 이제 복잡한 산업 현장의 자동화를 돕고, 더 나아가 우리가 사용하는 AI 서비스의 비용을 줄이며 개인 맞춤형 학습 도구로도 활용될 준비를 하고 있습니다. 이러한 변화는 미래 사회의 직업과 교육 방식에 큰 영향을 미칠 것으로 보입니다.",
+      "insight": "교사들은 AI 기술이 가져올 미래 사회의 변화를 이해하고, 아이들이 AI와 함께 살아갈 능력을 키울 수 있도록 교육 과정에 AI 리터러시를 적극적으로 통합해야 합니다.",
+      "articles": [
+        {
+          "title": "AI 현장 엔지니어 인기",
+          "desc": "AI를 실제 업무에 적용하는 FDE가 고소득 직군으로 떠오르며 채용이 급증하고 있습니다.",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=211192"
+        },
+        {
+          "title": "앤트로픽, AI 에이전트 개발",
+          "desc": "앤트로픽이 클로드를 자율형 에이전트 플랫폼으로 확장하며 다양한 신규 기능을 개발 중입니다.",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=211177"
+        },
+        {
+          "title": "아이벡스, 로봇 자동화 성공",
+          "desc": "아이벡스가 AI 로봇으로 불규칙한 포장재 제거를 자동화하여 산업 현장에 적용했습니다.",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=211222"
+        },
+        {
+          "title": "AI 비용 절감 도구 화제",
+          "desc": "넷플릭스 엔지니어가 AI 운영 비용을 획기적으로 줄이는 오픈소스 도구를 개발했습니다.",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=211214"
+        },
+        {
+          "title": "구글 노트북LM 기능 확장",
+          "desc": "구글이 AI 도구 노트북LM에 개인 맞춤, 외부 데이터 연동, 바이브 코딩 등 기능을 추가합니다.",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=211179"
+        }
+      ]
+    },
+    {
+      "category": "AI·테크 논문",
+      "icon": "📄",
+      "en": "Research · AI Times KR",
+      "summary": "최근 AI 기술은 물리 법칙을 이해하고 실제 세계와 상호작용하는 방향으로 발전하고 있습니다. 예를 들어, AI가 물리 다이어그램을 정확하게 그리거나, 자율 주행 차량이 안전하게 학습하도록 돕는 연구가 진행 중입니다. 또한, 게임 맵을 자동으로 만들거나 복잡한 문제를 효율적으로 해결하는 방법도 개발되고 있습니다.",
+      "insight": "이러한 AI 기술의 발전은 아이들이 미래에 접할 다양한 직업과 생활 방식에 큰 영향을 미칠 것이므로, 교사들은 AI의 기본 원리와 활용 가능성에 대한 이해를 높여야 합니다.",
+      "articles": [
+        {
+          "title": "물리 다이어그램 생성",
+          "desc": "텍스트로 물리 다이어그램을 만들 때 물리 법칙을 지켜야 합니다.",
+          "link": "https://arxiv.org/abs/2605.30512"
+        },
+        {
+          "title": "AI의 물리적 세계 모델",
+          "desc": "AI가 실제 세상에서 행동하려면 물리 법칙을 이해해야 합니다.",
+          "link": "https://arxiv.org/abs/2605.30542"
+        },
+        {
+          "title": "SAT 해결을 위한 FTS",
+          "desc": "'분할된 작업'은 복잡한 계획을 간결하게 표현합니다.",
+          "link": "https://arxiv.org/abs/2605.30563"
+        },
+        {
+          "title": "FPS 맵 자동 생성",
+          "desc": "AI가 1인칭 슈팅 게임 맵을 자동으로 만드는 연구입니다.",
+          "link": "https://arxiv.org/abs/2605.30570"
+        },
+        {
+          "title": "자율 주행 AI의 안전 학습",
+          "desc": "자율 주행 AI는 안전하게 탐색하며 배우는 방법을 연구합니다.",
+          "link": "https://arxiv.org/abs/2605.30576"
+        }
+      ]
+    },
+    {
+      "category": "교육 뉴스",
+      "icon": "🏫",
+      "en": "Education News",
+      "summary": "최근 유치원 교사 사망 사건 이후, 교육부가 사립유치원 교사의 병가 시 대체교사 지원을 전국으로 확대합니다. 또한 현장체험학습 중 교사의 고의 중과실이 없으면 민형사상 책임을 면제하는 방안을 추진하지만, 교원단체는 완전 면책을 요구하고 있습니다. 이 외에도 기초학력 정책의 현장 문제점과 지방선거 교육 공약 관련 소식들이 있습니다.",
+      "insight": "교사의 근무 환경 개선과 책임 경감은 물론, 학생들의 학습권 보장을 위한 실질적인 지원책 마련이 시급하며, 교육 정책이 현장의 목소리를 더 경청해야 합니다.",
+      "articles": [
+        {
+          "title": "사립유치원 교사 병가 지원",
+          "desc": "교육부가 사립유치원 병가 시 대체교사 지원을 전국으로 확대합니다.",
+          "link": "https://www.edupress.kr/news/articleView.html?idxno=30265"
+        },
+        {
+          "title": "박운기 \"구청이 교육·돌봄\"",
+          "desc": "서대문구청장 후보, 구청의 교육·돌봄 역할 강조.",
+          "link": "https://www.edupress.kr/news/articleView.html?idxno=30264"
+        },
+        {
+          "title": "기초학력 정책, 누구를 위한가",
+          "desc": "기초학력 정책 현장서 학생 책임 부재 비판.",
+          "link": "https://www.edupress.kr/news/articleView.html?idxno=30263"
+        },
+        {
+          "title": "정근식 후보, 김영철 영입",
+          "desc": "정근식 서울시교육감 후보, 김영철 전 사무총장을 선대위원장으로 위촉.",
+          "link": "https://www.edupress.kr/news/articleView.html?idxno=30262"
+        },
+        {
+          "title": "현장체험학습 교사 면책",
+          "desc": "교육부, 현장체험학습 교사 중과실 면책 발표.",
+          "link": "https://www.edupress.kr/news/articleView.html?idxno=30261"
+        }
+      ]
+    }
+  ],
+  "createdAt": "2026-06-01T20:52:06.773Z"
+}
