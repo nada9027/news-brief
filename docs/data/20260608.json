@@ -1,0 +1,108 @@
+{
+  "date": "20260608",
+  "categories": [
+    {
+      "category": "경제·시사",
+      "icon": "💰",
+      "en": "Economy & Current Affairs",
+      "summary": "초등학교 선생님들을 위한 뉴스 큐레이션입니다. 최근 원-달러 환율이 크게 올라 물가 상승과 경제 불안이 우려되는 상황입니다. 한편, 엔비디아 CEO 젠슨 황이 한국을 방문하여 한국의 첨단 제조 기반이 '피지컬 AI'의 중요한 실험장임을 강조했습니다. 아이들이 미래 사회의 경제와 기술 변화를 이해하는 데 도움이 될 것입니다.",
+      "insight": "아이들이 미래 사회의 경제 주체이자 기술 혁신의 주역으로 성장할 수 있도록, 환율 변동이 우리 삶에 미치는 영향과 인공지능 기술의 중요성을 쉽고 재미있게 가르치는 것이 필요합니다.",
+      "articles": [
+        {
+          "title": "환율 1560원 돌파, 최고치",
+          "desc": "원-달러 환율이 17년 만에 최고치 기록, 물가 상승 및 경제 둔화 우려.",
+          "link": "https://www.donga.com/news/Economy/article/all/20260608/134066542/2"
+        },
+        {
+          "title": "한국, 피지컬 AI 실험장",
+          "desc": "글로벌 빅테크, 한국을 AI 테스트베드로 주목.",
+          "link": "https://www.donga.com/news/Economy/article/all/20260608/134066530/2"
+        },
+        {
+          "title": "젠슨 황, 한국 방문 행보",
+          "desc": "엔비디아 최고경영자, 현대차 회장 만나고 PC방 방문.",
+          "link": "https://www.donga.com/news/Economy/article/all/20260608/134066527/2"
+        },
+        {
+          "title": "美 금리 우려, 환율 천장 뚫어",
+          "desc": "환율 1600원 전망, 물가 상승 및 기업 부담 가중.",
+          "link": "https://www.donga.com/news/Economy/article/all/20260608/134066525/2"
+        },
+        {
+          "title": "서교림, 첫 우승 감격",
+          "desc": "'무관의 신인왕' 서교림, 눈물 쏟으며 생애 첫 우승.",
+          "link": "https://www.donga.com/news/Sports/article/all/20260608/134066316/2"
+        }
+      ]
+    },
+    {
+      "category": "AI 뉴스",
+      "icon": "🤖",
+      "en": "AI News",
+      "summary": "최근 AI 기술은 우리 생활과 산업 전반에 걸쳐 빠르게 스며들고 있습니다. 엔비디아 CEO 젠슨 황의 한국 방문과 챗GPT의 슈퍼 앱 개편 소식은 AI가 단순한 기술을 넘어 사회적, 경제적 파급력을 가진다는 것을 보여줍니다. 또한, 월드컵의 AI 축구공 도입이나 영화감독의 AI 활용처럼 다양한 분야에서 AI가 혁신을 이끌고 있습니다.",
+      "insight": "교사들은 AI 기술의 발전이 아이들의 미래 학습과 직업 환경에 미칠 영향을 이해하고, AI를 활용한 창의적 교육 방안을 모색해야 합니다.",
+      "articles": [
+        {
+          "title": "젠슨 황, 한국서 종횡무진",
+          "desc": "엔비디아 CEO, 방송 출연 등 한국서 활발한 활동.",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=211434"
+        },
+        {
+          "title": "챗GPT, 슈퍼 앱으로 변신",
+          "desc": "챗GPT, 코딩·에이전트 중심 슈퍼 앱으로 개편.",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=211437"
+        },
+        {
+          "title": "IT 거물들, 마피아 게임",
+          "desc": "샘 알트먼 등 IT 유명인사, 유튜브 예능 출연.",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=211435"
+        },
+        {
+          "title": "월드컵, AI 축구공 도입",
+          "desc": "2026 월드컵, 센서·AI 공으로 오프사이드 판정.",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=211433"
+        },
+        {
+          "title": "스코세지 감독, AI 지지",
+          "desc": "마틴 스코세지 감독, 영화 제작에 AI 활용 지지.",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=211432"
+        }
+      ]
+    },
+    {
+      "category": "교육 뉴스",
+      "icon": "🏫",
+      "en": "Education News",
+      "summary": "전국 시도교육감 선거에서 진보 교육감이 다수 당선되며 새로운 교육 정책 변화가 예상됩니다. 한편, 학교 현장에서는 기초학력 미도달 학생 지도에 학부모 동의가 걸림돌이 되는 등 여전히 해결해야 할 과제가 많습니다. 새로운 교육감 시대에 교육청의 체질 개선과 함께 현장의 어려움을 해소할 실질적인 지원이 중요해 보입니다.",
+      "insight": "새로운 교육감들의 정책 방향을 주시하며, 기초학력 지도와 같은 현장의 고충이 정책에 반영될 수 있도록 관심을 가져야 합니다.",
+      "articles": [
+        {
+          "title": "기초학력 지도 난항",
+          "desc": "학부모 미동의로 기초학력 미도달 학생 지도가 어렵습니다.",
+          "link": "https://www.edupress.kr/news/articleView.html?idxno=30276"
+        },
+        {
+          "title": "새 교육감 시대 교육청 변화",
+          "desc": "새 교육감 시대, 교육청 조직의 체질 개선이 중요합니다.",
+          "link": "https://www.edupress.kr/news/articleView.html?idxno=30275"
+        },
+        {
+          "title": "전국 교육감 진보 압승",
+          "desc": "전국 시도교육감 선거에서 진보 진영이 압승했습니다.",
+          "link": "https://www.edupress.kr/news/articleView.html?idxno=30273"
+        },
+        {
+          "title": "서울 교육감 정근식 당선",
+          "desc": "서울교육감 선거에서 정근식 현 교육감이 재선 유력합니다.",
+          "link": "https://www.edupress.kr/news/articleView.html?idxno=30272"
+        },
+        {
+          "title": "경기 교육감 초박빙 접전",
+          "desc": "경기교육감 선거는 임태희-안민석 후보 초박빙 접전입니다.",
+          "link": "https://www.edupress.kr/news/articleView.html?idxno=30271"
+        }
+      ]
+    }
+  ],
+  "createdAt": "2026-06-07T20:52:01.168Z"
+}
