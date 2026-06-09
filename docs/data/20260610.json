@@ -1,0 +1,142 @@
+{
+  "date": "20260610",
+  "categories": [
+    {
+      "category": "경제·시사",
+      "icon": "💰",
+      "en": "Economy & Current Affairs",
+      "summary": "요약 생성 실패",
+      "insight": "",
+      "articles": [
+        {
+          "title": "삼성전자, 광주에 반도체 공장 추진",
+          "desc": "삼성전자가 광주에 반도체 생산기지 건설을 추진한다. 정부의 비수도권 투자 활성화 기조에 부응하는 동시에 인공지능(AI) 반도체 수요 폭증에 따른 첨단 후공정(패키징) 경쟁력 강화 방안으로 풀이된다. 9일 재계에 따르면 삼성전자는 광주에 반도체 패키징 공장을 신설하는 방안을 검토하고 있다. 반도체 웨이퍼에 회로를 새기는 과정이 전공정이라면 이를 고대역폭메모리(HBM) 등 최종 제품으로 조립 생산하는 과정이 후공정인 패키징이다. 삼성전자가 실제로 광주에 패키징 기지를 마련한다면 이는 1991년 충남 아산시 온양캠퍼스 이후 처음으로 국내",
+          "link": "https://www.donga.com/news/Economy/article/all/20260610/134081280/2"
+        },
+        {
+          "title": "[단독]노란봉투법 석달… “노조 요구 하나만 인정돼도 진짜 사장” 판정",
+          "desc": "‘노란봉투법’(개정 노동조합법)이 이달 10일로 시행 3개월을 맞은 가운데 법 적용 여부를 판단하는 지방노동위원회가 “하청 노조가 요구한 의제 중 하나라도 인정되면 기업은 교섭에 나서라”는 판정을 내린 것으로 나타났다. 산업안전과 근로 조건, 임금 등 여러 교섭 의제 중 한 가지만 사용자성이 인정돼도 원청 기업이 하청 노조와 교섭해야 할 ‘진짜 사장’이라고 본 것이다. 이는 노란봉투법 시행 이후 3개월 동안 지방노동위가 노사 양측에 송달한 16건의 판정문을 분석한 결과다. 기업이 산업안전보건법에 규정된 안전보건 의무를 이행하거나 건",
+          "link": "https://www.donga.com/news/Economy/article/all/20260610/134081340/2"
+        },
+        {
+          "title": "‘조직 DNA’ 바꾸는 삼성, 모든 업무에 AI 도입",
+          "desc": "삼성의 모든 관계사가 일하는 방식과 조직 문화를 인공지능(AI) 중심으로 바꾸는 ‘AI 대전환’에 나선다. 이재용 삼성전자 회장이 올해 신년사에서 “조직의 DNA를 송두리째 바꿔야 한다”고 밝혔던 것이 구체화되고 있다는 평가가 나온다. 삼성은 9일 전 관계사의 모든 업무에 AI를 도입하는 내용의 AI 전환 계획을 내놨다. 가장 큰 변화는 챗GPT, 제미나이, 클로드 등 외부 생성형 AI 서비스를 전 계열사에 공식 도입한 것이다. 삼성은 이달 중 소프트웨어, 마케팅 분야 생산성 제고부터 개발, 제조 등 모든 업무 영역에 이들 서비스를",
+          "link": "https://www.donga.com/news/Economy/article/all/20260610/134081336/2"
+        },
+        {
+          "title": "보유세 기준되는 ‘공정가액비율’ 상향 거론… 장특공제 줄일듯",
+          "desc": "이재명 대통령이 선진국 수준의 보유세 부담을 강조하면서 이르면 내년부터 다주택과 초고가 주택 보유자를 중심으로 세금 부담이 늘어날 것으로 보인다. 정부는 부동산 세금 조정에 따른 효과를 시뮬레이션하는 작업을 다각도로 진행 중인 것으로 알려졌다. 정부는 7월 말 발표할 세제 개편안에 보유세 강화와 비거주 1주택자 세금 감면 혜택 축소 등을 담는 방안을 검토하고 있다.● 다주택·초고가 정조준해 세금 올릴 듯국회예산정책처가 최근 공개한 ‘2026 대한민국 조세’ 보고서에 따르면 2024년 기준 한국 국내총생산(GDP) 대비 재산세와 종합",
+          "link": "https://www.donga.com/news/Economy/article/all/20260610/134080990/2"
+        },
+        {
+          "title": "비거주 1주택자 전세대출 사실상 막힐수도… DSR 적용도 검토",
+          "desc": "이르면 8월부터 수도권·규제 지역 아파트를 가진 비거주 1주택자는 사실상 신규로 전세대출을 받기 어려워질 것으로 보인다. 이재명 대통령이 8일 취임 1주년 기자회견에서 전세대출을 집값 상승 원인으로 지목한 가운데, 금융당국은 다음 달 말 예정된 정부 세제개편안 발표에 맞춰 이 같은 전세대출 규제를 검토하고 있다. 9일 금융당국에 따르면 금융위원회는 전세대출 규제 등 부동산 대출 관련 추가 규제를 들여다보고 있다. 내달 말 정부가 세제개편안을 발표할 때 함께 발표하는 방안을 유력하게 검토 중이다. 이르면 8월부터 시행될 가능성이 크다",
+          "link": "https://www.donga.com/news/Economy/article/all/20260610/134080994/2"
+        }
+      ]
+    },
+    {
+      "category": "AI 뉴스",
+      "icon": "🤖",
+      "en": "AI News",
+      "summary": "요약 생성 실패",
+      "insight": "",
+      "articles": [
+        {
+          "title": "구글, 노트북LM 대규모 업데이트…\"스스로 웹 검색해 지식 구축\"",
+          "desc": "구글이 인기 AI 도구 노트북LM(NotebookLM)에 대규모 업데이트를 통해 연구 자동화 기능을 강화했다. 이번 업데이트를 통해 기본 모델이 제미나이 3.5로 전환됐으며, 사용자가 자료를 직접 준비하지 않아도 AI가 스스로 자료를 탐색하고 지식 기반을 구축할 수 있는 새로운 연구 기능이 추가됐다.구글은 8일(현지시간) 노트북LM의 최신 버전을 공개하며 AI 연구 지원 역량을 확대한다고 밝혔다.구글은 이번 업그레이드가 단순한 성능 향상을 넘어 복잡한 연구 프로젝트를 수행할 수 있는 새로운 단계의 AI 도구를 구현하는 데 초점을 맞",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=211511"
+        },
+        {
+          "title": "알트먼, 오픈AI '3단계 비전' 선언...\"인간 대체 아닌 돕는 AGI로”",
+          "desc": "'챗GPT' 출시 이후 3년 반이 지난 가운데, 오픈AI가 성장 전략과 비전을 담은 새로운 청사진을 공개했다. 오픈AI는 연구 중심 조직에서 제품 기업으로 진화한 데 이어 이제는 AI를 누구나 활용할 수 있는 풍부하고 안전한 인프라로 확산시키는 ‘제3단계’에 진입했다고 선언했다.샘 알트먼 오픈AI CEO와 야쿠브 파초키 수석 과학자는 8일(현지시간) 블로그를 통해 회사의 새로운 방향성을 발표했다.이들은 오픈AI의 발전 과정을 3단계로 구분했다. 첫 번째 단계는 인공일반지능(AGI) 연구에 집중하던 시기였고, 두 번째 단계는 챗GPT",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=211506"
+        },
+        {
+          "title": "\"20B로 GPT-5.4 검색 성능 능가\"...오픈소스 에이전트 '하네스-1' 공개",
+          "desc": "AI가 검색 과정에서 수행해야 했던 기억과 정리, 검증 작업 등을 외부 시스템으로 분리하는 새로운 접근법이 등장했다. 이를 통해 소형 오픈소스 모델로 첨단 모델의 검색 성능을 뛰어넘는 성과를 거뒀다.미국 일리노이대학교 어바나-샴페인, UC 버클리, 오픈소스 벡터 데이터베이스 기업 크로마 연구진은 최근 새로운 검색 AI 에이전트 ‘하네스-1(Harness-1)’을 온라인 아카이브를 통해 공개했다.하네스-1은 검색 과정에서 필요한 기억과 정보 관리 기능을 외부 시스템이 담당하고, AI는 검색과 추론에 집중하도록 역할을 분리한 것이 특징",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=211522"
+        },
+        {
+          "title": "문샷 AI, '키미' 상승세 앞세워 한달 만에 몸값 1.5배 노려",
+          "desc": "중국의 문샷 AI가 최대 20억달러(약 3조원) 규모의 신규 투자 유치에 나섰다. 투자 유치가 성공적으로 마무리될 경우 기업 가치는 최대 300억달러(약 45조원)에 달해 중국 AI 업계의 핵심으로 자리매김할 전망이다.8일(현지시간) 블룸버그 등에 따르면, 문샷 AI는 최근 투자자들과 10억~20억달러 규모의 신규 자금 조달 방안을 논의하고 있다.특히 목표 기업 가치는 최대 300억달러로, 지난 5월 투자 라운드에서 인정받은 200억달러에서 불과 한달 만에 50% 상승했다.또 이는 최근 6개월 동안 3번째 투자 유치 추진이다. 자금",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=211526"
+        },
+        {
+          "title": "“중국서 클로드 접근 가능?”…중국 당국, 불법 AI 프록시 서비스 경고",
+          "desc": "중국 정부가 암시장에서 해외 AI 모델에 접근할 수 있도록 해주는 이른바 'API 중계 플랫폼' 이용에 따른 위험성을 공식 경고했다.국가안전부(MSS)는 8일 공식 위챗 계정을 통해 이러한 서비스들이 편리함과 저렴한 가격, 중국 내 거래 제한 우회 등의 이점을 제공하지만, 일부 무자격 사업자들로 인해 심각한 데이터 보안 위험이 초래되고 있다고 밝혔다. MSS는 \"일부 플랫폼이 취약한 보안 통제 속에 운영되면서 개인정보 유출 및 불법 데이터 거래 위험을 증가시키고 있다\"라고 설명했다.이번 경고는 중국 개발자들이 '클로드'나 오픈AI의",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=211527"
+        }
+      ]
+    },
+    {
+      "category": "AI·테크 논문",
+      "icon": "📄",
+      "en": "Research · AI Times KR",
+      "summary": "요약 생성 실패",
+      "insight": "",
+      "articles": [
+        {
+          "title": "PathoSage: Towards Multi-Source Evidence Adjudication in Pathology via Experience-Aware Agentic Workflow",
+          "desc": "arXiv:2606.07549v1 Announce Type: new Abstract: Recent advances in Multimodal Large Language Models (MLLMs) and agent workflows have shown strong promise for computational pathology, yet reliable patch-level reasoning remains challenging. End-to-end pathology MLLMs often hallucinate morphological fe",
+          "link": "https://arxiv.org/abs/2606.07549"
+        },
+        {
+          "title": "OmniMem: Perturbation-aware Memory Compression for Streaming Audio-Visual LLMs",
+          "desc": "arXiv:2606.07577v1 Announce Type: new Abstract: Audio-visual large language models (LLMs) hold strong promise for long-form video understanding, yet their long-video inference is fundamentally limited by the linear growth of video tokens and key-value (KV) caches. We present OmniMem, a memory-effici",
+          "link": "https://arxiv.org/abs/2606.07577"
+        },
+        {
+          "title": "Syll: Open-Source Personal Automation with Cross-Surface Execution",
+          "desc": "arXiv:2606.07594v1 Announce Type: new Abstract: Personal AI agents must increasingly operate across APIs, shells, web surfaces, and desktop GUIs, yet many systems remain tuned to a single interface and offer limited support for user teaching and auditability. We present Syll, an open-source, self-ho",
+          "link": "https://arxiv.org/abs/2606.07594"
+        },
+        {
+          "title": "A case study of evaluating AI agents on a neuroscience data-to-discovery pipeline",
+          "desc": "arXiv:2606.07718v1 Announce Type: new Abstract: Agentic AI tools offer a promising path to automating software development bottlenecks in scientific research pipelines, particularly for stages that take domain experts days to months to build, where scientists care about correctness and robustness, n",
+          "link": "https://arxiv.org/abs/2606.07718"
+        },
+        {
+          "title": "Why Limit the Residual Stream to Layers and Not Tokens? Persistent Memory for Continuous Latent Reasoning",
+          "desc": "arXiv:2606.07720v1 Announce Type: new Abstract: Large language models (LLMs) have demonstrated remarkable reasoning abilities on mathematical and multi-hop planning tasks. The CoCoNuT (Chain of Continuous Thought) paradigm~\\cite{hao2024coconut} extends this by enabling models to reason in latent spa",
+          "link": "https://arxiv.org/abs/2606.07720"
+        }
+      ]
+    },
+    {
+      "category": "교육 뉴스",
+      "icon": "🏫",
+      "en": "Education News",
+      "summary": "요약 생성 실패",
+      "insight": "",
+      "articles": [
+        {
+          "title": "[고성근 칼럼] 교실 안의 프로크루스테스의 침대",
+          "desc": "\"선생님, 저는 왜 맨날 해도 안 될까요? 저 진짜 바보인가 봐요.\"방과 후 빈 교실, 남아서 기초학력 보정학습을 하던 민하(가명)가 지우개 가루를 만지작거리며 툭 뱉는 말에 내 가슴은 철렁 내려앉는다. 민하는 게으르지 않다. 오히려 누구보다 성실한 아이다. 남들이 한 번 볼 때 민하는 두 번, 세 번을 본다. 그러나 다음 날 아침이 되면 '머릿속의 지우개'가 지나간 것처럼 어제 배운 것을 싹 잊어버린다. 수업 시간 내내 민하의 눈동자는 분주하다. 선생님의 설명을 친구들은 다 알아듣는 눈치인데, 자기만 못 알아듣는 것 같아 속상하고",
+          "link": "https://www.edupress.kr/news/articleView.html?idxno=30283"
+        },
+        {
+          "title": "[교디연 우문현답] 학교상담의 역할 극대화를 위한 교육정책의 변화",
+          "desc": "우리는 교육공동체의 일원으로 단 한 명의 아이도 포기하지 않기 위해 여러 정책과 교육사업을 시행해 오고 있습니다. 우선 1960년대부터 시작된 교도교사제도. 지금의 전문상담교사제도가 대표적입니다.교과수업을 하며 부차적으로 지원하던 학생상담영역은 2005년 9월 새로운 변화를 가지고 왔습니다. 교과수업을 하지 않고 학교상담을 지원하는 전문상담순회교사가 교육지원청에 처음 배치되었기 때문입니다.2007년 3월부터는 중등학교에 전문상담교사가 배치되기 시작했으며 현재 초등학교, 특수학교로 배치를 확대하고 있는중입니다. 최근에는 유치원에서도",
+          "link": "https://www.edupress.kr/news/articleView.html?idxno=30282"
+        },
+        {
+          "title": "교육부, 정서행동검사 횟수 늘린다 .. 3년 주기 단축 추진",
+          "desc": "에듀프레스 장재훈 기자 = 교육부가 정서행동특성검사 실시 횟수를 늘리는 방안을 추진하고 있다고 밝혔다. 대신 상담 인력 확충을 위해 2030년까지 모든 학교에 전문상담교사를 배치한다.교육부는 9일 정부서울청사에서 열린 범부처 합동 '10대 청소년 자살예방 범정부 추진 대책'을 통해 이같은 계획을 밝혔다.심민철 교육부 학생건강안전국장은 이날 언론 브리핑에서 “정서행동특성검사의 신뢰성 확보를 위해 문항의 타당도 여부와 문항수, 실시횟수 등에 대한 개선 방안을 검토하고 있다”고 말했다.정서행동특성검사는 초1, 초4, 중1, 고1 등 3년",
+          "link": "https://www.edupress.kr/news/articleView.html?idxno=30281"
+        },
+        {
+          "title": "청소년 자살 ‘원인미상’ 증가 .. 사회정서교육 17차시로 확대",
+          "desc": "에듀프레스 장재훈 기자 = 중학생 A군은 전교 학생회장에 특목고를 준비할 만큼 성적도 최상위권이다. 친구들 사이에서도 늘 중심에 있던 완벽한 인싸다. 하지만 그는 어느 봄날 사망했다. 학폭 가해자도 피해자도 아닌데다 정서행동특성검사에서 단 한 번도 관심군으로 분류된 적 없는 학생이다. 신선호 서울 신원중 교장이 쓴 책 에 나온 대목이다.이처럼 뚜렷한 이유를 알 수 없는 ‘원인 미상’ 청소년 자살이 증가하고 있다. 지난 2021년부터 2025년까지 4년간 자살한 학생 1068명 중 절반이 넘는 620명에 이른다.이뿐 아",
+          "link": "https://www.edupress.kr/news/articleView.html?idxno=30280"
+        },
+        {
+          "title": "[특별기획- 배움의 들녘에서②]  지속가능한 지역 공동체를 만드는 농촌교육 정책",
+          "desc": "에듀프레스는 이번 회부터 8차례에 걸쳐 농촌교육을 주제로 한 황윤한 박사(전 광주교대 교육대학원장)의 칼럼을 연재한다. 연재에서는 정부의 농정 정책과 농촌교육의 관계를 시작으로 농촌학교 교사 양성, 교육장과 학교장의 역할, 지역사회와 학교의 협력 등 농촌교육의 주요 과제를 다룰 예정이다. 오랫동안 농촌교육 정책은 주로 “학교”의 문제로 다루어져 왔다. 학생 수 감소에 어떻게 대응할 것인가, 부족한 교사를 어떻게 확보할 것인가, 작은 학교를 어떻게 운영할 것인가가 주요 관심사였다. 그러나 미국의 농촌정책 변화를 살펴보면 한",
+          "link": "https://www.edupress.kr/news/articleView.html?idxno=30279"
+        }
+      ]
+    }
+  ],
+  "createdAt": "2026-06-09T20:51:37.476Z"
+}
