@@ -1,0 +1,142 @@
+{
+  "date": "20260613",
+  "categories": [
+    {
+      "category": "경제·시사",
+      "icon": "💰",
+      "en": "Economy & Current Affairs",
+      "summary": "최근 한국은 이탈리아와 인공지능(AI), 우주, 첨단 제조업 등 미래 산업 분야에서 협력을 강화하며 글로벌 파트너십의 중요성을 보여주고 있습니다. 동시에 스페이스X와 같은 혁신 기업들이 우주 기술로 큰 주목을 받으며 새로운 시장을 개척하고 있고, 국내에서는 초정밀 의료기기 개발 스타트업들이 외산 기술의 벽을 넘어서고 있습니다. 또한, 나이와 상관없이 새로운 기술을 배우고 자격증을 취득하여 삶의 기회를 넓히는 평생 학습의 가치도 강조되고 있습니다.",
+      "insight": "미래 사회를 살아갈 우리 아이들에게는 글로벌 협력의 중요성, 끊임없는 기술 혁신, 그리고 평생 학습의 가치를 가르치는 것이 매우 중요합니다.",
+      "articles": [
+        {
+          "title": "한-이탈리아 경제 협력",
+          "desc": "한국과 이탈리아가 AI, 우주 등 첨단 산업 협력을 강화합니다.",
+          "link": "https://www.donga.com/news/Economy/article/all/20260613/134104449/1"
+        },
+        {
+          "title": "미래 산업 파트너십 강조",
+          "desc": "대통령, 이탈리아와 AI, 반도체 등 최적의 협력을 강조했습니다.",
+          "link": "https://www.donga.com/news/Economy/article/all/20260613/134104388/1"
+        },
+        {
+          "title": "스페이스X, IPO 성공",
+          "desc": "스페이스X가 나스닥 상장 첫날 급등하며 큰 주목을 받았습니다.",
+          "link": "https://www.donga.com/news/Inter/article/all/20260613/134104365/1"
+        },
+        {
+          "title": "60대 여성, 중장비 면허",
+          "desc": "60대 여성이 국비 지원으로 중장비 면허를 취득해 새로운 기회를 만들었습니다.",
+          "link": "https://www.donga.com/news/Economy/article/all/20260613/134103005/2"
+        },
+        {
+          "title": "국산 초정밀 의료기기",
+          "desc": "국내 스타트업이 외산 중심의 초정밀 의료기기 시장에 도전합니다.",
+          "link": "https://www.donga.com/news/Economy/article/all/20260613/134102699/2"
+        }
+      ]
+    },
+    {
+      "category": "AI 뉴스",
+      "icon": "🤖",
+      "en": "AI News",
+      "summary": "최근 AI 기술 분야에서는 오픈AI CEO의 방한 연기 소식과 함께 마이크로소프트, 퍼플렉시티 등 여러 기업들이 AI 성능 향상 기술을 선보였습니다. 특히 AI 에이전트의 효율을 높이거나 복잡한 연구를 돕는 기술, 그리고 자율주행과 로봇을 위한 시뮬레이션 모델까지 다양한 AI 발전이 이루어지고 있습니다. 이는 AI가 우리 생활과 산업 전반에 걸쳐 더욱 깊숙이 들어오고 있음을 보여줍니다.",
+      "insight": "AI 기술의 빠른 발전은 미래 사회의 변화를 가속화하므로, 우리 아이들이 AI 시대를 주도할 수 있도록 관련 교육에 대한 관심과 준비가 필요합니다.",
+      "articles": [
+        {
+          "title": "알트먼 방한 연기",
+          "desc": "오픈AI CEO의 방한이 연기되었으나, 한국과의 협력은 계획대로 진행됩니다.",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=211685"
+        },
+        {
+          "title": "MS, AI 에이전트 기술 공개",
+          "desc": "MS가 AI 에이전트 성능을 자동 개선하는 기술을 공개하여 효율이 향상됩니다.",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=211674"
+        },
+        {
+          "title": "퍼플렉시티, AI 연구 강화",
+          "desc": "퍼플렉시티가 딥 리서치 기능을 통합하여 AI 연구 능력을 두 배 향상시켰습니다.",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=211670"
+        },
+        {
+          "title": "데카르트, 월드 모델 출시",
+          "desc": "데카르트가 자율주행 및 로봇용 월드 모델을 출시하고 API를 개방했습니다.",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=211669"
+        },
+        {
+          "title": "AI&빅데이터쇼 폐막",
+          "desc": "국내 최대 AI&빅데이터쇼가 성황리에 막을 내리며, AX와 피지컬 AI가 주목받았습니다.",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=211679"
+        }
+      ]
+    },
+    {
+      "category": "AI·테크 논문",
+      "icon": "📄",
+      "en": "Research · AI Times KR",
+      "summary": "최근 인공지능 기술은 복잡한 문제 해결과 의사결정 능력을 향상시키는 방향으로 발전하고 있습니다. AI가 수많은 도구 중에서 필요한 것을 스스로 찾아 사용하거나, 마치 사람처럼 다양한 상황에서 최선의 전략을 세우는 연구들이 활발히 진행 중입니다. 또한, 수학 증명 같은 논리적 과제를 효율적으로 처리하고, 자율주행 시뮬레이션에서 AI 차량이 실제 사람처럼 행동하게 하는 등 AI의 지능과 현실 적용 능력이 더욱 정교해지고 있습니다.",
+      "insight": "미래에는 인공지능이 단순한 정보 검색을 넘어 스스로 판단하고 행동하는 '똑똑한 조력자'가 될 것이므로, 아이들이 AI와 협력하며 문제를 해결하는 능력을 키우도록 지도하는 것이 중요합니다.",
+      "articles": [
+        {
+          "title": "AI 도구 활용 능력 진단",
+          "desc": "AI가 필요한 도구를 더 잘 찾고 쓰도록 돕는 연구입니다.",
+          "link": "https://arxiv.org/abs/2606.12451"
+        },
+        {
+          "title": "AI의 똑똑한 의사결정",
+          "desc": "AI가 복잡한 상황에서 최적의 결정을 내리도록 돕습니다.",
+          "link": "https://arxiv.org/abs/2606.12563"
+        },
+        {
+          "title": "AI의 전략적 의사결정 지원",
+          "desc": "AI가 사람을 대신해 더 나은 결정을 하도록 돕습니다.",
+          "link": "https://arxiv.org/abs/2606.12587"
+        },
+        {
+          "title": "AI의 효율적인 수학 증명",
+          "desc": "AI가 복잡한 수학 증명을 더 효율적으로 하도록 돕습니다.",
+          "link": "https://arxiv.org/abs/2606.12594"
+        },
+        {
+          "title": "AI 운전 시뮬레이션 현실화",
+          "desc": "AI 차량이 사람처럼 다양한 운전 습관을 보이게 합니다.",
+          "link": "https://arxiv.org/abs/2606.12616"
+        }
+      ]
+    },
+    {
+      "category": "교육 뉴스",
+      "icon": "🏫",
+      "en": "Education News",
+      "summary": "서울남부교육지원청은 장애 학생들의 생존수영 교육 참여를 돕기 위해 맞춤형 교육자료를 개발해 보급했으며, 이는 통합학급 교사의 부담을 줄이고 모든 학생이 안전하게 교육받을 수 있도록 지원합니다. 한편, 교육부는 학생들의 정서적 어려움을 조기에 발견하기 위해 정서행동특성검사 횟수를 늘리고 2030년까지 모든 학교에 전문상담교사를 배치할 계획입니다. 하지만 일부에서는 대규모 해외체험 프로그램과 같이 현장 교사의 업무 부담을 가중시키는 정책보다는 교육의 본질에 집중해야 한다는 목소리도 나옵니다.",
+      "insight": "학생들의 개별적인 특성과 정서적 필요를 고려한 맞춤형 교육 지원과 전문 상담 인력 확충은 모든 학생의 건강한 성장과 안전한 학교생활을 위해 필수적입니다.",
+      "articles": [
+        {
+          "title": "장애학생 생존수영 자료",
+          "desc": "남부교육지원청, 장애학생 생존수영 맞춤 자료 보급",
+          "link": "https://www.edupress.kr/news/articleView.html?idxno=30285"
+        },
+        {
+          "title": "교육 본래의 역할로",
+          "desc": "200억 해외체험, 교사 부담 가중 우려",
+          "link": "https://www.edupress.kr/news/articleView.html?idxno=30284"
+        },
+        {
+          "title": "교실 속 프로크루스테스",
+          "desc": "학생 개별 특성 무시한 교육 현실 비판",
+          "link": "https://www.edupress.kr/news/articleView.html?idxno=30283"
+        },
+        {
+          "title": "학교상담 역할 변화",
+          "desc": "전문상담교사 배치, 유치원까지 확대",
+          "link": "https://www.edupress.kr/news/articleView.html?idxno=30282"
+        },
+        {
+          "title": "정서행동검사 확대 추진",
+          "desc": "교육부, 검사 주기 단축 및 상담교사 확대",
+          "link": "https://www.edupress.kr/news/articleView.html?idxno=30281"
+        }
+      ]
+    }
+  ],
+  "createdAt": "2026-06-12T20:52:07.746Z"
+}
