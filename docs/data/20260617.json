@@ -1,0 +1,142 @@
+{
+  "date": "20260617",
+  "categories": [
+    {
+      "category": "경제·시사",
+      "icon": "💰",
+      "en": "Economy & Current Affairs",
+      "summary": "최근 중동 전쟁의 여파로 수입 물가가 크게 오르고 일본도 금리를 인상하는 등 전반적인 물가 상승 압력이 커지고 있습니다. 하지만 전쟁 종식 기대감으로 항공 유류할증료는 다소 낮아져 여름 휴가철 여행객들의 부담은 줄어들 것으로 보입니다. 한편, 국내 인터넷은행들은 '빚투'를 막기 위해 대출 한도를 줄이는 등 경제 전반에 걸쳐 변화의 움직임이 나타나고 있습니다.",
+      "insight": "이러한 경제 변화는 학부모님들의 가계 경제에 영향을 미쳐 학생들의 교육 환경에도 간접적인 영향을 미칠 수 있으므로, 교사로서 사회 현상에 대한 이해를 높이는 것이 중요합니다.",
+      "articles": [
+        {
+          "title": "수입물가 급등, 고물가 우려",
+          "desc": "중동 전쟁으로 수입물가 24.8% 급등, 소비자 물가 상승 우려.",
+          "link": "https://www.donga.com/news/Economy/article/all/20260617/134125584/2"
+        },
+        {
+          "title": "일본 금리 31년만 최고",
+          "desc": "일본, 물가 상승 대응 위해 금리 0.25%p 인상.",
+          "link": "https://www.donga.com/news/Economy/article/all/20260617/134125588/2"
+        },
+        {
+          "title": "인터넷은행 대출 규제",
+          "desc": "인터넷은행, 빚투 억제 위해 마통 한도 축소.",
+          "link": "https://www.donga.com/news/Economy/article/all/20260617/134125159/2"
+        },
+        {
+          "title": "중동 재건사업 한국 참여",
+          "desc": "중동 전쟁 피해 복구에 한국 기업 참여 기대.",
+          "link": "https://www.donga.com/news/Economy/article/all/20260617/134125512/2"
+        },
+        {
+          "title": "항공 유류할증료 인하",
+          "desc": "유가 하락으로 7월 항공 유류할증료 20% 인하.",
+          "link": "https://www.donga.com/news/Economy/article/all/20260617/134125507/2"
+        }
+      ]
+    },
+    {
+      "category": "AI 뉴스",
+      "icon": "🤖",
+      "en": "AI News",
+      "summary": "최근 AI 기술은 100만 토큰을 처리하는 대형언어모델(LLM) 출시, 버려지는 스마트폰을 활용한 저비용 서버 구축 등 다양한 분야에서 빠르게 발전하고 있습니다. 엔비디아는 AI 추론 시장에서 지배력을 강화하고 있으며, AI 에이전트가 복잡한 기업 전략 조사까지 자동화하는 수준에 이르렀습니다. 이러한 기술 발전은 AI가 일상과 산업 전반에 걸쳐 더욱 깊이 통합되고 있음을 보여줍니다.",
+      "insight": "교사들은 AI 기술의 빠른 발전과 일상생활 적용 사례를 이해하고, 학생들이 미래 사회의 변화에 유연하게 대처하며 AI를 윤리적으로 활용할 수 있도록 교육하는 데 집중해야 합니다.",
+      "articles": [
+        {
+          "title": "지푸AI, 100만 토큰 LLM 출시",
+          "desc": "지푸AI가 100만 토큰을 지원하는 차세대 LLM 'GLM-5.2'를 공개했습니다.",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=211778"
+        },
+        {
+          "title": "구형 폰 재활용 서버 구축",
+          "desc": "구글과 UCSD가 중고폰을 활용해 저비용·저탄소 데이터센터를 개발 중입니다.",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=211771"
+        },
+        {
+          "title": "엔비디아 AI 추론 시장 확대",
+          "desc": "엔비디아가 AI 추론 칩 시장 점유율을 1년 만에 66%에서 74%로 늘렸습니다.",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=211788"
+        },
+        {
+          "title": "사카나 AI, 가상 CSO 출시",
+          "desc": "사카나 AI가 기업 전략 조사를 자동화하는 자율형 AI 에이전트를 공개했습니다.",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=211790"
+        },
+        {
+          "title": "퀄컴, 텐스토렌트 인수 추진",
+          "desc": "퀄컴이 AI 칩 스타트업 텐스토렌트 인수를 추진하며 사업 확대를 꾀합니다.",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=211782"
+        }
+      ]
+    },
+    {
+      "category": "AI·테크 논문",
+      "icon": "📄",
+      "en": "Research · AI Times KR",
+      "summary": "최신 AI 기술은 우리 아이들이 살아갈 미래 사회에 큰 영향을 미칠 중요한 주제입니다. 이 뉴스들은 AI가 어떻게 정보를 찾고, 복잡한 문제를 해결하며, 심지어 서로 협력하는지 등 다양한 발전 과정을 보여줍니다. 특히 AI의 결정 과정을 이해하고 설명하는 것이 왜 중요한지에 대한 연구도 활발히 진행되고 있습니다.",
+      "insight": "교사들은 AI가 단순히 기술을 넘어 아이들의 사고력, 문제 해결 능력, 그리고 미래 사회의 시민으로서 필요한 윤리적 판단 능력을 키우는 데 어떻게 활용될 수 있을지 고민해야 합니다.",
+      "articles": [
+        {
+          "title": "AI 설명의 중요성",
+          "desc": "AI가 내놓는 답을 잘 설명하는 방법과 어려움을 다룹니다.",
+          "link": "https://arxiv.org/abs/2606.14838"
+        },
+        {
+          "title": "AI의 정보 검색 능력",
+          "desc": "AI가 많은 정보 속에서 필요한 것을 찾는 방법을 연구합니다.",
+          "link": "https://arxiv.org/abs/2606.14885"
+        },
+        {
+          "title": "AI의 인과관계 이해",
+          "desc": "AI가 세상의 원인과 결과를 이해하는 모델을 만듭니다.",
+          "link": "https://arxiv.org/abs/2606.14892"
+        },
+        {
+          "title": "AI 에이전트 간 신뢰",
+          "desc": "여러 AI가 함께 일할 때 서로를 얼마나 믿을지 연구합니다.",
+          "link": "https://arxiv.org/abs/2606.14923"
+        },
+        {
+          "title": "AI 추론 능력 향상",
+          "desc": "AI가 복잡한 문제를 더 잘 추론하도록 돕는 도구를 개발합니다.",
+          "link": "https://arxiv.org/abs/2606.14935"
+        }
+      ]
+    },
+    {
+      "category": "교육 뉴스",
+      "icon": "🏫",
+      "en": "Education News",
+      "summary": "최근 유치원 교사의 휴가권 및 근무 여건 개선을 위한 대체인력 지원 방안이 발표되어 교원단체로부터 긍정적인 평가를 받았습니다. 교육부는 순회교사 배치와 인건비 지원 확대를 통해 사립유치원 교사들의 열악한 환경을 개선하려 합니다. 한편, 교육감협의회 신임 회장이 선출되었으며, 민주시민교육의 효과와 시민성 교육의 중요성에 대한 논의도 활발합니다.",
+      "insight": "교사로서 우리는 유치원 교사의 처우 개선 노력에 주목하고, 아이들이 건강한 시민성을 기를 수 있도록 교육의 방향과 방법에 대해 깊이 고민해야 합니다.",
+      "articles": [
+        {
+          "title": "유치원 교사 지원책 긍정 평가",
+          "desc": "유치원 교사 대체인력 지원 방안에 교원단체들이 환영하며 긍정적으로 평가했습니다.",
+          "link": "https://www.edupress.kr/news/articleView.html?idxno=30292"
+        },
+        {
+          "title": "유치원 교사 대체인력 지원",
+          "desc": "교육부가 사립유치원 교사 병가·연수 시 대체인력 지원 및 처우 개선 방안을 발표했습니다.",
+          "link": "https://www.edupress.kr/news/articleView.html?idxno=30291"
+        },
+        {
+          "title": "진보교육 받은 아이들 보수화",
+          "desc": "진보 교육을 받은 아이들이 보수화된 이유에 대한 질문이 던져졌습니다.",
+          "link": "https://www.edupress.kr/news/articleView.html?idxno=30290"
+        },
+        {
+          "title": "정근식 서울시교육감 협의회장",
+          "desc": "정근식 서울시교육감이 대한민국교육감협의회 신임회장으로 선출되었습니다.",
+          "link": "https://www.edupress.kr/news/articleView.html?idxno=30289"
+        },
+        {
+          "title": "민주주의 기초체력, 시민성 교육",
+          "desc": "선거 결과가 보여준 시민성 취약으로 시민성 교육의 재정립이 필요합니다.",
+          "link": "https://www.edupress.kr/news/articleView.html?idxno=30288"
+        }
+      ]
+    }
+  ],
+  "createdAt": "2026-06-16T20:52:06.500Z"
+}
