@@ -1,0 +1,142 @@
+{
+  "date": "20260618",
+  "categories": [
+    {
+      "category": "경제·시사",
+      "icon": "💰",
+      "en": "Economy & Current Affairs",
+      "summary": "최근 경제와 시사 분야에서 중요한 소식들이 많았습니다. 미국이 기준금리를 동결했지만 인상 가능성을 시사했고, 국내에서는 전력 부족 문제와 새로운 원전 건설 계획이 발표되었어요. 또한, 국제적으로는 이란 원유 수출 허용과 미국 해군 함정의 해외 건조 허용 소식이 있었습니다.",
+      "insight": "이러한 소식들은 우리 생활과 미래 산업에 큰 영향을 미치므로, 아이들에게 세상의 변화를 이해하고 미래를 준비하는 시야를 길러주는 데 활용할 수 있습니다.",
+      "articles": [
+        {
+          "title": "美연준 금리 동결, 인상 시사",
+          "desc": "미국 연준이 금리를 동결했으나, 연내 인상 가능성을 시사했습니다.",
+          "link": "https://www.donga.com/news/Inter/article/all/20260618/134133798/1"
+        },
+        {
+          "title": "발전설비↑ 송전망↓ 병목",
+          "desc": "발전설비는 늘었지만 송전망 부족으로 전력 병목이 심각합니다.",
+          "link": "https://www.donga.com/news/Economy/article/all/20260618/134133148/2"
+        },
+        {
+          "title": "신규 원전, 영덕-기장에 건설",
+          "desc": "대형 원전은 영덕, 소형 원전은 기장에 건설됩니다.",
+          "link": "https://www.donga.com/news/Economy/article/all/20260618/134133141/2"
+        },
+        {
+          "title": "美, 이란 원유 수출 허용",
+          "desc": "미국이 이란 원유 수출 제재를 해제하여 유가 안정에 기여합니다.",
+          "link": "https://www.donga.com/news/Inter/article/all/20260618/134133395/2"
+        },
+        {
+          "title": "美, 비전투함 해외 건조 허용",
+          "desc": "미국이 비전투함 해외 건조를 허용해 한국 조선업에 기회가 생겼습니다.",
+          "link": "https://www.donga.com/news/Economy/article/all/20260618/134133042/2"
+        }
+      ]
+    },
+    {
+      "category": "AI 뉴스",
+      "icon": "🤖",
+      "en": "AI News",
+      "summary": "AI 기술의 발전과 경쟁이 심화되며 새로운 변화가 나타나고 있습니다. 국내외 AI 기업들은 혁신적인 기술을 개발하고 시장을 확장하며, AI 서비스의 사용 패턴에도 변화가 나타나고 있습니다. 특히, AI의 효율적인 운영과 데이터센터 냉각 기술 등 인프라 발전도 함께 이루어지고 있습니다.",
+      "insight": "미래 사회의 핵심 역량이 될 AI 기술의 동향을 이해하고, 학생들이 AI를 올바르게 활용하며 변화에 적응할 수 있도록 지도하는 것이 중요합니다.",
+      "articles": [
+        {
+          "title": "앤트로픽 서울 사무소 개소",
+          "desc": "AI 기업 앤트로픽이 서울 사무소를 열고 국내 사업 전략을 공개했습니다.",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=211840"
+        },
+        {
+          "title": "KAIST, AI 시각 기술 개발",
+          "desc": "KAIST가 제한된 메모리로 고해상도 이미지를 복원하는 AI 기술을 개발했습니다.",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=211837"
+        },
+        {
+          "title": "KAIST, 액체 냉각 기술 개발",
+          "desc": "KAIST가 데이터센터 전력을 10분의 1로 줄이는 액체 냉각 기술을 개발했습니다.",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=211836"
+        },
+        {
+          "title": "오픈AI 코덱스 용량 초과",
+          "desc": "앤트로픽 서비스 중단 후 오픈AI 코덱스에 사용자가 몰려 장애가 발생했습니다.",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=211816"
+        },
+        {
+          "title": "챗GPT 점유율 50% 하락",
+          "desc": "챗GPT의 글로벌 점유율이 처음으로 50% 아래로 떨어지며 경쟁이 심화되고 있습니다.",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=211810"
+        }
+      ]
+    },
+    {
+      "category": "AI·테크 논문",
+      "icon": "📄",
+      "en": "Research · AI Times KR",
+      "summary": "최근 AI 기술은 정보를 더 효율적으로 검색하고, 복잡한 법률 문서를 분석하며, 생산 현장의 인력 역량을 관리하는 등 다양한 분야에서 발전하고 있습니다. 특히 AI가 스스로 학습하고 진화하며 새로운 지식을 발견하는 능력에 대한 연구도 활발히 진행 중입니다. 이러한 기술 발전은 미래 사회의 변화를 이끌 중요한 동력이 될 것입니다.",
+      "insight": "AI가 스스로 학습하고 새로운 지식을 탐구하는 능력이 커지면서, 우리 아이들이 미래 사회에서 필요한 창의적 문제 해결 능력과 지속적인 학습의 중요성을 가르치는 것이 더욱 중요해지고 있습니다.",
+      "articles": [
+        {
+          "title": "AI의 수학적 발견 능력",
+          "desc": "AI가 훈련 데이터 없이 '0'과 같은 새로운 수학 개념을 발견할 수 있을까요?",
+          "link": "https://arxiv.org/abs/2606.17209"
+        },
+        {
+          "title": "When Rules Learn: A Self-Evolving Agent for Legal Case Retrieval",
+          "desc": "arXiv:2606.17220v1 Announce Type: new Abstract: Legal case retrieval remains challenging due to the complexity of legal language and the need for precise lexical alignment between queries and relevant cases. Although dense retrieval models have achieved notable progress, empirical studies show that ",
+          "link": "https://arxiv.org/abs/2606.17220"
+        },
+        {
+          "title": "SkillChain-Gym: A Benchmark for Reskilling-Aware Production-Inventory Control under Disruptions",
+          "desc": "arXiv:2606.17266v1 Announce Type: new Abstract: Production planning increasingly has to treat workforce capability as a decision variable: certifications lapse when skills are not maintained, new products require skills the current workforce does not hold, and reskilling competes for the same worker",
+          "link": "https://arxiv.org/abs/2606.17266"
+        },
+        {
+          "title": "Skill-Constrained Model Predictive Control for Resilient Manufacturing Supply Chains",
+          "desc": "arXiv:2606.17269v1 Announce Type: new Abstract: In skill-constrained production-inventory systems, the qualified human capacity available tomorrow depends on training decisions made today: production requires certified workers, certifications decay unless maintained, and training consumes the same s",
+          "link": "https://arxiv.org/abs/2606.17269"
+        },
+        {
+          "title": "Nothing from Something: Can a Language Model Discover 0?",
+          "desc": "arXiv:2606.17289v1 Announce Type: new Abstract: AI systems based on artificial neural networks are being developed with aspirations of pushing the boundary of human mathematical knowledge. A key question for these systems is how much they can reach beyond their training data. Mathematical discovery ",
+          "link": "https://arxiv.org/abs/2606.17289"
+        }
+      ]
+    },
+    {
+      "category": "교육 뉴스",
+      "icon": "🏫",
+      "en": "Education News",
+      "summary": "초등학교 교사로서 학생들의 기초학력 부진은 개인의 문제가 아닌 공동체 전체의 책임임을 인식해야 합니다. 또한, 과거와 달리 현재 청년 세대의 가치관 변화를 이해하고, 교육감의 새로운 공약 추진과 유치원 교사 처우 개선 소식에도 주목할 필요가 있습니다.",
+      "insight": "학생들의 학습 부진을 개인의 문제로 치부하지 않고, 공동체적 관점에서 해결 방안을 모색하며, 변화하는 사회와 교육 정책에 대한 이해를 바탕으로 교육 현장에 적용해야 합니다.",
+      "articles": [
+        {
+          "title": "기초학력은 공동체 문제",
+          "desc": "기초학력 부진 학생이 모둠 활동에서 소외되며, 이는 개인 아닌 공동체 문제임을 보여줍니다.",
+          "link": "https://www.edupress.kr/news/articleView.html?idxno=30297"
+        },
+        {
+          "title": "진보교육 받은 아이들",
+          "desc": "과거 연대 광장과 달리, 현 청년들은 온라인에서 각자도생하며 보수적 성향을 보입니다.",
+          "link": "https://www.edupress.kr/news/articleView.html?idxno=30296"
+        },
+        {
+          "title": "정근식 교육감 2기 출범",
+          "desc": "정근식 서울시교육감이 2기 공약추진위를 출범, 유아 무상교육 등 5대 공약을 추진합니다.",
+          "link": "https://www.edupress.kr/news/articleView.html?idxno=30295"
+        },
+        {
+          "title": "유치원 교사 지원 대책",
+          "desc": "교육부의 유치원 교사 대체인력 지원 방안에 교원단체들이 긍정적으로 평가했습니다.",
+          "link": "https://www.edupress.kr/news/articleView.html?idxno=30292"
+        },
+        {
+          "title": "유치원 교사 근무여건 개선",
+          "desc": "교육부가 사립유치원 교사 병가 시 대체인력 지원 등 처우 개선 방안을 발표했습니다.",
+          "link": "https://www.edupress.kr/news/articleView.html?idxno=30291"
+        }
+      ]
+    }
+  ],
+  "createdAt": "2026-06-17T20:52:12.762Z"
+}
