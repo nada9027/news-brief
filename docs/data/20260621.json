@@ -1,0 +1,142 @@
+{
+  "date": "20260621",
+  "categories": [
+    {
+      "category": "경제·시사",
+      "icon": "💰",
+      "en": "Economy & Current Affairs",
+      "summary": "최근 경제 소식에는 로또 당첨금처럼 우연히 큰돈을 버는 이야기부터, 국민연금 고갈 문제와 주식 시장의 영향, 그리고 반도체 호황이 부동산으로 이어지는 부의 이동을 막기 위한 세금 정책까지 다양한 경제 현상이 담겨 있습니다. 또한, 스페이스X의 우주 인공지능(AI) 데이터센터 구상처럼 미래 기술의 발전과 함께 스마트폰 가격 상승처럼 우리 생활과 밀접한 경제 변화도 주목받고 있습니다.",
+      "insight": "이러한 뉴스들을 통해 아이들에게 경제의 큰 흐름과 사회 문제, 그리고 미래 기술의 가능성을 쉽고 흥미롭게 설명해 줄 수 있습니다.",
+      "articles": [
+        {
+          "title": "로또 1등 35억 당첨",
+          "desc": "8명이 로또 1등에 당첨되어 35억원을 받았습니다.",
+          "link": "https://www.donga.com/news/Economy/article/all/20260620/134148951/1"
+        },
+        {
+          "title": "국민연금 2069년 고갈",
+          "desc": "증시 호황으로 국민연금 고갈이 4년 늦춰졌습니다.",
+          "link": "https://www.donga.com/news/Economy/article/all/20260620/134148897/1"
+        },
+        {
+          "title": "부의 이동과 세금 정책",
+          "desc": "반도체 호황 국부가 부동산으로 가는 것을 막기 위해 세금 조정이 논의됩니다.",
+          "link": "https://www.donga.com/news/Politics/article/all/20260620/134148762/2"
+        },
+        {
+          "title": "우주 AI 데이터센터 구상",
+          "desc": "스페이스X가 우주에 인공지능(AI) 데이터센터를 짓는 구상을 공개했습니다.",
+          "link": "https://www.donga.com/news/It/article/all/20260619/134144743/2"
+        },
+        {
+          "title": "스마트폰 가격 폭등 예고",
+          "desc": "부품 가격 상승으로 스마트폰 가격이 크게 오를 전망입니다.",
+          "link": "https://www.donga.com/news/Economy/article/all/20260620/134148713/1"
+        }
+      ]
+    },
+    {
+      "category": "AI 뉴스",
+      "icon": "🤖",
+      "en": "AI News",
+      "summary": "최근 AI 기술 발전과 함께 관련 인프라 및 데이터 관리의 중요성이 커지고 있습니다. GPU 자원 부족 문제를 해결하기 위한 효율적인 활용 방안과 데이터의 단순 저장을 넘어 지능적인 관리가 주목받고 있습니다. 또한, AI 모델의 확산 과정에서 발생할 수 있는 윤리적 문제와 AI의 자기 학습 능력 향상 기술도 함께 논의되고 있습니다.",
+      "insight": "교실에서 AI 기술을 활용할 때, 자원의 효율적 사용, 데이터의 올바른 관리, 그리고 기술 윤리에 대한 깊이 있는 이해가 필요하며, AI의 발전이 교육에 미칠 긍정적 및 부정적 영향을 균형 있게 바라보는 시각을 길러야 합니다.",
+      "articles": [
+        {
+          "title": "GPU 효율적 활용 방안",
+          "desc": "부족한 GPU 자원을 효율적으로 사용하는 기술.",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=211798"
+        },
+        {
+          "title": "데이터 지능 강화 전략",
+          "desc": "AI 시대에 데이터 중심 저장으로 효율 높여.",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=211942"
+        },
+        {
+          "title": "MS, AI 모델 판매 논란",
+          "desc": "MS의 AI 모델 판매가 모방 위험을 낳아.",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=211936"
+        },
+        {
+          "title": "AI로 본 사회 이슈",
+          "desc": "AI가 분석한 국제 정세와 금융 시장 동향.",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=211941"
+        },
+        {
+          "title": "AI 스스로 학습하는 '브레인'",
+          "desc": "AI 에이전트가 업무 기반으로 스스로 학습.",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=211932"
+        }
+      ]
+    },
+    {
+      "category": "AI·테크 논문",
+      "icon": "📄",
+      "en": "Research · AI Times KR",
+      "summary": "최근 인공지능(AI) 기술, 특히 스스로 판단하고 행동하는 '에이전트 AI'가 빠르게 발전하고 있어요. 이 AI들이 어떻게 안전하게 작동하고, 서로 협력하며 더 나은 결정을 내릴 수 있는지에 대한 연구가 활발합니다. 또한, 이러한 AI 기술의 발전 속도에 맞춰 컴퓨터 과학 교육과정이 어떻게 변화해야 하는지에 대한 고민도 함께 이루어지고 있습니다.",
+      "insight": "미래 사회의 주역이 될 우리 아이들이 AI와 함께 살아갈 세상에 대비할 수 있도록, AI의 기본 원리와 윤리적 사용에 대한 교육적 접근을 고민해야 할 시점입니다.",
+      "articles": [
+        {
+          "title": "에이전트 AI 시스템 거버넌스",
+          "desc": "스스로 행동하는 AI의 보안 및 윤리적 문제를 다룹니다.",
+          "link": "https://arxiv.org/abs/2606.19464"
+        },
+        {
+          "title": "컴퓨터 과학 교육과정 정렬",
+          "desc": "컴퓨터 과학 교육과정이 최신 지침을 얼마나 반영하는지 측정합니다.",
+          "link": "https://arxiv.org/abs/2606.19469"
+        },
+        {
+          "title": "확산 언어 모델 분석",
+          "desc": "새로운 언어 모델인 확산 언어 모델의 실험적 분석입니다.",
+          "link": "https://arxiv.org/abs/2606.19475"
+        },
+        {
+          "title": "다중 에이전트 LLM 협의",
+          "desc": "여러 AI가 협력하여 의사결정하는 방식의 비밀을 탐구합니다.",
+          "link": "https://arxiv.org/abs/2606.19494"
+        },
+        {
+          "title": "DeFi 위험 감독 AI 시스템",
+          "desc": "탈중앙화 금융의 위험을 감독하는 AI 시스템을 소개합니다.",
+          "link": "https://arxiv.org/abs/2606.19501"
+        }
+      ]
+    },
+    {
+      "category": "교육 뉴스",
+      "icon": "🏫",
+      "en": "Education News",
+      "summary": "국가인권위가 교과-비교과 교사 성과급 평가 분리가 차별이 아니라고 결정했으며, 진보 교육을 받은 학생들의 정치적 성향 변화에 대한 논의가 있었습니다. 한편, 서울시교육청의 SEN스쿨 플랫폼이 빠르게 확산되고 있고, AI 시대에 맞춰 대입 개편 시안이 발표될 예정입니다. 또한, 교육 문제에 대한 대통령의 직접적인 관심과 교사 보호를 요구하는 목소리도 나왔습니다.",
+      "insight": "이 뉴스들은 교사 성과급 평가, 교육 방향성, 디지털 학습 도구 활용, 미래 대입 변화 등 초등 교사가 교육 현장에서 고려해야 할 다양한 정책 및 사회적 이슈들을 보여줍니다.",
+      "articles": [
+        {
+          "title": "교과ㆍ비교과 성과급 평가",
+          "desc": "교과-비교과 분리 성과급 평가가 차별 아니라는 인권위 결정",
+          "link": "https://www.edupress.kr/news/articleView.html?idxno=30302"
+        },
+        {
+          "title": "진보교육과 학생 성향",
+          "desc": "진보교육 받은 학생이 보수화? 민주시민 교육 본질 논의",
+          "link": "https://www.edupress.kr/news/articleView.html?idxno=30301"
+        },
+        {
+          "title": "SEN스쿨 가입자 40만 돌파",
+          "desc": "서울시교육청 SEN스쿨, 3개월 만에 40만 명 가입",
+          "link": "https://www.edupress.kr/news/articleView.html?idxno=30300"
+        },
+        {
+          "title": "AI 시대 대입 개편 시안",
+          "desc": "국교위, AI 반영 대입 개편 시안 10월 발표 목표",
+          "link": "https://www.edupress.kr/news/articleView.html?idxno=30299"
+        },
+        {
+          "title": "안민석, 교육문제 대통령 책임",
+          "desc": "안민석 당선인, 교육문제 대통령 책임 강조하며 교사 보호 약속",
+          "link": "https://www.edupress.kr/news/articleView.html?idxno=30298"
+        }
+      ]
+    }
+  ],
+  "createdAt": "2026-06-20T20:52:09.463Z"
+}
