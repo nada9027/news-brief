@@ -1,0 +1,108 @@
+{
+  "date": "20260622",
+  "categories": [
+    {
+      "category": "경제·시사",
+      "icon": "💰",
+      "en": "Economy & Current Affairs",
+      "summary": "최근 뉴스들은 부동산 시장의 변화와 가계 경제의 동향, 그리고 고용 시장의 세대 간 변화를 보여주고 있습니다. 정부는 부동산 과열을 막기 위해 보유세 인상 및 추가 규제를 검토하고 있으며, 가계대출은 다시 증가세로 돌아섰습니다. 안정적인 일자리에서는 고령층이 청년층을 추월하는 현상도 나타나 미래 사회의 경제적 변화를 예고합니다.",
+      "insight": "우리 아이들이 살아갈 미래 사회는 부동산, 경제, 일자리 등 다양한 분야에서 현재와는 다른 복합적인 변화를 겪을 것이므로, 경제 교육의 중요성이 더욱 커지고 있습니다.",
+      "articles": [
+        {
+          "title": "보유세 인상 공식화",
+          "desc": "정부, 부동산 과세 정상화 위해 보유세·양도세 조정 필요성 강조.",
+          "link": "https://www.donga.com/news/Politics/article/all/20260622/134153722/2"
+        },
+        {
+          "title": "부동산 규제지역 확대",
+          "desc": "보유세 인상 외 부동산 과열 막을 추가 규제 가능성 시사.",
+          "link": "https://www.donga.com/news/Economy/article/all/20260622/134153683/2"
+        },
+        {
+          "title": "가계대출 6조 증가",
+          "desc": "빚투와 주담대 영향으로 가계대출이 두 달 새 6조 원 넘게 늘었다.",
+          "link": "https://www.donga.com/news/Economy/article/all/20260622/134153681/2"
+        },
+        {
+          "title": "서울 전월세 공급 부족",
+          "desc": "서울 전월세 매물 부족 심화, 5년 새 최악 수준으로 악화.",
+          "link": "https://www.donga.com/news/Economy/article/all/20260622/134153678/2"
+        },
+        {
+          "title": "고령층 상용직 청년층 추월",
+          "desc": "60세 이상 상용직 취업자가 청년층을 처음으로 넘어섰다.",
+          "link": "https://www.donga.com/news/Economy/article/all/20260622/134153687/2"
+        }
+      ]
+    },
+    {
+      "category": "AI 뉴스",
+      "icon": "🤖",
+      "en": "AI News",
+      "summary": "최근 AI 기술은 음성 더빙을 넘어 실시간 소통과 방대한 정보 처리 능력을 향상시키고 있습니다. 또한, 사용자가 직접 전력을 생산하는 친환경 AI 기기나 인간 뇌처럼 효율적으로 기억을 조절하는 초저전력 AI 소자 개발 등 지속 가능한 방향으로도 발전하고 있습니다. 이는 AI가 교육 현장에서 더욱 다양하고 유용하게 활용될 가능성을 보여줍니다.",
+      "insight": "AI 기술의 빠른 발전은 교육 자료 분석, 맞춤형 학습 지원, 그리고 지속 가능한 기술 활용 등 미래 교육의 방향성에 대한 깊이 있는 고민과 준비를 요구합니다.",
+      "articles": [
+        {
+          "title": "AI 더빙 기술의 발전",
+          "desc": "AI가 음성 더빙을 넘어 실시간 소통에 활용될 것입니다.",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=211946"
+        },
+        {
+          "title": "AI, 긴 글 이해 능력 향상",
+          "desc": "AI가 긴 문서를 더 빠르고 효율적으로 처리합니다.",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=211948"
+        },
+        {
+          "title": "AI, 실시간 맞춤 학습 가능",
+          "desc": "AI가 기업 맞춤형 지식을 실시간으로 반영합니다.",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=211947"
+        },
+        {
+          "title": "손으로 돌리는 친환경 AI",
+          "desc": "손으로 전력을 만들어 작동하는 AI 기기가 나왔습니다.",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=211953"
+        },
+        {
+          "title": "뇌 닮은 초저전력 AI 소자",
+          "desc": "뇌처럼 기억을 조절하는 초저전력 AI 소자가 개발되었습니다.",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=211951"
+        }
+      ]
+    },
+    {
+      "category": "교육 뉴스",
+      "icon": "🏫",
+      "en": "Education News",
+      "summary": "최근 교육계에서는 교과 및 비교과 교사의 성과급 평가 분리 문제에 대한 인권위 결정이 있었고, 진보 교육을 받은 학생들의 정치적 성향 변화에 대한 분석도 나왔습니다. 서울시교육청의 디지털 학습 플랫폼 SEN스쿨은 가입자 40만 명을 돌파하며 빠르게 확산 중이며, 국가교육위원회는 AI 시대에 맞는 대입 개편 시안을 10월에 발표할 예정입니다. 또한, 교육감 당선인은 교권 회복과 교육 문제에 대한 대통령의 적극적인 관심과 교사 보호를 강조했습니다.",
+      "insight": "초등학교 교사들은 변화하는 교육 정책과 학생들의 학습 환경, 그리고 교사의 권리 보호에 대한 사회적 논의를 지속적으로 파악하고 교육 현장에 적용할 방안을 모색해야 합니다.",
+      "articles": [
+        {
+          "title": "교과/비교과 성과급 평가",
+          "desc": "인권위는 교과/비교과 분리 성과급 평가가 기본권 침해 없다고 각하했다.",
+          "link": "https://www.edupress.kr/news/articleView.html?idxno=30302"
+        },
+        {
+          "title": "진보교육과 학생 성향",
+          "desc": "진보교육을 받은 학생들이 보수화되는 현상에 대한 분석 글이다.",
+          "link": "https://www.edupress.kr/news/articleView.html?idxno=30301"
+        },
+        {
+          "title": "SEN스쿨 가입자 40만명",
+          "desc": "서울시교육청의 SEN스쿨이 3개월 만에 가입자 40만 명을 돌파했다.",
+          "link": "https://www.edupress.kr/news/articleView.html?idxno=30300"
+        },
+        {
+          "title": "AI 시대 대입 개편 시안",
+          "desc": "국교위가 AI 시대 반영한 대입 개편 시안을 10월 발표한다.",
+          "link": "https://www.edupress.kr/news/articleView.html?idxno=30299"
+        },
+        {
+          "title": "안민석, 교육문제 강조",
+          "desc": "안민석 당선인이 교육문제 대통령 관심과 교사 보호를 강조했다.",
+          "link": "https://www.edupress.kr/news/articleView.html?idxno=30298"
+        }
+      ]
+    }
+  ],
+  "createdAt": "2026-06-21T20:51:52.379Z"
+}
