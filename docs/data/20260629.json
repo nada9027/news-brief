@@ -1,0 +1,108 @@
+{
+  "date": "20260629",
+  "categories": [
+    {
+      "category": "경제·시사",
+      "icon": "💰",
+      "en": "Economy & Current Affairs",
+      "summary": "우리나라의 주요 산업 지도가 크게 바뀌고 있어요. 반도체, 인공지능(AI), 로봇 같은 첨단 산업 시설이 전국 곳곳에 생기면서 지역 경제가 활성화될 것으로 기대돼요. 한편, 노동 관련 법 개정으로 하청 기업 노조의 파업이 예상되고, 집값 상승으로 세금 부담도 늘어나는 등 사회 경제 전반에 걸쳐 중요한 변화들이 일어나고 있습니다.",
+      "insight": "이러한 경제·시사 변화들은 우리 아이들이 살아갈 미래 사회의 모습을 형성하므로, 교사로서 아이들에게 사회 변화를 이해하고 미래를 준비하는 안목을 길러줄 필요가 있습니다.",
+      "articles": [
+        {
+          "title": "호남 반도체 클러스터",
+          "desc": "대통령, 호남 반도체 특혜 아님 강조",
+          "link": "https://www.donga.com/news/Economy/article/all/20260629/134197977/2"
+        },
+        {
+          "title": "3대 메가 프로젝트 공개",
+          "desc": "호남 반도체, 충청 인공지능, 영남 로봇 등",
+          "link": "https://www.donga.com/news/Economy/article/all/20260629/134197974/2"
+        },
+        {
+          "title": "호르무즈 韓선박 대부분 출항",
+          "desc": "중동 해협 묶였던 선박 23척 빠져나와",
+          "link": "https://www.donga.com/news/Economy/article/all/20260629/134198278/2"
+        },
+        {
+          "title": "노란봉투법 후 첫 원청 파업",
+          "desc": "하청 노조, 원청 상대 여름 투쟁 예고",
+          "link": "https://www.donga.com/news/Economy/article/all/20260629/134198293/2"
+        },
+        {
+          "title": "집값 상승, 종부세 증가",
+          "desc": "3년 만에 종부세 늘고, 더 오를 전망",
+          "link": "https://www.donga.com/news/Economy/article/all/20260629/134197963/2"
+        }
+      ]
+    },
+    {
+      "category": "AI 뉴스",
+      "icon": "🤖",
+      "en": "AI News",
+      "summary": "최근 인공지능 기술은 더욱 빠르고 효율적으로 발전하고 있으며, 복잡한 작업을 스스로 해결하는 능력이 향상되고 있습니다. 기업들은 AI를 더 쉽게 활용할 수 있는 기술을 개발하고 있으며, 미래를 예측하는 새로운 AI 서비스도 등장하고 있습니다. 이러한 변화는 AI가 우리 생활과 교육 현장에 더 깊이 들어올 것임을 보여줍니다.",
+      "insight": "AI 기술의 빠른 발전과 다양한 활용은 학생들이 미래 사회에서 AI를 이해하고 현명하게 활용하는 능력을 키울 수 있도록 교육 과정에 AI 리터러시를 통합하는 중요성을 강조합니다.",
+      "articles": [
+        {
+          "title": "AI 인프라 효율화 기술",
+          "desc": "GPU 가상화로 AI 활용을 돕는 기술 발전.",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=212203"
+        },
+        {
+          "title": "중국계 AI 국내 진출 난항",
+          "desc": "AI 마누스, 국내 시장 진입에 어려움 겪어.",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=212196"
+        },
+        {
+          "title": "메타, 예측 시장 앱 개발",
+          "desc": "저커버그, 미래 예측 앱 개발 및 협력 모색.",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=212202"
+        },
+        {
+          "title": "AI 장기 업무 능력 평가",
+          "desc": "AI의 복잡한 장시간 업무 수행 능력 측정.",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=212199"
+        },
+        {
+          "title": "LLM 추론 속도 향상 기술",
+          "desc": "딥시크, AI 응답 속도 높이는 기술 공개.",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=212191"
+        }
+      ]
+    },
+    {
+      "category": "교육 뉴스",
+      "icon": "🏫",
+      "en": "Education News",
+      "summary": "최근 교육계는 서이초 교사 사망 3주기를 맞아 추모 공간 조성을 추진하며 교권 보호의 의미를 되새기고 있습니다. 한편, 교권 보호를 위한 정책들이 실제 현장에 얼마나 변화를 가져왔는지에 대한 심도 깊은 질문과 논의가 이어지고 있습니다. 이와 함께 진보 교육을 받은 학생들이 보수화되는 현상과 AI 시대 교육의 책임감 문제도 함께 다루어지고 있습니다.",
+      "insight": "교사들은 교권 보호를 위한 정책들이 실질적인 변화를 가져오도록 지속적인 관심을 기울이고, 미래 교육의 방향성인 AI 교육에서도 학생들의 책임감 함양을 중요하게 생각해야 합니다.",
+      "articles": [
+        {
+          "title": "진보교육과 학생 변화",
+          "desc": "진보 교육받은 아이들이 보수화되는 현상 분석.",
+          "link": "https://www.edupress.kr/news/articleView.html?idxno=30320"
+        },
+        {
+          "title": "서이초 교사 추모공간",
+          "desc": "서이초 교사 3주기 맞아 추모 공간 조성 추진.",
+          "link": "https://www.edupress.kr/news/articleView.html?idxno=30319"
+        },
+        {
+          "title": "교권보호, 현장 변화는?",
+          "desc": "서이초 사건 후 교권보호 노력, 실제 변화 묻는 칼럼.",
+          "link": "https://www.edupress.kr/news/articleView.html?idxno=30318"
+        },
+        {
+          "title": "교권보호국, 실질 변화",
+          "desc": "교권보호국 명칭 논란 속 실질적 변화의 중요성 강조.",
+          "link": "https://www.edupress.kr/news/articleView.html?idxno=30316"
+        },
+        {
+          "title": "AI 시대 교육 책임",
+          "desc": "AI 활용 능력과 시민적 책임감의 균형 필요.",
+          "link": "https://www.edupress.kr/news/articleView.html?idxno=30315"
+        }
+      ]
+    }
+  ],
+  "createdAt": "2026-06-28T20:51:57.235Z"
+}
