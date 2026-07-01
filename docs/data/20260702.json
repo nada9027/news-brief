@@ -1,0 +1,142 @@
+{
+  "date": "20260702",
+  "categories": [
+    {
+      "category": "경제·시사",
+      "icon": "💰",
+      "en": "Economy & Current Affairs",
+      "summary": "우리나라의 수출이 반도체 덕분에 크게 늘어, 지난달 한 달 수출액이 사상 처음으로 1000억 달러를 넘었습니다. 이는 우리나라 경제가 세계적으로 중요한 역할을 하고 있음을 보여주며, 정부는 반도체 산업의 성장을 위해 주 52시간 근무 완화 등 다양한 지원책을 검토하고 있습니다.",
+      "insight": "학생들에게 우리나라 경제의 핵심 산업인 반도체의 중요성과 세계 경제 속 한국의 위상을 이해시키는 좋은 기회가 될 것입니다.",
+      "articles": [
+        {
+          "title": "수출 첫 1000억달러 돌파",
+          "desc": "지난달 한국 수출액이 사상 첫 1000억 달러를 넘으며 세계 4번째 기록을 세웠습니다.",
+          "link": "https://www.donga.com/news/Economy/article/all/20260702/134220828/2"
+        },
+        {
+          "title": "광주 반도체 주52시간 완화",
+          "desc": "정부가 광주 메가특구 내 기업의 주 52시간 근무 완화를 검토 중입니다.",
+          "link": "https://www.donga.com/news/Economy/article/all/20260702/134220821/2"
+        },
+        {
+          "title": "수출 1조달러 세계 4강 기대",
+          "desc": "반도체와 IT-자동차 수출 호조로 연간 1조 달러 달성을 기대합니다.",
+          "link": "https://www.donga.com/news/Economy/article/all/20260702/134220454/2"
+        },
+        {
+          "title": "韓성장률 전망치 4% 상향",
+          "desc": "글로벌 기관들이 반도체 수출 호조에 한국 성장률을 4%까지 높였습니다.",
+          "link": "https://www.donga.com/news/Economy/article/all/20260702/134220451/2"
+        },
+        {
+          "title": "반도체 주52시간 예외 필요",
+          "desc": "정부는 반도체 클러스터 지원 위해 주 52시간 완화를 추진합니다.",
+          "link": "https://www.donga.com/news/Economy/article/all/20260702/134220628/2"
+        }
+      ]
+    },
+    {
+      "category": "AI 뉴스",
+      "icon": "🤖",
+      "en": "AI News",
+      "summary": "최근 인공지능(AI) 기술이 빠르게 발전하며 우리 생활 곳곳에 변화를 가져오고 있습니다. 중국에서는 자체 기술로 만든 AI 모델이 공개되었고, 오픈AI는 AI 운영 비용을 크게 줄이는 기술을 개발해 더욱 효율적인 AI 활용이 가능해졌습니다. 또한, 국내에서는 자율주행 트럭이 상용화를 준비하고 있으며, 로봇들이 스스로 학습하는 특별한 공간도 생겨나 미래 사회의 모습이 더욱 기대됩니다.",
+      "insight": "AI 기술의 발전은 교육 현장에도 새로운 도구와 학습 기회를 제공하며, 미래 사회를 살아갈 우리 아이들에게 AI 리터러시 교육의 중요성을 강조합니다.",
+      "articles": [
+        {
+          "title": "메이투안 AI 모델 출시",
+          "desc": "중국산 칩으로 만든 AI 모델이 공개되어 누구나 사용할 수 있게 되었어요.",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=212307"
+        },
+        {
+          "title": "오픈AI, AI 비용 절감",
+          "desc": "AI 모델을 더 저렴하게 사용할 수 있는 기술이 개발되어 효율이 높아졌어요.",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=212326"
+        },
+        {
+          "title": "마스오토 자율주행 트럭",
+          "desc": "국내 최초로 트레일러 자율주행에 성공, 무인 운송을 목표로 해요.",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=212332"
+        },
+        {
+          "title": "코그니션 AI 비용 절감",
+          "desc": "여러 AI 모델을 합쳐 비용을 줄이면서도 성능이 좋은 코딩 AI가 나왔어요.",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=212328"
+        },
+        {
+          "title": "앱트로닉 로봇 학습 공원",
+          "desc": "로봇이 실제 환경에서 데이터를 모아 더 똑똑해지는 공원이 생겼어요.",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=212323"
+        }
+      ]
+    },
+    {
+      "category": "AI·테크 논문",
+      "icon": "📄",
+      "en": "Research · AI Times KR",
+      "summary": "요즘 인공지능(AI)은 우리가 주는 피드백을 통해 더 똑똑해지고, 질문을 더 잘 이해하며, 필요한 정보를 정확히 찾아내는 방법을 연구하고 있어요. 마치 학생들이 선생님의 설명을 듣고 문제를 해결하는 것처럼, AI도 여러 번의 시도와 대화를 통해 스스로 배우고 발전하는 것이죠. 이러한 연구는 AI가 우리 교육 현장에서 더욱 유용하고 효율적인 도구가 될 수 있도록 돕습니다.",
+      "insight": "AI의 발전은 학생들이 미래 사회에서 AI를 이해하고 현명하게 활용하는 능력을 키울 수 있도록, 교사들이 AI 교육에 대한 관심을 높이고 준비해야 함을 시사합니다.",
+      "articles": [
+        {
+          "title": "피드백으로 AI 개선?",
+          "desc": "AI가 피드백으로 반복 시도 이상의 발전을 하는 조건 연구.",
+          "link": "https://arxiv.org/abs/2606.30774"
+        },
+        {
+          "title": "AI 질문 최적화 방법",
+          "desc": "AI가 정보를 잘 찾도록 질문을 개선하는 연구.",
+          "link": "https://arxiv.org/abs/2606.30840"
+        },
+        {
+          "title": "AI, 내 모델 찾는 법",
+          "desc": "AI가 시뮬레이션 모델을 효율적으로 찾는 연구.",
+          "link": "https://arxiv.org/abs/2606.30846"
+        },
+        {
+          "title": "AI의 다중 대화 신뢰도",
+          "desc": "AI가 대화하며 정보를 모아 판단을 내리는 방식 평가.",
+          "link": "https://arxiv.org/abs/2606.30850"
+        },
+        {
+          "title": "AI, 언제 멈춰야 할까?",
+          "desc": "AI가 효율적으로 추론을 멈추는 시점을 연구.",
+          "link": "https://arxiv.org/abs/2606.30852"
+        }
+      ]
+    },
+    {
+      "category": "교육 뉴스",
+      "icon": "🏫",
+      "en": "Education News",
+      "summary": "최근 고교 야구대회에서 발생한 지역 비하 응원 논란은 학원 스포츠맨십의 중요성을 다시 한번 일깨웁니다. 한편, 서이초 교사 사망 3주기를 맞아 추모 공간 조성이 추진되는 가운데, 교권 보호 대책들이 실제 교사들의 현실을 얼마나 변화시켰는지에 대한 깊은 성찰이 필요한 시점입니다.",
+      "insight": "초등학교 현장에서도 학생들의 올바른 인성 교육과 교권 보호를 위한 실질적인 노력이 지속되어야 하며, 교육 정책의 변화가 학교 현장에 긍정적인 영향을 미치도록 관심을 가져야 합니다.",
+      "articles": [
+        {
+          "title": "배재고 지역비하 응원 논란",
+          "desc": "배재고 학생들이 야구대회서 지역 비하 응원을 해 서울시교육청이 진상조사에 나섭니다.",
+          "link": "https://www.edupress.kr/news/articleView.html?idxno=30321"
+        },
+        {
+          "title": "진보 교육과 청소년 성향",
+          "desc": "진보 교육을 받은 아이들이 보수화되는 현상에 대한 의문이 제기됩니다.",
+          "link": "https://www.edupress.kr/news/articleView.html?idxno=30320"
+        },
+        {
+          "title": "서이초 교사 추모 공간 조성",
+          "desc": "서이초 교사 3주기를 맞아 서울시교육청이 추모 공간 조성을 추진합니다.",
+          "link": "https://www.edupress.kr/news/articleView.html?idxno=30319"
+        },
+        {
+          "title": "교권 보호, 정말 달라졌나?",
+          "desc": "서이초 사건 후 교권 보호 대책에도 교사 상황이 나아졌는지 묻습니다.",
+          "link": "https://www.edupress.kr/news/articleView.html?idxno=30318"
+        },
+        {
+          "title": "교권보호국, 본질이 중요",
+          "desc": "교권보호국 신설 논란 속에서 형식보다 실질적 변화가 중요함을 강조합니다.",
+          "link": "https://www.edupress.kr/news/articleView.html?idxno=30316"
+        }
+      ]
+    }
+  ],
+  "createdAt": "2026-07-01T20:52:08.276Z"
+}
