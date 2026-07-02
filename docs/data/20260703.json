@@ -1,0 +1,142 @@
+{
+  "date": "20260703",
+  "categories": [
+    {
+      "category": "경제·시사",
+      "icon": "💰",
+      "en": "Economy & Current Affairs",
+      "summary": "최근 뉴스는 기업들의 대규모 투자와 물가 상승이라는 두 가지 주요 경제 흐름을 보여줍니다. 정부는 충청권에 삼성, SK 등 대기업의 첨단산업 투자를 유치하여 지역 균형 발전과 미래 산업 육성을 꾀하고 있습니다. 하지만 고유가와 고환율로 인해 생활 물가가 크게 올라 학부모님들의 가계 부담이 커질 수 있다는 점도 주목해야 합니다.",
+      "insight": "우리 아이들이 살아갈 미래 사회의 산업 변화와 현재 가계 경제에 영향을 미치는 물가 변동의 원리를 이해하고 지도하는 것이 중요합니다.",
+      "articles": [
+        {
+          "title": "충청 첨단산업 392조 투자",
+          "desc": "삼성, SK 등 대기업이 충청권에 대규모 투자를 합니다.",
+          "link": "https://www.donga.com/news/Politics/article/all/20260703/134228628/2"
+        },
+        {
+          "title": "6월 물가 3.2% 상승",
+          "desc": "국제 유가 상승으로 밥상 물가가 크게 올랐습니다.",
+          "link": "https://www.donga.com/news/Economy/article/all/20260703/134228626/2"
+        },
+        {
+          "title": "고유가·고환율 물가 변수",
+          "desc": "기름값과 환율 상승이 서민 물가 부담을 키웁니다.",
+          "link": "https://www.donga.com/news/Economy/article/all/20260703/134228619/2"
+        },
+        {
+          "title": "李대통령, 기업 투자 강조",
+          "desc": "대통령은 충청권 첨단산업 투자 유치를 강조했습니다.",
+          "link": "https://www.donga.com/news/Politics/article/all/20260703/134228308/2"
+        },
+        {
+          "title": "윔블던 그린재킷 매킬로이",
+          "desc": "골프 선수 매킬로이가 윔블던에서 그린재킷을 입었습니다.",
+          "link": "https://www.donga.com/news/Sports/article/all/20260703/134228677/2"
+        }
+      ]
+    },
+    {
+      "category": "AI 뉴스",
+      "icon": "🤖",
+      "en": "AI News",
+      "summary": "최근 인공지능(AI) 기술은 기업들의 새로운 수익 모델이 되거나, 로봇이 스스로 학습하는 등 빠르게 발전하고 있습니다. 하지만 AI 서비스 이용 시 개인 정보 보호나 비용 문제에 대한 논란도 함께 제기되고 있습니다.",
+      "insight": "미래 사회의 핵심이 될 AI 기술이 어떻게 발전하고 활용되는지, 그리고 어떤 윤리적, 경제적 문제들을 고민해야 하는지 아이들과 함께 이야기해 볼 좋은 기회가 될 것입니다.",
+      "articles": [
+        {
+          "title": "메타, AI 컴퓨팅 판매",
+          "desc": "메타가 남는 AI 컴퓨팅 자원을 외부에 판매합니다.",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=212338"
+        },
+        {
+          "title": "앤트로픽, 사용자 추적 논란",
+          "desc": "앤트로픽이 중국 사용자 정보 수집 논란에 기능을 철회했습니다.",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=212357"
+        },
+        {
+          "title": "팔란티어 CEO, AI 과금 비판",
+          "desc": "팔란티어 CEO가 AI 토큰 과금 모델을 강하게 비판했습니다.",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=212345"
+        },
+        {
+          "title": "엔비디아, 로봇 AI '아스파이어'",
+          "desc": "엔비디아가 로봇이 스스로 코드를 짜는 AI를 공개했습니다.",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=212367"
+        },
+        {
+          "title": "엔비디아, 새 언어모델 공개",
+          "desc": "엔비디아가 더 빠르고 효율적인 확산형 언어모델을 개발했습니다.",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=212360"
+        }
+      ]
+    },
+    {
+      "category": "AI·테크 논문",
+      "icon": "📄",
+      "en": "Research · AI Times KR",
+      "summary": "이 뉴스들은 AI가 사람의 마음을 이해하고 윤리적인 판단을 내리는 방법, 그리고 지식을 더 잘 공유하고 웹 정보를 안전하게 수집하는 기술 발전에 대해 다룹니다. 또한, AI가 복잡한 항공 교통 관제 같은 실제 문제 해결에 어떻게 도움을 줄 수 있는지에 대한 연구도 포함되어 있습니다. 미래 사회에서 AI가 더욱 똑똑하고 안전하게 우리 삶에 통합될 방법을 모색하는 흥미로운 연구들입니다.",
+      "insight": "교사들은 AI가 단순히 정보를 처리하는 것을 넘어 사람의 변화하는 마음과 윤리적 판단, 그리고 실제 문제 해결에 어떻게 기여할지 이해하고, 아이들에게 미래 사회의 AI 활용 가능성을 이야기해 줄 수 있습니다.",
+      "articles": [
+        {
+          "title": "항공 교통 관제 AI 활용",
+          "desc": "항공 교통 관제에 AI 경로 계획 알고리즘 적용 연구.",
+          "link": "https://arxiv.org/abs/2607.00001"
+        },
+        {
+          "title": "Bounded Morality: Defining the Space of Moral Computation",
+          "desc": "arXiv:2607.00002v1 Announce Type: new Abstract: Moral cognition has traditionally been modeled as adherence to fixed ethical theories--deontology, consequentialism, virtue ethics--implemented as static rules or value functions. We propose Bounded Morality, a formal framework for analyzing the comput",
+          "link": "https://arxiv.org/abs/2607.00002"
+        },
+        {
+          "title": "The MMM Data Model -- A Normative Specification for Knowledge Interoperability in a Decentralisable Knowledge Commons",
+          "desc": "arXiv:2607.00032v1 Announce Type: new Abstract: Many information systems are built around documents: self-contained units optimised for print production and linear reading. While effective for large-scale dissemination, the document-centric organisation constrains how knowledge can be structured, up",
+          "link": "https://arxiv.org/abs/2607.00032"
+        },
+        {
+          "title": "Making Failure Safe: A Constrained, Verifiable Agent Framework for Open-Web Data Collection",
+          "desc": "arXiv:2607.00035v1 Announce Type: new Abstract: LLMs and agents can generate web scrapers from natural-language requirements, but direct generation remains unreliable because of dependency errors, broken selectors, schema mismatches, and heterogeneous page structures. We propose a constrained, verif",
+          "link": "https://arxiv.org/abs/2607.00035"
+        },
+        {
+          "title": "Solution space path planning for supporting en-route air traffic control",
+          "desc": "arXiv:2607.00064v1 Announce Type: new Abstract: As technology advances, many path-planning algorithms have been proposed for Air Traffic Management, yet their operational adoption in tactical control remains limited, revealing a misalignment between algorithmic design priorities and air traffic cont",
+          "link": "https://arxiv.org/abs/2607.00064"
+        }
+      ]
+    },
+    {
+      "category": "교육 뉴스",
+      "icon": "🏫",
+      "en": "Education News",
+      "summary": "최근 교육계는 교권 보호와 학생 인성 교육에 대한 논의가 활발합니다. 서이초 교사 3주기를 맞아 추모 공간이 추진되고 교권보호국 신설 논의가 이어지는 가운데, 고교 야구대회에서 발생한 지역 비하 응원 논란은 학생들의 스포츠맨십과 인성 교육의 중요성을 다시금 일깨웁니다. 또한, 진보 교육을 받은 청소년들이 보수화되는 현상에 대한 성찰은 교육의 방향성을 고민하게 합니다.",
+      "insight": "교사들은 교권 보호를 위한 제도적 노력과 함께, 학생들의 올바른 인성 함양 및 사회적 가치 교육에 더욱 집중하여 미래 사회의 건강한 시민으로 성장하도록 지도해야 합니다.",
+      "articles": [
+        {
+          "title": "고교 야구 지역비하 논란",
+          "desc": "배재고가 광주일고를 지역 비하 응원해 서울시교육청이 진상조사에 나섭니다.",
+          "link": "https://www.edupress.kr/news/articleView.html?idxno=30321"
+        },
+        {
+          "title": "진보 교육과 청소년 보수화",
+          "desc": "진보 교육을 받은 아이들이 보수화되는 현상에 대한 우려를 다룹니다.",
+          "link": "https://www.edupress.kr/news/articleView.html?idxno=30320"
+        },
+        {
+          "title": "서이초 교사 추모 공간 조성",
+          "desc": "서이초 교사 사망 3주기를 맞아 서울시교육청이 추모 공간 조성을 추진합니다.",
+          "link": "https://www.edupress.kr/news/articleView.html?idxno=30319"
+        },
+        {
+          "title": "교권보호, 현장 변화는?",
+          "desc": "서이초 사건 이후 교권보호 대책에도 현장 교사들의 변화 체감을 묻습니다.",
+          "link": "https://www.edupress.kr/news/articleView.html?idxno=30318"
+        },
+        {
+          "title": "교권보호국, 본질에 집중",
+          "desc": "교권보호국 논란 속에서 형식보다 실질적인 변화가 중요함을 강조합니다.",
+          "link": "https://www.edupress.kr/news/articleView.html?idxno=30316"
+        }
+      ]
+    }
+  ],
+  "createdAt": "2026-07-02T20:52:02.967Z"
+}
