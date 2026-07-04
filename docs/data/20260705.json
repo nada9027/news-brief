@@ -1,0 +1,108 @@
+{
+  "date": "20260705",
+  "categories": [
+    {
+      "category": "경제·시사",
+      "icon": "💰",
+      "en": "Economy & Current Affairs",
+      "summary": "최근 로또 당첨 소식부터 글로벌 기업의 전략 변화, 부동산 법률 상식, 그리고 주식 시장의 큰 변동성까지 다양한 경제 뉴스가 이어지고 있습니다. 특히 애플이 인공지능 시대 메모리 부족으로 중국산 부품까지 고려하는 모습은 글로벌 공급망의 복잡성을 보여줍니다.",
+      "insight": "이러한 뉴스를 통해 아이들에게 경제는 우리 삶과 밀접하며, 글로벌 시장의 변화가 우리 생활에 어떤 영향을 미치는지 함께 이야기 나눠볼 수 있습니다.",
+      "articles": [
+        {
+          "title": "로또 1등 17명, 16억씩",
+          "desc": "1231회 로또 1등 당첨자가 17명이며, 각 16억 원을 받는다.",
+          "link": "https://www.donga.com/news/Economy/article/all/20260704/134236032/1"
+        },
+        {
+          "title": "애플, 中 메모리 사용",
+          "desc": "AI 열풍으로 메모리 부족 심화, 애플이 중국산 메모리까지 사용하며 부품 가격을 낮추려 한다.",
+          "link": "https://www.donga.com/news/Economy/article/all/20260704/134235925/1"
+        },
+        {
+          "title": "전월세 갱신계약 해지",
+          "desc": "전월세 갱신계약서 작성 후 중도해지 가능 여부는 계약갱신요구권 행사 여부에 따라 달라진다.",
+          "link": "https://www.donga.com/news/Economy/article/all/20260703/134229713/2"
+        },
+        {
+          "title": "독일차 업계 구조조정",
+          "desc": "독일 자동차 업계가 실적 부진으로 보너스 삭감, 인력 감축 등 구조조정에 나섰다.",
+          "link": "https://www.donga.com/news/Economy/article/all/20260703/134229404/1"
+        },
+        {
+          "title": "코스피 변동성 심화",
+          "desc": "최근 코스피 변동성이 극심하며 서킷브레이커 발동이 잦았으나, 일부는 낙관론을 유지한다.",
+          "link": "https://www.donga.com/news/Economy/article/all/20260704/134235359/1"
+        }
+      ]
+    },
+    {
+      "category": "AI 뉴스",
+      "icon": "🤖",
+      "en": "AI News",
+      "summary": "최근 AI 기술 관련 시장에서 변화의 조짐이 보입니다. AI 토큰 지출 지수가 처음으로 하락하며 AI 시장의 거품 붕괴 또는 수요 조정에 대한 다양한 의견이 나오고 있습니다. 한편, 기업들은 AI 모델을 직접 서비스하거나 사내에 AI 챗봇을 도입하여 업무 효율을 높이는 등 AI 기술을 적극적으로 활용하고 있으며, 수학 증명과 코드 검증에 특화된 새로운 AI 모델도 등장하여 AI 기술이 더욱 전문화되고 있음을 보여줍니다.",
+      "insight": "AI 기술이 우리 생활과 산업 전반에 깊숙이 들어오고 있으며, 아이들이 미래 사회에서 AI를 이해하고 활용할 수 있도록 기초적인 AI 소양 교육의 중요성이 더욱 커지고 있습니다.",
+      "articles": [
+        {
+          "title": "AI 토큰 지출 지표 하락",
+          "desc": "AI 토큰 지출 지수가 처음 하락하여 AI 거품 붕괴와 수요 조정 등 다양한 해석이 나오고 있습니다.",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=212434"
+        },
+        {
+          "title": "젠슨 황 재킷 경매 등장",
+          "desc": "엔비디아 젠슨 황 CEO의 가죽 재킷이 소더비 경매에 나와 9천만원에 낙찰될 것으로 예상됩니다.",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=212433"
+        },
+        {
+          "title": "메타, 클로드 직접 서비스",
+          "desc": "메타가 앤트로픽의 AI 모델 클로드를 직접 서비스하며 클라우드 시장 진입을 준비하고 있습니다.",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=212432"
+        },
+        {
+          "title": "엔라이튼, AI 챗봇 도입",
+          "desc": "에너지 IT 기업 엔라이튼이 사내 업무 효율을 높이는 AI 챗봇 '엔튼이'를 도입했습니다.",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=212431"
+        },
+        {
+          "title": "미스트랄, 수학 특화 AI 공개",
+          "desc": "미스트랄 AI가 수학 증명과 코드 검증에 특화된 오픈소스 AI 모델 '린스트랄 1.5'를 출시했습니다.",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=212428"
+        }
+      ]
+    },
+    {
+      "category": "교육 뉴스",
+      "icon": "🏫",
+      "en": "Education News",
+      "summary": "최근 고교 야구대회에서 발생한 지역 비하 응원 논란은 학생들의 인성 교육과 스포츠맨십의 중요성을 다시 한번 생각하게 합니다. 한편, 서이초 교사 사망 3주기를 맞아 추모 공간 조성이 추진되는 가운데, 교권 보호를 위한 정책들이 실제 교육 현장에 얼마나 긍정적인 변화를 가져왔는지에 대한 성찰이 요구됩니다. 또한, 교육의 방향성과 학생들이 형성하는 가치관에 대한 고민도 깊어지고 있습니다.",
+      "insight": "우리 아이들에게 올바른 가치관과 존중의 태도를 가르치고, 교사들이 안정적인 교육 환경에서 아이들을 지도할 수 있도록 교권 보호 정책의 실효성을 높이는 데 우리 모두의 관심과 노력이 필요합니다.",
+      "articles": [
+        {
+          "title": "고교 야구대회 지역비하",
+          "desc": "배재고가 야구대회에서 광주일고를 조롱해 서울시교육청이 진상조사를 시작합니다.",
+          "link": "https://www.edupress.kr/news/articleView.html?idxno=30321"
+        },
+        {
+          "title": "진보교육 받은 아이들 보수화?",
+          "desc": "진보 교육을 받은 학생들이 보수화되는 현상에 대한 의문을 제기합니다.",
+          "link": "https://www.edupress.kr/news/articleView.html?idxno=30320"
+        },
+        {
+          "title": "서이초 교사 추모 공간 조성",
+          "desc": "서이초 교사 사망 3주기를 맞아 서울시교육청이 추모 공간 조성을 추진합니다.",
+          "link": "https://www.edupress.kr/news/articleView.html?idxno=30319"
+        },
+        {
+          "title": "교권보호 대책, 현장 변화는?",
+          "desc": "서이초 사건 이후 교권보호 대책에도 현장 교사들의 변화를 묻습니다.",
+          "link": "https://www.edupress.kr/news/articleView.html?idxno=30318"
+        },
+        {
+          "title": "교권보호국, 본질이 중요",
+          "desc": "교권보호국 신설 논란 속에서 이름보다 실질적인 변화가 중요하다고 강조합니다.",
+          "link": "https://www.edupress.kr/news/articleView.html?idxno=30316"
+        }
+      ]
+    }
+  ],
+  "createdAt": "2026-07-04T20:51:55.530Z"
+}
