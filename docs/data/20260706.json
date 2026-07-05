@@ -1,0 +1,108 @@
+{
+  "date": "20260706",
+  "categories": [
+    {
+      "category": "경제·시사",
+      "icon": "💰",
+      "en": "Economy & Current Affairs",
+      "summary": "최근 고물가, 고금리 등의 영향으로 기업들이 어려움을 겪으며 회생 신청이나 파산하는 경우가 크게 늘고 있습니다. 대형마트 홈플러스나 유명 악기 회사 등 오랜 역사를 가진 기업들도 예외 없이 위기에 처했으며, 경제는 성장해도 일자리는 늘지 않는 '고용 없는 성장'에 대한 우려도 커지고 있습니다.",
+      "insight": "아이들에게 기업의 역할과 경제 상황 변화가 우리 삶에 미치는 영향을 설명하며 경제적 안목을 길러줄 기회로 삼을 수 있습니다.",
+      "articles": [
+        {
+          "title": "기업 회생신청 급증",
+          "desc": "고물가·고금리로 기업 회생 신청이 3년새 두 배 늘었습니다.",
+          "link": "https://www.donga.com/news/Economy/article/all/20260706/134240846/2"
+        },
+        {
+          "title": "고용 없는 성장 우려",
+          "desc": "경제는 성장해도 일자리는 줄어드는 '고용 없는 성장'이 걱정됩니다.",
+          "link": "https://www.donga.com/news/Economy/article/all/20260706/134240849/2"
+        },
+        {
+          "title": "유명 기업 줄파산",
+          "desc": "악기·전동차 등 유명 기업들이 빚을 못 견뎌 회생 신청했습니다.",
+          "link": "https://www.donga.com/news/Economy/article/all/20260706/134240859/2"
+        },
+        {
+          "title": "기업 회생과 M&A",
+          "desc": "회생 신청 기업 중 M&A로 살아나기도 하지만, 실패하는 곳도 많습니다.",
+          "link": "https://www.donga.com/news/Society/article/all/20260706/134240857/2"
+        },
+        {
+          "title": "홈플러스 파산 기로",
+          "desc": "홈플러스가 2주 안에 2000억 원을 못 구하면 파산할 위기입니다.",
+          "link": "https://www.donga.com/news/Society/article/all/20260706/134240855/2"
+        }
+      ]
+    },
+    {
+      "category": "AI 뉴스",
+      "icon": "🤖",
+      "en": "AI News",
+      "summary": "최근 AI 기술이 빠르게 발전하면서, AI의 성능뿐만 아니라 '신뢰성'과 안전한 사용에 대한 중요성이 커지고 있어요. 기업들은 여러 AI 모델을 유연하게 활용하려 하지만, 이를 효과적으로 관리하는 데 어려움을 겪기도 합니다. 또한, 국내에서는 AI 인프라 확충에 큰 투자가 이루어지고 있으며, 새로운 AI 영상 생성 기술이나 AI 평가 플랫폼의 성공 사례도 계속 나오고 있습니다.",
+      "insight": "AI 기술의 발전 속도가 매우 빠르므로, 아이들이 AI를 단순히 사용하는 것을 넘어, AI의 신뢰성과 윤리적 사용, 그리고 다양한 AI 도구를 현명하게 선택하고 관리하는 방법을 이해하도록 돕는 교육이 중요합니다.",
+      "articles": [
+        {
+          "title": "AI 신뢰성 전문가 필요",
+          "desc": "AI 발전 위해 신뢰성 논의와 전문가 양성이 중요해요.",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=212448"
+        },
+        {
+          "title": "기업 AI 통제 격차 심화",
+          "desc": "기업들이 여러 AI 모델 쓰지만 관리엔 어려움 겪어요.",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=212446"
+        },
+        {
+          "title": "SKT, AI 데이터센터 구축",
+          "desc": "SKT가 대규모 AI 센터 지어 아시아 허브 목표해요.",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=212447"
+        },
+        {
+          "title": "바이트댄스, AI 영상 출시",
+          "desc": "바이트댄스가 최대 3분 영상 만드는 AI 내놓아요.",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=212441"
+        },
+        {
+          "title": "AI 평가 플랫폼 급성장",
+          "desc": "AI 모델 평가 플랫폼이 상용화 8개월 만에 큰 성공 거뒀어요.",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=212444"
+        }
+      ]
+    },
+    {
+      "category": "교육 뉴스",
+      "icon": "🏫",
+      "en": "Education News",
+      "summary": "최근 교육계는 농촌 학교의 위기 극복을 위한 교사 양성부터, 학교 스포츠맨십 논란, 그리고 교육 이념과 학생들의 가치관 변화에 대한 깊은 고민까지 다양한 이슈에 직면해 있습니다. 특히 서이초 교사 사망 3주기를 맞아 추모 공간 조성과 함께 교권 보호 정책의 실질적인 변화에 대한 성찰이 이어지고 있습니다. 이러한 논의들은 우리 교육 현장의 당면 과제들을 다시 한번 돌아보게 합니다.",
+      "insight": "교사들은 농촌 교육의 미래, 학생들의 올바른 가치관 형성, 그리고 교권 보호의 실질적 진전을 위해 끊임없이 고민하고 행동해야 할 시점입니다.",
+      "articles": [
+        {
+          "title": "농촌교사 양성 필요성",
+          "desc": "농촌교육 위기 극복 위해 교사 양성 및 역할 논의.",
+          "link": "https://www.edupress.kr/news/articleView.html?idxno=30322"
+        },
+        {
+          "title": "고교 야구대회 지역비하",
+          "desc": "배재고의 지역비하 응원 논란, 교육청 진상조사.",
+          "link": "https://www.edupress.kr/news/articleView.html?idxno=30321"
+        },
+        {
+          "title": "진보교육과 보수화 논란",
+          "desc": "진보 교육받은 학생들이 보수화된 현상에 의문 제기.",
+          "link": "https://www.edupress.kr/news/articleView.html?idxno=30320"
+        },
+        {
+          "title": "서이초 교사 추모 공간",
+          "desc": "서이초 교사 3주기 맞아 추모 공간 조성 검토.",
+          "link": "https://www.edupress.kr/news/articleView.html?idxno=30319"
+        },
+        {
+          "title": "교권보호, 무엇이 달라졌나",
+          "desc": "서이초 사건 후 교권 보호 노력에도 현장 변화 의문.",
+          "link": "https://www.edupress.kr/news/articleView.html?idxno=30318"
+        }
+      ]
+    }
+  ],
+  "createdAt": "2026-07-05T20:51:56.684Z"
+}
