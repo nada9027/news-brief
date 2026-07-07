@@ -1,0 +1,142 @@
+{
+  "date": "20260708",
+  "categories": [
+    {
+      "category": "경제·시사",
+      "icon": "💰",
+      "en": "Economy & Current Affairs",
+      "summary": "삼성전자가 올해 2분기에 전 세계 기업 중 가장 많은 영업이익을 기록하며 반도체 시장에서의 강력한 위치를 보여주었습니다. 인공지능(AI) 기술 발전 덕분에 메모리 반도체 수요가 폭발적으로 늘어 이익이 크게 증가했지만, 예상과 달리 주가는 하락하여 시장의 복잡한 상황을 드러냈습니다. 이는 기업의 실적과 주식 시장의 흐름이 항상 같지 않다는 것을 보여줍니다.",
+      "insight": "아이들에게 경제 뉴스를 설명할 때, 기업의 실적이 좋다고 해서 주가가 반드시 오르는 것은 아니며, 다양한 요인이 시장에 영향을 미친다는 점을 함께 이야기해주는 것이 중요합니다.",
+      "articles": [
+        {
+          "title": "삼성전자 영업익 세계 1위",
+          "desc": "2분기 89조원 영업이익, 엔비디아 넘어 세계 최고.",
+          "link": "https://www.donga.com/news/Economy/article/all/20260708/134255372/2"
+        },
+        {
+          "title": "코스피, 삼성전자 실적에도 하락",
+          "desc": "삼성전자 최대 실적에도 코스피 4.9% 급락.",
+          "link": "https://www.donga.com/news/Economy/article/all/20260708/134255376/2"
+        },
+        {
+          "title": "반도체 피크아웃 논란 재연",
+          "desc": "삼성전자 주가 급락에 반도체 정점론 다시 부상.",
+          "link": "https://www.donga.com/news/Economy/article/all/20260708/134255367/2"
+        },
+        {
+          "title": "삼성전자, AI 반도체로 승승장구",
+          "desc": "AI 인프라 확산에 메모리 반도체 불티나게 팔려.",
+          "link": "https://www.donga.com/news/Economy/article/all/20260708/134255342/2"
+        },
+        {
+          "title": "메모리 3사 영업이익률 80% 육박",
+          "desc": "메모리 3사, 2분기 영업이익률 75~80% 달성 전망.",
+          "link": "https://www.donga.com/news/Economy/article/all/20260708/134255339/2"
+        }
+      ]
+    },
+    {
+      "category": "AI 뉴스",
+      "icon": "🤖",
+      "en": "AI News",
+      "summary": "최근 AI 기술이 빠르게 발전하며 다양한 분야에서 활용되고 있습니다. AI가 간단한 게임부터 복잡한 3D 게임까지 만들고, 국방 분야에서 무기를 제어하는 단계까지 나아가고 있습니다. 또한, 구글은 사용자의 검색 기록을 AI 학습에 활용하고, 일부 AI 모델에서는 인간의 의식과 유사한 정보 처리 방식이 발견되기도 했습니다.",
+      "insight": "아이들에게 AI의 다양한 활용 가능성과 함께, 개인 정보 보호 및 AI 윤리에 대한 중요성을 교육해야 할 시점입니다.",
+      "articles": [
+        {
+          "title": "업스테이지 AI, 게임 개발",
+          "desc": "AI가 간단한 게임부터 3D 게임까지 만듭니다.",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=212517"
+        },
+        {
+          "title": "네이버, 국방 AI 개발 협력",
+          "desc": "네이버가 KAI와 함께 국방 AI를 개발합니다.",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=212516"
+        },
+        {
+          "title": "텐센트, 새 AI 모델 공개",
+          "desc": "텐센트가 작지만 강력한 AI 모델을 공개했습니다.",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=212492"
+        },
+        {
+          "title": "구글, AI 학습에 개인 정보 활용",
+          "desc": "구글이 사용자 검색 기록을 AI 학습에 씁니다.",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=212488"
+        },
+        {
+          "title": "AI에서 인간 의식 유사 기능 발견",
+          "desc": "AI에서 인간 의식과 비슷한 기능이 발견됐습니다.",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=212502"
+        }
+      ]
+    },
+    {
+      "category": "AI·테크 논문",
+      "icon": "📄",
+      "en": "Research · AI Times KR",
+      "summary": "최근 AI 기술은 로봇처럼 움직이는 AI가 복잡한 환경을 이해하고 정확히 행동하는 방법, 그리고 정보가 부족할 때 AI가 스스로 판단하여 도움을 받는 기술 등 다양한 방향으로 발전하고 있습니다. 또한, 과학 연구에 필요한 데이터를 AI가 효율적으로 학습할 수 있도록 자동화하는 연구와, 여러 AI가 협력하여 더 나은 문제 해결책을 찾는 방법도 활발히 논의되고 있습니다. 이러한 연구들은 AI가 더욱 똑똑하고 유용하게 활용될 미래를 보여줍니다.",
+      "insight": "미래 교육에서는 AI가 스스로 판단하고 협력하며 문제를 해결하는 능력을 키우는 데 중점을 두어, 아이들이 변화하는 기술 환경에 적응하고 주도적으로 참여할 수 있도록 지도해야 합니다.",
+      "articles": [
+        {
+          "title": "코딩 AI 협력 연구",
+          "desc": "여러 코딩 AI가 협력하여 문제 해결.",
+          "link": "https://arxiv.org/abs/2607.02542"
+        },
+        {
+          "title": "Internal Pluralism and the Limits of Pairwise Comparisons",
+          "desc": "arXiv:2607.02672v1 Announce Type: new Abstract: Local pairwise comparisons are a standard tool for learning how people want decision rules to work, e.g., in participatory design or alignment. However, their use builds in two strong assumptions: that local comparisons are sufficient evidence about ho",
+          "link": "https://arxiv.org/abs/2607.02672"
+        },
+        {
+          "title": "ASK in the Dark: Uncertainty-Gated LLM Assistance under Partial Observability",
+          "desc": "arXiv:2607.02686v1 Announce Type: new Abstract: Reinforcement learning agents operating under partial observability must act on incomplete information, making them natural candidates for guidance from small language models (SLMs) that carry broad reasoning priors. Yet integrating SLM guidance into t",
+          "link": "https://arxiv.org/abs/2607.02686"
+        },
+        {
+          "title": "Automated Data Readiness for Scientific AI",
+          "desc": "arXiv:2607.02771v1 Announce Type: new Abstract: Leadership computing facilities steward large-scale scientific datasets that routinely require substantial transformation before serving as AI training data. However, no existing framework fully unifies automated transformation, readiness assessment, p",
+          "link": "https://arxiv.org/abs/2607.02771"
+        },
+        {
+          "title": "SwarmResearch: Orchestrating Coding Agents for Open-Ended Discovery",
+          "desc": "arXiv:2607.02807v1 Announce Type: new Abstract: Long-running coding agents such as autoresearch can persistently discover optimizations for open-ended problems. However, they tend to converge onto a single high-level approach, then proceed with low-level edits while missing other superior approaches",
+          "link": "https://arxiv.org/abs/2607.02807"
+        }
+      ]
+    },
+    {
+      "category": "교육 뉴스",
+      "icon": "🏫",
+      "en": "Education News",
+      "summary": "우리 공교육의 문해력 위기가 심각하며, 대법원은 교사의 정당한 훈계를 아동학대로 보지 않는다는 판결을 내렸습니다. 한편, 고교 야구부의 부적절한 행동으로 인한 5.18 조롱 논란에 대해 해당 학교가 사과하고 교육 당국이 진상조사에 나서는 등 학생 인성 교육의 중요성이 부각되었습니다. 또한, 농촌 지역 교육의 위기와 교사 양성의 필요성도 논의되고 있습니다.",
+      "insight": "교사",
+      "articles": [
+        {
+          "title": "[장덕진칼럼] 문해력 위기, 결과가 아닌 ‘근본’에서 찾아야 한다",
+          "desc": "대한민국 공교육이 심각한 문해력 위기에 직면해 있다. 정부와 교육계는 독서교육을 강화하고, 어휘력 향상 프로그램을 확대하며, AI 디지털교과서 도입을 준비하는 등 다양한 대책을 내놓고 있다. 그러나 수많은 정책과 프로그램에도 불구하고 교실의 문해력 저하는 좀처럼 개선되지 않고 있다.그 이유는 분명하다. 우리는 지금까지 문해력 위기의 원인을 근본이 아닌 결과에서 찾고 있기 때문이다.흔히 독서량이 부족해서, 어휘력이 약해서, 스마트폰 등 디지털 미디어에 많이 노출돼서 문해력이 떨어졌다고 진단한다. 물론 이러한 요인들은 문해력 저하를 심",
+          "link": "https://www.edupress.kr/news/articleView.html?idxno=30325"
+        },
+        {
+          "title": "대법원 “교사의 훈계는 정서적 아동학대 아냐 .. 현직교사 무죄”",
+          "desc": "에듀프레스 장재훈 기자 = 교사의 훈계나 지적을 아동복지법상 정서적 학대행위로 단정 지을 수 없다는 대법원 판결에 교장교감단체가 환영 입장을 밝혔다. 교사의 말과 행동이 다소 부적절했다는 사실만으로 정서적 학대죄가 성립하는 것은 아니라는 점을 분명히 했다는 점에서 의미 있는 판결로 받아들였다.7일 교육계에 따르면 대법원 1부(주심 신숙희 대법관)는 아동복지법위반 혐의로 기소된 초등학교 교사 A씨에 대해 유죄를 선고한 2심 판결을 깨고 무죄 취지로 수원지법에 돌려보냈다.2019년 6월 초등학교 담임을 맡은 A 씨는 체육수업 후 같은",
+          "link": "https://www.edupress.kr/news/articleView.html?idxno=30324"
+        },
+        {
+          "title": "배재고, 광주일고 사과 방문 .. “5.18 조롱, 참담하고 부끄러워”",
+          "desc": "에듀프레스 장재훈 기자 = “가야지, 가야지 스타벅스 가야지” 응원 구호로 5.18 조롱 논란을 일으켰던 서울배재고등학교 야구부와 교직원, 학부모들이 6일 광주일고를 찾아 공식 사과했다. 사과 방문에는 정근식 서울시교육감이 동행했으며 이들은 광주일고 방문을 마친 뒤 5.18 민주묘지를 참배했다.배재고 야구부는 이날 발표한 사과문에서 “부적절한 발언과 행동들로 인해 마음의 큰 상처를 입은 광주제일고등학교 선수들과 학부모님, 광주 시민분들께 진심으로 사과드린다”고 밝혔다.이어 “이번 사건으로 저를 포함한 저의 팀 모든 선수들이 진심으로",
+          "link": "https://www.edupress.kr/news/articleView.html?idxno=30323"
+        },
+        {
+          "title": "[특별기획-배움의 들녘에서⑤] 농촌 지역에 뿌리 내릴 교사를 양성하자",
+          "desc": "에듀프레스는 이번 회부터 8차례에 걸쳐 농촌교육을 주제로 한 황윤한 박사(전 광주교대 교육대학원장)의 칼럼을 연재한다. 연재에서는 정부의 농정 정책과 농촌교육의 관계를 시작으로 농촌학교 교사 양성, 교육장과 학교장의 역할, 지역사회와 학교의 협력 등 농촌교육의 주요 과제를 다룰 예정이다. 농촌학교의 위기는 단순히 학생 수 감소의 문제가 아니다. 그것은 지역 공동체의 존속과 직결된 문제이며, 더 나아가 국가 균형발전의 문제이기도 하다.오늘날 많은 농촌 지역은 인구 감소와 청년 유출, 학교 통폐합, 교사 부족이라는 복합적 위기",
+          "link": "https://www.edupress.kr/news/articleView.html?idxno=30322"
+        },
+        {
+          "title": "고교 야구대회서 광주일고 조롱한  배재고... 사과문도 진정성 논란",
+          "desc": "에듀프레스 장재훈 기자 = 서울 배재고가 청룡기 고고야구대회에서 지역비하 응원으로 비판을 받고 있다. 서울시교육청은 30일 배재고에 대한 진상조사 방침을 밝힐 계획으로 알려졌다.교육계 안팎에선 배재고 야구부의 행위와 학교측의 대응에 대한 철저한 진상조사와 재발 방지 등을 통해 학원 스포츠맨십을 바로 잡아야 한다는 주장이 설득력을 얻고 있다.앞서 서울 목동구장에서 열린 제81회 청룡기 고교야구선수권 대회 겸 주말리그 왕중왕 전에서 배재고는 광주일고와 경기에서 일부 학생 선수들이 상대 덕아웃을 향해 “스타벅스 가야지”라는 응원구호를 반",
+          "link": "https://www.edupress.kr/news/articleView.html?idxno=30321"
+        }
+      ]
+    }
+  ],
+  "createdAt": "2026-07-07T20:52:08.345Z"
+}
