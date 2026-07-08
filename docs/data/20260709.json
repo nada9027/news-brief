@@ -1,0 +1,142 @@
+{
+  "date": "20260709",
+  "categories": [
+    {
+      "category": "경제·시사",
+      "icon": "💰",
+      "en": "Economy & Current Affairs",
+      "summary": "최근 인공지능(AI) 기술이 발전하면서 연구나 논문 작성에 AI를 쓰는 경우가 많아지고 있지만, AI를 어디까지 어떻게 써야 할지, 또 썼다면 어디까지 알려야 할지에 대한 고민이 깊어지고 있어요. 한편, 우리나라에서는 미래 산업을 위한 반도체 공장 건설이나 환경을 보호하기 위한 기업의 탄소 배출량 공개, 친환경 수소차 보급 같은 중요한 일들이 진행되고 있답니다.",
+      "insight": "미래 사회의 주역이 될 우리 학생들이 AI 시대의 윤리적 고민과 더불어 환경 보호, 첨단 산업 발전 등 다양한 사회 변화에 관심을 가질 수 있도록 지도하는 것이 중요합니다.",
+      "articles": [
+        {
+          "title": "AI 논문 부정 사용 급증",
+          "desc": "AI 활용 금지 규칙 어긴 논문 대거 탈락.",
+          "link": "https://www.donga.com/news/Economy/article/all/20260709/134263749/2"
+        },
+        {
+          "title": "AI 활용 공개 기준 논의",
+          "desc": "AI 활용 공개 기준 마련 위해 학계 논의 중.",
+          "link": "https://www.donga.com/news/Economy/article/all/20260709/134263418/2"
+        },
+        {
+          "title": "용인 반도체 산단 지연",
+          "desc": "용인 반도체 산단 토지 매입 지연으로 공사 늦어져.",
+          "link": "https://www.donga.com/news/Politics/article/all/20260709/134263675/2"
+        },
+        {
+          "title": "기업 탄소배출량 공시 의무",
+          "desc": "대기업, 2028년부터 탄소배출량 등 ESG 정보 공시.",
+          "link": "https://www.donga.com/news/Economy/article/all/20260709/134263684/2"
+        },
+        {
+          "title": "제주 수소차 지원금 인기",
+          "desc": "제주, 높은 수소차 지원금에 신청자 2배 몰려.",
+          "link": "https://www.donga.com/news/Society/article/all/20260709/134261774/2"
+        }
+      ]
+    },
+    {
+      "category": "AI 뉴스",
+      "icon": "🤖",
+      "en": "AI News",
+      "summary": "최근 인공지능(AI) 기술은 더욱 똑똑하고 효율적으로 발전하고 있습니다. 마이크로소프트 같은 큰 회사들은 자체 AI를 개발해 비용을 줄이고 있으며, AI 스스로가 더 나은 방식으로 작동하도록 개선하는 연구도 활발합니다. 또한, AI가 유리처럼 투명한 물체도 정확히 인식하고, 같은 말을 반복하는 실수를 고치는 기술도 개발되어 AI의 활용 범위가 넓어지고 있습니다.",
+      "insight": "이러한 AI 발전은 우리 아이들이 살아갈 미래 사회의 학습 환경과 직업 세계에 큰 변화를 가져올 것이므로, AI를 이해하고 활용하는 능력을 키우는 교육이 중요합니다.",
+      "articles": [
+        {
+          "title": "MS, 자체 AI 모델 도입",
+          "desc": "MS가 엑셀 등 주요 서비스에 자체 AI를 적용해 비용을 줄입니다.",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=212531"
+        },
+        {
+          "title": "AI, 스스로 개선하는 시대",
+          "desc": "AI가 스스로 작동 방식을 개선하며 더 똑똑해집니다.",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=212539"
+        },
+        {
+          "title": "AI 반복 오류 해결 기술",
+          "desc": "AI가 같은 말을 반복하지 않도록 돕는 기술이 나왔습니다.",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=212545"
+        },
+        {
+          "title": "유리 인식하는 AI 등장",
+          "desc": "AI가 유리나 거울 같은 투명한 물체도 인식합니다.",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=212542"
+        },
+        {
+          "title": "노키아, AI 기업으로 변신",
+          "desc": "휴대폰 회사 노키아가 AI 데이터센터 핵심 기업이 되었습니다.",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=212548"
+        }
+      ]
+    },
+    {
+      "category": "AI·테크 논문",
+      "icon": "📄",
+      "en": "Research · AI Times KR",
+      "summary": "최근 인공지능 기술은 논문 자동 생성, 3D 디자인 제작, 스토리텔링 지원 등 다양한 분야에서 발전하고 있습니다. 특히 교육 현장에서 AI 튜터 활용 시 개인정보 보호나 비용 문제에 대한 고민이 필요하며, AI가 생성하는 정보의 정확성과 출처 확인의 중요성도 강조됩니다. AI의 작동 원리를 이해하고 올바르게 활용하는 것이 중요해지고 있습니다.",
+      "insight": "교사들은 AI 기술의 발전이 가져올 교육적 활용 가능성과 함께, 정보의 신뢰성 및 개인정보 보호와 같은 윤리적 측면을 학생들에게 지도할 준비를 해야 합니다.",
+      "articles": [
+        {
+          "title": "AI 논문 자동 생성",
+          "desc": "AI가 논문을 만들지만 출처 확인이 중요해요.",
+          "link": "https://arxiv.org/abs/2607.05456"
+        },
+        {
+          "title": "AI 작동 원리 이해",
+          "desc": "AI가 왜 그렇게 작동하는지 설명하는 연구예요.",
+          "link": "https://arxiv.org/abs/2607.05563"
+        },
+        {
+          "title": "초등 AI 튜터 고민",
+          "desc": "작은 AI 모델이 교육용 튜터로 가능할까요?",
+          "link": "https://arxiv.org/abs/2607.05571"
+        },
+        {
+          "title": "AI 3D 디자인 생성",
+          "desc": "AI가 말로 3D 디자인을 만들어줘요.",
+          "link": "https://arxiv.org/abs/2607.05573"
+        },
+        {
+          "title": "AI 소설 작가 지원",
+          "desc": "AI가 복잡한 소설 쓰기를 도와줘요.",
+          "link": "https://arxiv.org/abs/2607.05577"
+        }
+      ]
+    },
+    {
+      "category": "교육 뉴스",
+      "icon": "🏫",
+      "en": "Education News",
+      "summary": "이번 주 교육계는 재외한국학교의 글로벌 교육실습 도전, 제자 사랑으로 순직한 이경종 선생님의 숭고한 정신, 그리고 지역추천 교육장 공모제에 대한 기대 등 다양한 소식으로 가득했습니다. 또한, 스마트폰 사용 제한 정책인 '폰 프리 스쿨'과 교육재정교부금 개편 논의 등 교육 현장의 중요한 정책 이슈들도 다루어졌습니다. 이 뉴스들은 미래 교육 방향과 교사의 역할, 교육 행정의 투명성에 대한 깊은 고민을 던져줍니다.",
+      "insight": "급변하는 교육 환경 속에서 교사들은 미래 교육을 위한 국제적 역량 강화, 학생과의 깊은 유대 형성, 그리고 교육 정책 변화에 대한 이해를 통해 교육 현장의 주체로서 적극적으로 참여해야 합니다.",
+      "articles": [
+        {
+          "title": "재외한국학교, 교육 지평 확장",
+          "desc": "AI 시대, 재외한국학교가 글로벌 교육 실습을 통해 미래 교육을 준비합니다.",
+          "link": "https://www.edupress.kr/news/articleView.html?idxno=30330"
+        },
+        {
+          "title": "울릉 참스승 이경종 정신",
+          "desc": "1976년 제자 구하다 순직한 이경종 선생님의 숭고한 희생정신을 기립니다.",
+          "link": "https://www.edupress.kr/news/articleView.html?idxno=30329"
+        },
+        {
+          "title": "지역추천 교육장 공모제",
+          "desc": "밀실 행정 비판 속, 교육 현장의 리더 선출 투명성을 강조합니다.",
+          "link": "https://www.edupress.kr/news/articleView.html?idxno=30328"
+        },
+        {
+          "title": "폰 프리 스쿨, 자율 조절",
+          "desc": "스마트폰 제한 정책보다 학생 스스로 조절하는 교육이 중요합니다.",
+          "link": "https://www.edupress.kr/news/articleView.html?idxno=30327"
+        },
+        {
+          "title": "교육교부금 개편 논의",
+          "desc": "지방교육재정교부금 법정 교부율 유지 여부를 두고 교육계와 정부가 논쟁합니다.",
+          "link": "https://www.edupress.kr/news/articleView.html?idxno=30326"
+        }
+      ]
+    }
+  ],
+  "createdAt": "2026-07-08T20:52:08.160Z"
+}
