@@ -1,0 +1,142 @@
+{
+  "date": "20260710",
+  "categories": [
+    {
+      "category": "경제·시사",
+      "icon": "💰",
+      "en": "Economy & Current Affairs",
+      "summary": "최근 뉴스에서는 해발 6700m에 사는 안데스생쥐의 특별한 생존 방식처럼 자연의 신비로운 적응력부터, 주요 산업(반도체)의 핵심 인프라(물) 문제와 투기 방지 노력까지 다양한 소식을 전하고 있습니다. 특히 주택 시장에서는 은행의 대출 규제 강화로 주택 구매자들이 어려움을 겪고 있으며, 규제지역 지정이 오히려 단기적인 집값 상승을 유발하는 등 복합적인 경제 현상이 나타나고 있습니다.",
+      "insight": "교사로서 우리 사회의 경제와 환경 변화를 이해하고, 학생들이 주변의 다양한 현상에 관심을 갖도록 지도하며 합리적인 의사결정 능력을 키우는 데 활용할 수 있습니다.",
+      "articles": [
+        {
+          "title": "안데스생쥐의 생존 비결",
+          "desc": "고산지대 쥐가 근육 속 지방 태워 추위 견뎌.",
+          "link": "https://www.donga.com/news/It/article/all/20260710/134269940/2"
+        },
+        {
+          "title": "광주 반도체 물 인프라",
+          "desc": "광주 반도체 팹, 물 공급 인프라 확충 필요.",
+          "link": "https://www.donga.com/news/Economy/article/all/20260710/134271268/2"
+        },
+        {
+          "title": "광주 팹 투기 방지",
+          "desc": "광주 반도체 부지, 토지거래허가구역 지정.",
+          "link": "https://www.donga.com/news/Economy/article/all/20260710/134271270/2"
+        },
+        {
+          "title": "주택 대출 규제 강화",
+          "desc": "은행들 주담대 한도 축소, 주택 구매자 한숨.",
+          "link": "https://www.donga.com/news/Economy/article/all/20260710/134270975/2"
+        },
+        {
+          "title": "규제지역 집값 상승",
+          "desc": "구리-기흥, 규제 후 집값 오히려 올라.",
+          "link": "https://www.donga.com/news/Economy/article/all/20260710/134270972/2"
+        }
+      ]
+    },
+    {
+      "category": "AI 뉴스",
+      "icon": "🤖",
+      "en": "AI News",
+      "summary": "최근 AI 기술은 초거대 모델 개발과 함께 스마트 안경, 이미지 생성 등 다양한 분야로 빠르게 확장되고 있습니다. 하지만 이 과정에서 사생활 침해나 저작권 문제와 같은 윤리적 논란도 동시에 불거지고 있어, AI 기술의 발전과 함께 책임 있는 사용에 대한 교육의 중요성이 커지고 있습니다. 미래에는 AI가 더욱 고도화되어 소프트웨어 개발 도구로 활용되거나 기존의 복잡한 시스템을 대체할 것이라는 전망도 나옵니다.",
+      "insight": "교사들은 AI 기술의 빠른 발전과 그에 따른 윤리적, 사회적 문제들을 이해하고, 학생들에게 AI의 긍정적 활용과 책임감 있는 디지털 시민 역량을 길러줄 필요가 있습니다.",
+      "articles": [
+        {
+          "title": "미니맥스, 2.7조 매개변수 차세대 LLM 개발…중국 역대 최대 규모",
+          "desc": "미니맥스가 중국 기업 가운데 최대 규모인 2조7000억 매개변수를 갖춘 대형언어모델(LLM)을 이르면 3분기 공개할 것으로 알려졌다. 계획대로 출시되면 세계 최대 수준의 오픈웨이트 AI 모델 가운데 하나가 될 전망이다.8일(현지시간) 디 인포메이션에 따르면, 미니맥스는 내부적으로 'M3 프로(Pro)'라는 이름으로 차세대 초거대 AI 모델을 개발하고 있다.정식 출시 시에도 같은 명칭을 사용할지는 결정되지 않았으며, 모델은 오픈소스 형태로 공개하는 방안을 추진 중인 것으로 전해졌다.이는 현재 미니맥스의 대표 모델인 4280억 매개변수",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=212584"
+        },
+        {
+          "title": "메타, 촬영 시 LED 꺼지는 '슈퍼 센싱' AI 안경 테스트 중…사생활 침해 논란",
+          "desc": "메타가 카메라와 마이크를 통해 착용자의 일상을 하루 종일 기록하는 차세대 AI 스마트 안경 '슈퍼 센싱(Super Sensing)' 기능을 시험 중인 것으로 알려졌다. 사용자의 행동과 주변 환경을 지속적으로 인식해 기억을 보조하는 것이 목표지만, 촬영 여부를 알리는 LED 표시등을 끄는 방안까지 검토하는 것으로 전해졌다.8일(현지시간) 파이낸셜타임스에 따르면, 메타는 현재 카메라와 오디오 녹음을 상시 활성화하는 스마트 안경 프로토타입을 개발하고 있다.이 기능은 몇초 간격으로 사진을 촬영하고 주변 음성을 지속적으로 수집한다. 이를 통",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=212571"
+        },
+        {
+          "title": "메타 '뮤즈 이미지', 인스타 사진 무단 도용 논란",
+          "desc": "메타가 공개한 차세대 이미지 모델 '뮤즈 이미지(Muse Image)'가 다른 인스타그램 사용자의 사진을 별도 동의 없이 AI 생성에 활용할 수 있는 것으로 알려지며 논란이 일고 있다.메타는 7일(현지시간) 슈퍼인텔리전스 랩스(Meta Superintelligence Labs)가 개발한 첫 AI 이미지 생성 모델인 '뮤즈 이미지'를 공개했다. 이 모델은 메타 AI 앱을 비롯해 인스타그램 스토리와 왓츠앱에서 무료로 사용할 수 있으며, 앞으로 페이스북과 메신저에도 적용될 예정이다.뮤즈 이미지는 텍스트 프롬프트만으로 이미지를 생성하거나",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=212586"
+        },
+        {
+          "title": "퍼플렉시티, AI 코딩 시장 노린다...'프로젝트 전담' AI 도구 구축 중",
+          "desc": "퍼플렉시티가 소프트웨어 개발 전 과정을 관리하고 버그 탐지와 수정까지 수행하는 새로운 AI 엔지니어링 도구를 개발 중인 것으로 알려졌다. 검색 서비스 중심이었던 퍼플렉시티가 AI 코딩 시장으로 사업 영역을 확장하려는 움직임으로 해석된다.8일(현지시간) 비즈니스 인사이더에 따르면, 퍼플렉시티는 현재 '팀메이트(Teammate)'라는 코드명의 AI 개발 도구를 사내에서 운영하고 있다.개발자들은 지난 5월부터 이를 실제 업무에 활용 중이다. 아직 외부 공개 일정은 확정되지 않았지만, 출시되면 AI 코딩 시장에서 커서나 오픈AI, 앤트로픽",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=212590"
+        },
+        {
+          "title": "구글 이어 오픈AI도 '하네스 무용론'...\"차세대 모델이 기능 흡수할 것\"",
+          "desc": "구글에 이어 오픈AI도 AI 애플리케이션 개발에서 '하네스(Harness)'의 가치가 빠르게 줄어들 것이라는 입장을 내놨다. 차세대 모델이 자체적으로 더 많은 기능을 수행하면서, 모델 위에 구축하는 소프트웨어 계층의 역할은 점차 줄어들 것이라는 전망이다.노엄 브라운 오픈AI 리서치 부사장은 서울에서 열린 ‘국제머신러닝학회(ICML) 2026’에 참가, 하네스를 가능한 단순하게 유지해야 한다고 조언했다.그는 8일(현지시간) 공개된 디 인포메이션과의 인터뷰에서 \"몇달 안에 등장할 차세대 모델이 현재 사용되는 하네스 대부분을 쓸모없게 만",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=212582"
+        }
+      ]
+    },
+    {
+      "category": "AI·테크 논문",
+      "icon": "📄",
+      "en": "Research · AI Times KR",
+      "summary": "최근 인공지능 분야에서는 코딩 에이전트의 평가 방식을 개선하고, 대규모 언어 모델(LLM)이 스스로 학습하고 추론하는 능력을 심화하는 연구가 활발합니다. 특히 LLM을 활용하여 복잡한 사회 현상을 모델링하거나 자율 시스템의 의사결정 능력을 향상시키는 등 다양한 분야에서 AI의 활용 가능성을 넓히고 있습니다. 또한, AI가 추상적인 문제를 해결하고 새로운 상황에 적용하는 능력을 효율적으로 개발하는 방안도 모색되고 있습니다.",
+      "insight": "이러한 연구들은 AI가 단순히 주어진 작업을 수행하는 것을 넘어, 스스로 생각하고 학습하며 복잡한 문제를 해결하는 방향으로 발전하고 있음을 보여주며, 미래 교육에서 AI 활용 및 AI 리터러시 교육의 중요성을 시사합니다.",
+      "articles": [
+        {
+          "title": "AgentLens: Production-Assessed Trajectory Reviews for Coding Agent Evaluation",
+          "desc": "arXiv:2607.06624v1 Announce Type: new Abstract: We present AgentLens, a production-assessed benchmark for interactive code agents. Most code-agent benchmarks reduce a run to a single bit -- did the task pass? -- but the people who actually use these agents experience the entire trajectory: how the a",
+          "link": "https://arxiv.org/abs/2607.06624"
+        },
+        {
+          "title": "When Does In-Context Search Help? A Sampling-Complexity Theory of Reflection-Driven Reasoning",
+          "desc": "arXiv:2607.06720v1 Announce Type: new Abstract: Training large language models (LLMs) with extended reasoning has enabled in-context search, in which models iteratively generate, critique, and revise solution attempts. We provide a theoretical analysis of in-context search by modeling it as approxim",
+          "link": "https://arxiv.org/abs/2607.06720"
+        },
+        {
+          "title": "LLM-powered reasoning in agent-based modeling",
+          "desc": "arXiv:2607.06757v1 Announce Type: new Abstract: Agent-based modeling (ABM) has the capability to model millions of individuals and their interactions, which is useful for policy making. However, ABMs have traditionally relied on static prior, which prevents the models from adapting to real-time chan",
+          "link": "https://arxiv.org/abs/2607.06757"
+        },
+        {
+          "title": "QANTIS: Hardware-Calibrated Sequential POMDP Belief Updates on IBM Heron",
+          "desc": "arXiv:2607.06760v1 Announce Type: new Abstract: Autonomous systems under partial observability act on beliefs, not raw sensor events. QANTIS treats the quantum processor as a calibrated belief-update service in that loop: it receives a prior and an observation model, estimates the rare-event evidenc",
+          "link": "https://arxiv.org/abs/2607.06760"
+        },
+        {
+          "title": "Cost-Effective Agent Harnesses for Abstract Reasoning and Generalization on ARC-AGI-1",
+          "desc": "arXiv:2607.06764v1 Announce Type: new Abstract: Recent progress on ARC-AGI-1 from disclosed architectures has come broadly from two regimes: heavy test-time compute over frontier models (evolutionary search, exhaustive sampling, extended chain-of-thought), or benchmark-specific training in which sma",
+          "link": "https://arxiv.org/abs/2607.06764"
+        }
+      ]
+    },
+    {
+      "category": "교육 뉴스",
+      "icon": "🏫",
+      "en": "Education News",
+      "summary": "서울온라인학교는 AI 시대에 필요한 사고력과 질문하는 힘을 기르는 쌍방향 온라인 수업을 통해 미래 교육의 가능성을 보여주고 있습니다. 또한, 교장 중임보장 폐지 및 선출보직제 도입, 지역추천 교육장 공모제 등 학교 리더십과 교육 행정의 투명성 및 전문성 강화를 위한 논의가 활발합니다. 재외한국학교는 글로벌 교육의 지평을 넓히고 있으며, 제자 사랑을 실천한 참스승의 정신은 교육의 본질적 가치를 되새기게 합니다.",
+      "insight": "이 뉴스들은 미래 교육의 방향성, 학교 리더십의 변화, 글로벌 교육의 중요성, 그리고 교사로서의 숭고한 정신을 다루며 초등학교 교사들이 교육 현장에서 마주할 변화와 본질적 가치에 대해 깊이 성찰할 기회를 제공합니다.",
+      "articles": [
+        {
+          "title": "서울온라인학교 쌍방향 수업",
+          "desc": "AI 시대에 필요한 사고력과 질문하는 힘을 기르는 온라인 수업을 제공합니다.",
+          "link": "https://www.edupress.kr/news/articleView.html?idxno=30332"
+        },
+        {
+          "title": "교장 중임제 폐지 논의",
+          "desc": "교원의 전문성 강화를 위해 교장 중임 폐지 및 선출보직제 도입이 제안되었습니다.",
+          "link": "https://www.edupress.kr/news/articleView.html?idxno=30331"
+        },
+        {
+          "title": "재외한국학교, 글로벌 교육",
+          "desc": "재외한국학교가 국제적 안목을 키우는 글로벌 교육실습을 시범 운영합니다.",
+          "link": "https://www.edupress.kr/news/articleView.html?idxno=30330"
+        },
+        {
+          "title": "참스승 이경종 정신 기려",
+          "desc": "제자들을 구하다 순직한 故 이경종 선생님의 숭고한 희생 정신을 기립니다.",
+          "link": "https://www.edupress.kr/news/articleView.html?idxno=30329"
+        },
+        {
+          "title": "지역추천 교육장 공모제",
+          "desc": "교육 행정의 신뢰를 높일 지역추천 교육장 공모제에 대한 기대가 커집니다.",
+          "link": "https://www.edupress.kr/news/articleView.html?idxno=30328"
+        }
+      ]
+    }
+  ],
+  "createdAt": "2026-07-09T20:52:12.146Z"
+}
