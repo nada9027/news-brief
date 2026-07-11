@@ -1,0 +1,142 @@
+{
+  "date": "20260712",
+  "categories": [
+    {
+      "category": "경제·시사",
+      "icon": "💰",
+      "en": "Economy & Current Affairs",
+      "summary": "최근 은행의 주택담보대출 한도 축소로 내 집 마련을 준비하는 사람들의 걱정이 커지고 있습니다. 한편 삼성과 SK그룹 회장들은 미국에서 반도체 사업을 위한 중요한 활동을 펼쳤고, 로또 1등 당첨 소식도 전해졌습니다. 국민 볼펜 모나미는 상장 폐지 위기를 극복하고 감사 인사를 전해왔습니다.",
+      "insight": "경제 상황 변화와 기업들의 활동이 우리 생활에 미치는 영향을 이해하고, 아이들에게도 쉽고 재미있게 설명해 줄 수 있는 시야를 넓히는 기회가 됩니다.",
+      "articles": [
+        {
+          "title": "주담대 축소, 내 집 마련 불안",
+          "desc": "은행 주택담보대출 한도 축소로 내 집 마련 실수요자들의 불안감이 커지고 있어요.",
+          "link": "https://www.donga.com/news/Economy/article/all/20260711/134279438/1"
+        },
+        {
+          "title": "삼성·SK 회장 미국 출장",
+          "desc": "삼성·SK 회장이 미국에서 반도체 사업을 위해 중요한 만남을 가졌어요.",
+          "link": "https://www.donga.com/news/Economy/article/all/20260711/134279406/1"
+        },
+        {
+          "title": "로또 1등 당첨자 11명",
+          "desc": "제1232회 로또 1등 당첨자 11명이 각각 25억 넘게 받았어요.",
+          "link": "https://www.donga.com/news/Society/article/all/20260711/134279385/1"
+        },
+        {
+          "title": "마샬 스피커 리뷰",
+          "desc": "마샬 액톤3 지미 헨드릭스 에디션 스피커의 디자인과 음질을 평가했어요.",
+          "link": "https://www.donga.com/news/Economy/article/all/20260710/134273980/2"
+        },
+        {
+          "title": "모나미, 상폐 위기 극복 감사",
+          "desc": "상장 폐지 위기였던 모나미가 국민 응원에 힘입어 회생하며 감사 인사를 전했어요.",
+          "link": "https://www.donga.com/news/Economy/article/all/20260711/134279366/1"
+        }
+      ]
+    },
+    {
+      "category": "AI 뉴스",
+      "icon": "🤖",
+      "en": "AI News",
+      "summary": "최근 AI 기술 동향을 보면, 여러 AI 모델을 함께 쓰는 것이 항상 좋은 결과를 가져오지는 않는다는 연구가 나왔습니다. 하지만 구글 검색은 월드컵 같은 큰 이벤트에서 여전히 많은 사람들이 찾는 중요한 정보 창구임을 보여주었고, 캐릭터닷AI는 AI 드라마를 통해 새로운 엔터테인먼트 경험을 제공하고 있습니다. 또한, AI 칩 개발사와 아이폰에서 대규모 AI 모델을 직접 실행하는 기술 발전 소식도 들려옵니다.",
+      "insight": "교실에서 AI를 활용할 때 단순히 여러 도구를 섞어 쓰는 것보다 각 도구의 특성을 이해하고, 학생들이 AI를 정보 탐색과 새로운 콘텐츠 경험에 어떻게 활용할지 지도하는 지혜가 필요합니다.",
+      "articles": [
+        {
+          "title": "AI 모델 조합 한계 연구",
+          "desc": "여러 AI 모델 조합이 항상 효과적이지 않다는 연구 결과가 나왔습니다.",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=212625"
+        },
+        {
+          "title": "구글 검색, 월드컵 최고 트래픽",
+          "desc": "월드컵 결승전 직후 구글 검색 사용량이 역대 최고를 기록했습니다.",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=212658"
+        },
+        {
+          "title": "캐릭터닷AI, 마이크로드라마",
+          "desc": "캐릭터닷AI가 AI 기반 인터랙티브 드라마를 선보였습니다.",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=212661"
+        },
+        {
+          "title": "삼바노바, AI 칩 투자 유치",
+          "desc": "AI 칩 기업 삼바노바가 16조 가치로 대규모 투자를 받았습니다.",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=212662"
+        },
+        {
+          "title": "아이폰서 대규모 AI 모델 구동",
+          "desc": "270억 매개변수 AI 모델이 아이폰에서 성공적으로 구동되었습니다.",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=212656"
+        }
+      ]
+    },
+    {
+      "category": "AI·테크 논문",
+      "icon": "📄",
+      "en": "Research · AI Times KR",
+      "summary": "이 뉴스들은 AI가 스스로 생각하고 행동하는 기술부터 농업, 의료, 정신 건강 등 다양한 분야에서 어떻게 활용될 수 있는지 보여줍니다. 특히 AI가 정보를 분석하고 예측하며, 사람의 건강과 생활을 돕는 중요한 도구로 발전하고 있음을 알 수 있습니다. 또한 AI 시대에 정보의 신뢰성을 어떻게 확보할지에 대한 고민도 담겨 있습니다.",
+      "insight": "미래 사회의 주역인 우리 아이들이 AI의 발전과 함께 정보의 신뢰성을 판단하고 비판적으로 사고하는 능력을 키울 수 있도록 교육해야 합니다.",
+      "articles": [
+        {
+          "title": "능동형 AI 에이전트",
+          "desc": "AI가 사람 질문 없이 스스로 행동하는 기술입니다.",
+          "link": "https://arxiv.org/abs/2607.07721"
+        },
+        {
+          "title": "농업 회복력 AI 모델",
+          "desc": "AI로 농업 공급망 위기를 예측하고 분석합니다.",
+          "link": "https://arxiv.org/abs/2607.07759"
+        },
+        {
+          "title": "인간과 AI의 지식론",
+          "desc": "AI 시대에 정보의 신뢰성을 연구하는 내용입니다.",
+          "link": "https://arxiv.org/abs/2607.07760"
+        },
+        {
+          "title": "의료 AI와 임상 요구",
+          "desc": "의료 분야 AI 활용 현황과 요구사항을 조사합니다.",
+          "link": "https://arxiv.org/abs/2607.07761"
+        },
+        {
+          "title": "의료 AI 신뢰성 기준",
+          "desc": "정신 건강 분야 AI의 신뢰성 확보 방안입니다.",
+          "link": "https://arxiv.org/abs/2607.07766"
+        }
+      ]
+    },
+    {
+      "category": "교육 뉴스",
+      "icon": "🏫",
+      "en": "Education News",
+      "summary": "22대 국회 교육위원회에 여당 중진 의원들이 대거 배치되어 교육 현안에 대한 깊이 있는 논의가 기대됩니다. 한편, 서울강서초는 학부모와 함께 전통문화 체험 축제를 열어 교육공동체 활동의 좋은 사례를 보여주었으며, 서울온라인학교는 시공간을 초월한 쌍방향 수업으로 미래 교육의 방향을 제시하고 있습니다. 교장 임용 제도 개편 논의도 활발하게 진행 중입니다.",
+      "insight": "교육 정책의 변화와 미래 교육 방향에 대한 이해를 높이고, 학부모 참여를 통한 교육 공동체 활성화 방안을 모색해야 합니다.",
+      "articles": [
+        {
+          "title": "국회 교육위, 중진 대거 배치",
+          "desc": "22대 국회 교육위에 여당 중진 의원이 배치되어 교육 현안 논의가 기대됩니다.",
+          "link": "https://www.edupress.kr/news/articleView.html?idxno=30335"
+        },
+        {
+          "title": "서울강서초, 전래야 놀자 축제",
+          "desc": "서울강서초가 학부모와 전래동화, 탈춤 등 전통문화 체험 축제를 열었습니다.",
+          "link": "https://www.edupress.kr/news/articleView.html?idxno=30334"
+        },
+        {
+          "title": "강동송파, 학맞통 지원 연수",
+          "desc": "강동송파교육지원청이 학생 맞춤 통합지원 정책 안착을 위한 연수를 진행합니다.",
+          "link": "https://www.edupress.kr/news/articleView.html?idxno=30333"
+        },
+        {
+          "title": "서울온라인학교, 쌍방향 수업",
+          "desc": "서울온라인학교에서 시공간 제약 없는 쌍방향 온라인 수업이 활발합니다.",
+          "link": "https://www.edupress.kr/news/articleView.html?idxno=30332"
+        },
+        {
+          "title": "교장 중임제 폐지·선출제 검토",
+          "desc": "교원 전문성 강화를 위해 교장 중임제 폐지 및 선출보직제 도입이 제안되었습니다.",
+          "link": "https://www.edupress.kr/news/articleView.html?idxno=30331"
+        }
+      ]
+    }
+  ],
+  "createdAt": "2026-07-11T20:52:01.120Z"
+}
