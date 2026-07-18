@@ -1,0 +1,108 @@
+{
+  "date": "20260719",
+  "categories": [
+    {
+      "category": "경제·시사",
+      "icon": "💰",
+      "en": "Economy & Current Affairs",
+      "summary": "이번 주 경제·시사 뉴스에서는 로또 당첨 소식과 함께 한화의 대규모 해외 수주 소식이 전해졌습니다. 또한, 중고령층의 은퇴 후 소득 공백 문제와 모아주택 전자총회 도입으로 인한 효율 증대, 그리고 골프선수 노승열의 PGA 투어 컷 통과 소식도 있었습니다. 우리 사회의 다양한 경제 활동과 변화의 흐름을 엿볼 수 있는 한 주였습니다.",
+      "insight": "아이들에게 경제 활동의 다양성과 미래 사회의 변화에 대해 이야기하며, 은퇴 후 삶이나 기술 발전이 가져올 변화에 대한 시야를 넓혀줄 수 있습니다.",
+      "articles": [
+        {
+          "title": "로또 1등 당첨번호 공개",
+          "desc": "1233회 로또 1등 번호가 발표되었어요.",
+          "link": "https://www.donga.com/news/Society/article/all/20260718/134320342/1"
+        },
+        {
+          "title": "한화, 美 미사일 계측함 수주",
+          "desc": "한화가 3조원 규모의 미국 미사일 계측선 건조를 수주했어요.",
+          "link": "https://www.donga.com/news/Economy/article/all/20260718/134320300/1"
+        },
+        {
+          "title": "중고령층, 소득 절벽 10년",
+          "desc": "중고령층이 퇴직 후 10년 소득 공백을 겪어요.",
+          "link": "https://www.donga.com/news/Economy/article/all/20260718/134320100/1"
+        },
+        {
+          "title": "모아주택, 전자총회 도입",
+          "desc": "모아주택 사업에 전자총회가 도입되어 효율이 높아져요.",
+          "link": "https://www.donga.com/news/Society/article/all/20260716/134313743/2"
+        },
+        {
+          "title": "노승열, PGA 컷 통과",
+          "desc": "골프선수 노승열이 PGA 챔피언십 컷을 통과했어요.",
+          "link": "https://www.donga.com/news/Sports/article/all/20260718/134319871/1"
+        }
+      ]
+    },
+    {
+      "category": "AI 뉴스",
+      "icon": "🤖",
+      "en": "AI News",
+      "summary": "최근 AI 기술이 빠르게 발전하면서 세계적인 기업들의 시가총액 순위 경쟁이 치열해지고, AI 반도체 시장의 변화가 우리 경제에도 영향을 미치고 있습니다. 특히 스페이스X처럼 AI 기술이 국방 분야에도 활용될 정도로 중요해지면서, 국가 간 AI 기술 경쟁과 보안 문제도 함께 부각되고 있습니다. 새로운 AI 기업들은 엄청난 가치를 인정받으며 빠르게 성장하고 있어요.",
+      "insight": "AI 기술이 경제, 안보 등 사회 전반에 미치는 영향이 커지고 있으므로, 아이들이 미래 사회의 변화를 이해하고 AI 시대에 필요한 역량을 기를 수 있도록 지도해야 합니다.",
+      "articles": [
+        {
+          "title": "애플-엔비디아, 시총 1위 접전",
+          "desc": "애플과 엔비디아가 세계 시총 1위를 두고 치열하게 경쟁 중입니다.",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=212906"
+        },
+        {
+          "title": "반도체발 코스피 급락",
+          "desc": "AI 반도체 성장 둔화 우려로 국내 증시가 크게 하락했습니다.",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=212904"
+        },
+        {
+          "title": "스페이스X, 美 국방부 AI 협상",
+          "desc": "스페이스X가 미 국방부에 AI 데이터센터 제공을 논의 중입니다.",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=212905"
+        },
+        {
+          "title": "中 AI, 美 보안 격차 4개월 단축",
+          "desc": "중국 AI 모델이 미국과의 사이버 보안 격차를 빠르게 줄입니다.",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=212900"
+        },
+        {
+          "title": "딥시크, 기업가치 77조원 확인",
+          "desc": "중국 AI 기업 딥시크의 기업 가치가 77조 원에 달했습니다.",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=212901"
+        }
+      ]
+    },
+    {
+      "category": "교육 뉴스",
+      "icon": "🏫",
+      "en": "Education News",
+      "summary": "최근 교사들의 정서적 지지와 교육 환경 개선을 위한 다양한 노력이 이어지고 있습니다. 성북강북교육지원청은 교사 힐링 콘서트를 열어 동료 교사 간 유대감을 높였고, 서부교육지원청은 학부모 대상 자녀 마음건강 컨설팅으로 학생들의 정서적 안정에 기여했습니다. 한편, 서이초 교사 사망 3주기를 맞아 교사들은 교육권 회복과 아동복지법 개정을 촉구하는 대규모 집회를 열어 여전히 어려운 교단 현실을 알렸습니다.",
+      "insight": "교사들이 학생들의 마음 건강을 돌보는 동시에, 자신들의 교육권과 정서적 안정을 위한 지원 및 제도 개선이 지속적으로 필요함을 보여줍니다.",
+      "articles": [
+        {
+          "title": "성북강북교육청 '라일락' 콘서트",
+          "desc": "교사들이 직접 무대에 서서 동료 교사들과 함께 힐링하는 콘서트가 열렸습니다.",
+          "link": "https://www.edupress.kr/news/articleView.html?idxno=30348"
+        },
+        {
+          "title": "서부교육청 자녀 마음 컨설팅",
+          "desc": "자녀의 정신건강 위기 징후를 이해하고 대응하는 컨설팅이 학부모들에게 큰 호응을 얻었습니다.",
+          "link": "https://www.edupress.kr/news/articleView.html?idxno=30347"
+        },
+        {
+          "title": "서이초 3주기 교사 집회",
+          "desc": "서이초 교사 사망 3주기를 맞아 교사들이 아동복지법 개정을 촉구하는 집회를 열었습니다.",
+          "link": "https://www.edupress.kr/news/articleView.html?idxno=30346"
+        },
+        {
+          "title": "농촌 학교 폐교 반대 주장",
+          "desc": "농촌 학교 폐교와 민사고 설립 주장에 대한 반론이 제기되었습니다.",
+          "link": "https://www.edupress.kr/news/articleView.html?idxno=30345"
+        },
+        {
+          "title": "사립학교 숏폼 챌린지",
+          "desc": "사립학교의 매력을 알리는 숏폼 챌린지에서 인천 동명초가 대상을 받았습니다.",
+          "link": "https://www.edupress.kr/news/articleView.html?idxno=30344"
+        }
+      ]
+    }
+  ],
+  "createdAt": "2026-07-18T20:51:57.698Z"
+}
