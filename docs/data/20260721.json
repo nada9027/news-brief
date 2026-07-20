@@ -1,0 +1,142 @@
+{
+  "date": "20260721",
+  "categories": [
+    {
+      "category": "경제·시사",
+      "icon": "💰",
+      "en": "Economy & Current Affairs",
+      "summary": "최근 기업들은 탄소중립 인증을 받기 쉬워져 글로벌 시장 경쟁력을 높일 수 있게 되었고, 국내 기업인 삼성바이오로직스는 대규모 투자를 통해 비만 치료제 시장에 진출하며 새로운 성장 동력을 찾고 있습니다. 한편, 국제 정세 불안으로 유가가 다시 상승하면서 물가와 환율에 대한 걱정이 커지고 있습니다. 스포츠 분야에서는 라이언 폭스 선수가 골프 메이저 대회에서 극적인 우승을 차지하며 많은 사람에게 감동을 주었습니다.",
+      "insight": "이러한 소식들은 우리 사회의 경제와 환경, 그리고 글로벌 시장의 변화를 이해하고 미래를 준비하는 데 중요한 배경 지식이 됩니다.",
+      "articles": [
+        {
+          "title": "탄소중립 인증 쉬워져",
+          "desc": "기업 탄소중립 목표 달성 문턱이 낮아졌어요.",
+          "link": "https://www.donga.com/news/Society/article/all/20260721/134331650/2"
+        },
+        {
+          "title": "골프 디오픈 폭스 우승",
+          "desc": "라이언 폭스 선수가 디오픈 골프대회에서 우승했어요.",
+          "link": "https://www.donga.com/news/Sports/article/all/20260721/134332080/2"
+        },
+        {
+          "title": "국제 유가 다시 상승",
+          "desc": "미국-이란 충돌로 국제 유가가 다시 올랐어요.",
+          "link": "https://www.donga.com/news/Economy/article/all/20260721/134332683/2"
+        },
+        {
+          "title": "삼바, 비만약 시장 진출",
+          "desc": "삼성바이오로직스가 스위스 기업을 인수해 비만약 생산에 나섭니다.",
+          "link": "https://www.donga.com/news/Economy/article/all/20260721/134332681/2"
+        },
+        {
+          "title": "삼바, 비만약 시장 도전",
+          "desc": "삼성바이오로직스가 펩타이드 기업을 인수해 비만약 시장에 도전합니다.",
+          "link": "https://www.donga.com/news/Economy/article/all/20260721/134332688/2"
+        }
+      ]
+    },
+    {
+      "category": "AI 뉴스",
+      "icon": "🤖",
+      "en": "AI News",
+      "summary": "최근 AI 기술은 단순한 정보 처리에서 벗어나 실제 데이터를 기반으로 한 예측과 업무 활용으로 확장되고 있습니다. AI 데이터 팩토리의 효율적인 운영이 중요해지고, AI 모델들이 월드컵 경기 결과를 예측하는 등 다양한 분야에서 활용되고 있어요. 또한, AI의 과도한 통제에 대한 논의와 함께 실제 사용자들이 AI를 업무에 어떻게 적용하는지에 대한 사례도 공유되고 있습니다.",
+      "insight": "미래 사회의 주역인 우리 아이들이 AI를 올바르게 이해하고 활용할 수 있도록, AI 기술의 발전 방향과 실제 적용 사례들을 교육 과정에 자연스럽게 녹여내는 노력이 필요합니다.",
+      "articles": [
+        {
+          "title": "피지컬 AI 데이터 팩토리",
+          "desc": "AI 데이터 팩토리 구축보다 운영이 중요해요.",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=212953"
+        },
+        {
+          "title": "AI 월드컵 예측 결과",
+          "desc": "AI 모델들이 월드컵 결과 예측 대결을 했어요.",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=212958"
+        },
+        {
+          "title": "MS CEO, AI 통제 비판",
+          "desc": "AI의 과도한 내용 통제는 유용성을 해쳐요.",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=212941"
+        },
+        {
+          "title": "GPT-5.6 솔 사용자 후기",
+          "desc": "AI가 실제 업무에 어떻게 쓰이는지 공개됐어요.",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=212937"
+        },
+        {
+          "title": "정형 데이터 AI 투자 유치",
+          "desc": "표 형태 데이터 다루는 AI가 투자를 받았어요.",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=212957"
+        }
+      ]
+    },
+    {
+      "category": "AI·테크 논문",
+      "icon": "📄",
+      "en": "Research · AI Times KR",
+      "summary": "최근 AI 기술은 의료 진단 정확도를 높이고 복잡한 인과 관계를 이해하며 특정 분야에 특화된 모델로 발전하고 있습니다. 또한, 개인 컴퓨터에서 작동하는 음성 비서 개발로 사용자 편의성을 높이고 있지만, AI 시스템 내에서 비판이 항상 개선으로 이어지는 것은 아니라는 연구도 있습니다. 이처럼 AI는 다양한 분야에서 발전하며 우리 삶에 더 깊이 들어오고 있습니다.",
+      "insight": "교사들은 AI가 단순히 정보를 제공하는 것을 넘어, 문제 해결 과정과 한계를 이해하는 도구로 활용될 수 있음을 아이들에게 가르칠 준비를 해야 합니다.",
+      "articles": [
+        {
+          "title": "그래프Dx: 진단 AI",
+          "desc": "AI가 의료 진단 정확도를 높이고 비용을 줄입니다.",
+          "link": "https://arxiv.org/abs/2607.15280"
+        },
+        {
+          "title": "인과성 감사: AI 추론",
+          "desc": "AI가 표면을 넘어 원인과 결과를 이해합니다.",
+          "link": "https://arxiv.org/abs/2607.15281"
+        },
+        {
+          "title": "큐라 1T: 의료 AI 모델",
+          "desc": "의료 분야에 특화된 AI가 환자를 돕습니다.",
+          "link": "https://arxiv.org/abs/2607.15314"
+        },
+        {
+          "title": "아노바X: 로컬 음성 비서",
+          "desc": "개인 컴퓨터에서 작동하는 음성 비서가 개발됩니다.",
+          "link": "https://arxiv.org/abs/2607.15367"
+        },
+        {
+          "title": "수학 AI: 비평의 한계",
+          "desc": "AI 시스템에서 비평이 항상 개선으로 이어지지 않습니다.",
+          "link": "https://arxiv.org/abs/2607.15388"
+        }
+      ]
+    },
+    {
+      "category": "교육 뉴스",
+      "icon": "🏫",
+      "en": "Education News",
+      "summary": "감사원이 서울 고교 교사들의 학생부 세부능력 및 특기사항(세특) '복붙' 등 관리 부실을 적발하여 학생부 기재의 공정성 문제가 불거졌습니다. 한편, 이재명 대통령이 안민석 경기교육감에게 격려 문자를 보내 교육 정책 변화에 대한 관심을 보였고, 프로야구 스타들이 학교 안전 캠페인에 참여하는 등 교육 현장 안팎에서 다양한 소식이 전해졌습니다.",
+      "insight": "학생부 기재의 신뢰성 확보, 교사들의 정서적 지원, 그리고 학생들의 안전 및 마음 건강 문제 해결을 위한 다각적인 노력이 필요합니다.",
+      "articles": [
+        {
+          "title": "세특 '복붙' 학생부 부실",
+          "desc": "감사원, 서울 고교 교사 세특 복붙 적발.",
+          "link": "https://www.edupress.kr/news/articleView.html?idxno=30351"
+        },
+        {
+          "title": "이 대통령, 안민석 교육감 격려",
+          "desc": "이재명 대통령, 안민석 교육감에 격려 문자.",
+          "link": "https://www.edupress.kr/news/articleView.html?idxno=30350"
+        },
+        {
+          "title": "야구 스타, 학교 안전 지킴이",
+          "desc": "프로야구 스타들, 학교 안전사고 예방 캠페인.",
+          "link": "https://www.edupress.kr/news/articleView.html?idxno=30349"
+        },
+        {
+          "title": "교사 힐링 콘서트 '라일락'",
+          "desc": "성북강북교육청, 교사 힐링 콘서트 개최.",
+          "link": "https://www.edupress.kr/news/articleView.html?idxno=30348"
+        },
+        {
+          "title": "자녀 마음건강 컨설팅 호평",
+          "desc": "서부교육청, 학부모 마음건강 컨설팅.",
+          "link": "https://www.edupress.kr/news/articleView.html?idxno=30347"
+        }
+      ]
+    }
+  ],
+  "createdAt": "2026-07-20T20:52:05.413Z"
+}
