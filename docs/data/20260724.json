@@ -1,0 +1,142 @@
+{
+  "date": "20260724",
+  "categories": [
+    {
+      "category": "경제·시사",
+      "icon": "💰",
+      "en": "Economy & Current Affairs",
+      "summary": "최근 한국 경제는 반도체 수출 호조로 구매력이 38년 만에 크게 늘었으며, 미국과의 에너지 분야 투자도 논의 중입니다. 정부는 부동산 시장 안정을 위해 전세대출 규제를 강화하고, 대통령 주재 토론회를 거쳐 보유세 인상 및 실거주 여부에 따른 차등화 방안을 발표했습니다. 이러한 정책들은 앞으로 우리 사회의 경제 및 주거 환경에 큰 영향을 미칠 것으로 보입니다.",
+      "insight": "경제 성장과 부동산 정책 변화는 교사들의 가계 경제와 주거 안정에 직접적인 영향을 미칠 수 있으므로, 관련 소식에 꾸준히 관심을 갖는 것이 중요합니다.",
+      "articles": [
+        {
+          "title": "대미 투자 1호 에너지",
+          "desc": "한국, 미국에 에너지 분야 투자 검토 중입니다.",
+          "link": "https://www.donga.com/news/Inter/article/all/20260724/134355560/2"
+        },
+        {
+          "title": "2분기 구매력 15%↑",
+          "desc": "반도체 수출로 구매력 38년 만에 최대 증가했습니다.",
+          "link": "https://www.donga.com/news/Economy/article/all/20260724/134355558/2"
+        },
+        {
+          "title": "전세대출 규제 강화",
+          "desc": "대통령, 전세대출 제한 및 핀셋 지원 언급했습니다.",
+          "link": "https://www.donga.com/news/Economy/article/all/20260724/134355511/2"
+        },
+        {
+          "title": "부동산 토론회 개최",
+          "desc": "대통령 주재 부동산 정책 토론회 3시간 넘게 진행됐습니다.",
+          "link": "https://www.donga.com/news/Politics/article/all/20260724/134355507/2"
+        },
+        {
+          "title": "보유세 인상 및 차등",
+          "desc": "보유세 인상 방침, 실거주 등 차등화 예정입니다.",
+          "link": "https://www.donga.com/news/Politics/article/all/20260724/134355295/2"
+        }
+      ]
+    },
+    {
+      "category": "AI 뉴스",
+      "icon": "🤖",
+      "en": "AI News",
+      "summary": "인공지능(AI) 기술이 수학 올림피아드 만점, 음악 창작의 절반 이상을 차지할 정도로 빠르게 발전하고 있습니다. 한편, 미국에서는 중국 AI 모델 규제를 두고 논쟁이 뜨거운데, 일부 기업들은 규제가 오히려 미국 경쟁력을 약화하고 소수 대기업의 독점을 심화할 것이라고 우려합니다. AI의 안전성 확보와 실용성 사이의 균형을 찾는 것이 중요한 과제로 떠오르고 있습니다.",
+      "insight": "교사들은 학생들이 AI의 발전과 사회적 영향을 이해하고, AI를 책임감 있게 활용하며 비판적으로 사고하는 능력을 기르도록 지도해야 합니다.",
+      "articles": [
+        {
+          "title": "AI 수학 올림피아드 만점",
+          "desc": "AI가 국제수학올림피아드에서 사상 첫 만점을 기록했습니다.",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=213095"
+        },
+        {
+          "title": "미국 스타트업, 中 AI 규제 반대",
+          "desc": "미국 스타트업들이 중국 AI 모델 규제에 반대했습니다.",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=213101"
+        },
+        {
+          "title": "美 AI 안전장치, 오히려 방해",
+          "desc": "미국 AI의 과도한 안전장치가 사이버보안 분석을 방해했습니다.",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=213088"
+        },
+        {
+          "title": "엔비디아 CEO, 中 AI 규제 반대",
+          "desc": "엔비디아 CEO는 중국 AI 규제가 미국 경쟁력을 약화한다고 말했습니다.",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=213104"
+        },
+        {
+          "title": "AI 음원, 신규 업로드 절반 차지",
+          "desc": "음악 스트리밍 플랫폼에서 AI 음원이 신규 업로드의 절반을 넘었습니다.",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=213118"
+        }
+      ]
+    },
+    {
+      "category": "AI·테크 논문",
+      "icon": "📄",
+      "en": "Research · AI Times KR",
+      "summary": "최근 AI 기술은 스스로 판단하고 행동하는 수준으로 발전하고 있습니다. 하지만 AI가 통제를 벗어나거나 잘못된 정보를 확신하는 등 여러 위험 가능성도 함께 커지고 있어, AI의 안전성과 신뢰성을 확보하기 위한 연구가 활발히 진행 중입니다. 또한, AI가 방대한 데이터를 분석하고 수많은 도구를 효율적으로 찾아 활용하는 방법을 개선하여, 더욱 똑똑하고 유용한 AI를 만드는 데 집중하고 있습니다.",
+      "insight": "미래 사회의 주역이 될 우리 아이들이 AI의 잠재력과 위험성을 이해하고, AI를 올바르게 활용하며 비판적으로 사고하는 능력을 키울 수 있도록 교육해야 합니다.",
+      "articles": [
+        {
+          "title": "AI의 통제 벗어남 측정",
+          "desc": "AI가 통제를 벗어나려는 행동을 측정합니다.",
+          "link": "https://arxiv.org/abs/2607.18239"
+        },
+        {
+          "title": "AI의 사실 확인 신뢰도",
+          "desc": "AI가 말하는 사실의 증거를 평가하여 신뢰도를 높입니다.",
+          "link": "https://arxiv.org/abs/2607.18240"
+        },
+        {
+          "title": "방대한 데이터 분석 AI",
+          "desc": "AI가 기업의 방대한 데이터를 효율적으로 분석합니다.",
+          "link": "https://arxiv.org/abs/2607.18241"
+        },
+        {
+          "title": "AI 도구 찾기 기술",
+          "desc": "AI가 수많은 도구를 효율적으로 찾아 활용하도록 돕습니다.",
+          "link": "https://arxiv.org/abs/2607.18242"
+        },
+        {
+          "title": "AI 위험 예측 및 관리",
+          "desc": "AI의 실패 경로를 분석하여 위험을 예측하고 관리합니다.",
+          "link": "https://arxiv.org/abs/2607.18243"
+        }
+      ]
+    },
+    {
+      "category": "교육 뉴스",
+      "icon": "🏫",
+      "en": "Education News",
+      "summary": "22대 국회 교육위원회가 새로 구성되어 교육 정책 결정에 중요한 역할을 할 예정이며, 지방교육재정교부금의 안정적 유지를 촉구하는 목소리가 커지고 있습니다. 또한, 서울시교육감은 '기본교육' 개념을 제시하며 공교육의 새로운 방향을 모색하고, 교육부는 교원 보호를 위해 악성 민원인 대응 방안을 강화했습니다.",
+      "insight": "교육 관련 주요 정책과 예산, 교원 보호 방안 등이 논의되고 있어, 현장 교사들은 이러한 변화가 학교 교육에 미칠 영향을 주시하고 적극적으로 의견을 개진할 필요가 있습니다.",
+      "articles": [
+        {
+          "title": "국회 교육위원 확정",
+          "desc": "22대 국회 교육위원회 구성이 완료되어 교육 정책을 논의합니다.",
+          "link": "https://www.edupress.kr/news/articleView.html?idxno=30357"
+        },
+        {
+          "title": "교부금 유지 촉구",
+          "desc": "전국 교육장들이 지방교육재정교부금 축소 반대 성명을 냈습니다.",
+          "link": "https://www.edupress.kr/news/articleView.html?idxno=30356"
+        },
+        {
+          "title": "정근식 '기본교육' 제시",
+          "desc": "서울시교육감이 생애 전 단계 '기본교육'을 2기 정책 핵심으로 내세웠습니다.",
+          "link": "https://www.edupress.kr/news/articleView.html?idxno=30355"
+        },
+        {
+          "title": "악성민원인 즉시퇴거",
+          "desc": "10월부터 학교장이 악성 민원인 퇴거 및 출입 제한이 가능해집니다.",
+          "link": "https://www.edupress.kr/news/articleView.html?idxno=30354"
+        },
+        {
+          "title": "교부금 내국세 연동 유지",
+          "desc": "최교진 장관이 교부금 내국세 연동 유지를 재확인하고 미래대응기금 교육계정 설치를 제안했습니다.",
+          "link": "https://www.edupress.kr/news/articleView.html?idxno=30353"
+        }
+      ]
+    }
+  ],
+  "createdAt": "2026-07-23T20:52:06.567Z"
+}
