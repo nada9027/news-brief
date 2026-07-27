@@ -1,0 +1,142 @@
+{
+  "date": "20260728",
+  "categories": [
+    {
+      "category": "경제·시사",
+      "icon": "💰",
+      "en": "Economy & Current Affairs",
+      "summary": "최근 뉴스는 미래 사회의 중요한 변화와 도전 과제를 보여줍니다. 인구구조 변화에 따른 일자리 문제 해결을 위해 시민 참여가 강조되며, 첨단 기술 유출과 같은 산업 스파이 행위가 심각해지고 있습니다. 또한, 자연재해 시 직장인의 어려움과 노동 환경의 불평등 문제도 다루고 있습니다.",
+      "insight": "교사로서 우리는 아이들에게 미래 사회의 복잡한 문제를 함께 고민하고, 윤리적 가치와 지적 재산권의 중요성을 가르쳐야 합니다.",
+      "articles": [
+        {
+          "title": "일자리 해법 시민과 찾는다",
+          "desc": "인구구조 변화에 따른 지속 가능한 일자리 방안을 시민과 함께 모색합니다.",
+          "link": "https://www.donga.com/news/Society/article/all/20260728/134374769/2"
+        },
+        {
+          "title": "배터리 기술 유출 수법",
+          "desc": "첨단 산업 인재를 위장 취업시켜 핵심 기술을 빼가는 수법이 확산됩니다.",
+          "link": "https://www.donga.com/news/Economy/article/all/20260728/134375895/2"
+        },
+        {
+          "title": "자연재해 시 직장 불이익",
+          "desc": "폭우·폭염에도 직장인 43%는 재택근무 보장 못 받고 불이익 경험합니다.",
+          "link": "https://www.donga.com/news/Society/article/all/20260728/134374772/2"
+        },
+        {
+          "title": "핵심 인재 통한 기술 유출",
+          "desc": "퇴직 연구원이 경력 세탁 후 핵심 기술 자료를 빼돌린 사례가 드러났습니다.",
+          "link": "https://www.donga.com/news/Economy/article/all/20260728/134375665/2"
+        },
+        {
+          "title": "수첩으로 기술 유출 사례",
+          "desc": "수백억 보안망 뚫고 수첩에 핵심 기술을 손으로 적어 유출한 사례가 밝혀졌습니다.",
+          "link": "https://www.donga.com/news/Economy/article/all/20260728/134375662/2"
+        }
+      ]
+    },
+    {
+      "category": "AI 뉴스",
+      "icon": "🤖",
+      "en": "AI News",
+      "summary": "최근 중국의 한 반도체 기업이 크게 성장하고, 애플은 AI 안경 개발에서 개인정보 보호를 중요하게 생각하는 등 기술 발전이 계속되고 있습니다. 한편, AI가 사람의 독창성을 해칠 수 있다는 경고도 나와 미래 교육 방향에 대한 고민을 던져줍니다. 국내에서는 순천에서 야광축제가 열리고 광양에서는 어린이 물놀이터 안전 점검이 이루어지는 등 지역 사회의 소식도 전해집니다.",
+      "insight": "교사들은 미래 사회의 주역이 될 아이들에게 AI 시대에 필요한 독창적 사고력을 길러주고, 디지털 윤리 및 개인정보 보호의 중요성을 가르치는 데 관심을 가져야 합니다.",
+      "articles": [
+        {
+          "title": "중국 반도체 기업 폭등",
+          "desc": "중국 메모리 반도체 기업이 상장 첫날 466% 폭등하며 시총 1위가 되었습니다.",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=213229"
+        },
+        {
+          "title": "순천 동천야광축제 개막",
+          "desc": "순천 동천에서 8월 1일부터 야광축제가 열려 시민과 관광객에게 즐거움을 선사합니다.",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=213218"
+        },
+        {
+          "title": "광양 물놀이터 안전 점검",
+          "desc": "광양시가 폭염 속 어린이 물놀이터의 수질과 안전 관리를 꼼꼼히 점검했습니다.",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=213220"
+        },
+        {
+          "title": "AI, 독창성 저해 경고",
+          "desc": "AI가 독창적인 사고를 사라지게 할 수 있다는 혁신 이론가의 경고가 나왔습니다.",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=213213"
+        },
+        {
+          "title": "애플 AI 안경, 프라이버시 중시",
+          "desc": "애플이 AI 스마트 안경 개발 시 개인정보 보호를 최우선 과제로 삼고 있습니다.",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=213208"
+        }
+      ]
+    },
+    {
+      "category": "AI·테크 논문",
+      "icon": "📄",
+      "en": "Research · AI Times KR",
+      "summary": "최근 인공지능 기술은 스스로 학습하고 문제를 해결하는 방향으로 발전하고 있어요. 산불 예측처럼 중요한 분야의 AI 시스템을 더 정확하게 평가하고, 여러 정보를 처리하는 AI의 보안을 강화하는 연구도 활발합니다. 또한, 공공장소에서 제스처 인식을 개선하거나 다양한 기기에서 AI 모델의 속도를 예측하는 등 실생활에 유용한 기술 개발도 계속되고 있습니다.",
+      "insight": "이러한 AI 기술의 발전은 우리 아이들이 살아갈 미래 사회를 변화시킬 것이므로, AI가 어떻게 작동하고 우리 삶에 어떤 영향을 미치는지 이해하는 것이 중요합니다.",
+      "articles": [
+        {
+          "title": "스스로 진화하는 AI 에이전트",
+          "desc": "AI가 스스로 학습하고 문제를 해결하는 방식입니다.",
+          "link": "https://arxiv.org/abs/2607.21596"
+        },
+        {
+          "title": "산불 위험 평가 새 기준",
+          "desc": "산불 예측 시스템의 평가 방식을 개선하는 연구입니다.",
+          "link": "https://arxiv.org/abs/2607.21597"
+        },
+        {
+          "title": "다중 모달 AI 보안 강화",
+          "desc": "여러 정보를 사용하는 AI의 보안 취약점을 막는 방법입니다.",
+          "link": "https://arxiv.org/abs/2607.21600"
+        },
+        {
+          "title": "공공장소 제스처 인식 개선",
+          "desc": "공공장소에서 제스처 인식이 잘 안 되는 문제를 분석합니다.",
+          "link": "https://arxiv.org/abs/2607.21601"
+        },
+        {
+          "title": "AI 모델 속도 예측 기술",
+          "desc": "다양한 기기에서 AI 모델의 처리 속도를 정확히 예측합니다.",
+          "link": "https://arxiv.org/abs/2607.21602"
+        }
+      ]
+    },
+    {
+      "category": "교육 뉴스",
+      "icon": "🏫",
+      "en": "Education News",
+      "summary": "최근 교육계는 교사의 전문성 신장과 교육 활동 보호를 위한 긍정적인 변화를 보이고 있습니다. 경기도교육청은 방학 중 근무조를 폐지하고 교사연구실 간식비를 지원하며, 여당은 교육부에 교권보호국 설치를 추진하는 등 교사 처우 개선 노력이 이어지고 있습니다. 또한, 폐교가 탈북 청소년 대안학교 등으로 재탄생하며 미래 교육의 희망을 보여주고 있습니다.",
+      "insight": "교사들이 교육 본연의 역할에 집중하고 전문성을 높일 수 있도록 제도적 지원과 교권 보호 노력이 지속적으로 강화될 것으로 보이며, 이는 학교 현장에 긍정적인 변화를 가져올 것입니다.",
+      "articles": [
+        {
+          "title": "경기교육청 방학근무 폐지",
+          "desc": "방학 중 근무조 없애 교사 연구 지원, 간식비도 지원합니다.",
+          "link": "https://www.edupress.kr/news/articleView.html?idxno=30364"
+        },
+        {
+          "title": "교권보호국 설치 법안 발의",
+          "desc": "교육부에 교권보호국 설치 법안 발의, 보호관 확대 검토.",
+          "link": "https://www.edupress.kr/news/articleView.html?idxno=30362"
+        },
+        {
+          "title": "폐교, 여명학교 등 새 둥지",
+          "desc": "폐교 부지에 탈북 청소년 학교와 유아교육진흥원 들어섭니다.",
+          "link": "https://www.edupress.kr/news/articleView.html?idxno=30359"
+        },
+        {
+          "title": "서울교총, 악성민원 대응 촉구",
+          "desc": "교육청에 악성민원 대응과 행정업무 경감 대책 촉구.",
+          "link": "https://www.edupress.kr/news/articleView.html?idxno=30358"
+        },
+        {
+          "title": "국회 교육위원 확정",
+          "desc": "22대 국회 후반기 국민의힘 교육위원이 확정되었습니다.",
+          "link": "https://www.edupress.kr/news/articleView.html?idxno=30357"
+        }
+      ]
+    }
+  ],
+  "createdAt": "2026-07-27T20:52:06.154Z"
+}
