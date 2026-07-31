@@ -1,0 +1,142 @@
+{
+  "date": "20260801",
+  "categories": [
+    {
+      "category": "경제·시사",
+      "icon": "💰",
+      "en": "Economy & Current Affairs",
+      "summary": "요약 생성 실패",
+      "insight": "",
+      "articles": [
+        {
+          "title": "‘현기증 롤러코스피’ 사상 최대 17.9% 폭등",
+          "desc": "31일 코스피가 전날보다 1001.89포인트(+17.91%) 급등 마감했다. 1983년 1월 4일 코스피를 처음 공표한 이래 하루 최대 상승률이다. 전날(현지 시간) 미국 주식시장에서 반도체주가 큰 폭으로 오르고, 최근 폭락세에 따른 반등이 나타난 게 요인으로 꼽힌다. 이날 상승으로 투자 심리는 다소 나아졌지만, 현기증이 날 정도로 계속되는 급등락 장세에 투자자들의 공포 심리가 잦아들지 않으면서 ‘카지노 증시’가 됐다는 지적이 나오고 있다. 삼성전자(+26.81%)는 1975년 6월 상장 후 51년 만에 가장 높은 하루 상승률을 나",
+          "link": "https://www.donga.com/news/Economy/article/all/20260801/134404632/2"
+        },
+        {
+          "title": "[지표로 보는 경제]7월 31일",
+          "desc": "",
+          "link": "https://www.donga.com/news/Economy/article/all/20260731/134403598/2"
+        },
+        {
+          "title": "“명퇴 후 체인점 2곳 운영… 철저한 시장 분석 덕분”[은퇴 레시피]",
+          "desc": "LG생활건강에서 부장으로 일하며 안정적인 삶을 지내던 김노진 씨(56)가 명예퇴직을 진지하게 고민하기 시작한 것은 40대 중반을 넘으면서부터였다. 대기업 특성상 일반 직장보다 은퇴 시기가 빠르다는 현실을 직시했고 ‘어차피 5∼7년 뒤에는 회사를 나가야 할 텐데, 더 나이 들기 전에 움직여야 열정과 체력을 바탕으로 제2의 인생을 대비할 수 있다’고 생각했다. 100세 시대가 도래하는 현실에서 직장 생활만 하다 끝내면 그 이후 30년가량 긴 시간을 어떻게 보내야 할지 막막하기도 했다. ‘제2의 직업’을 창업으로 생각하고 미리 준비한 이",
+          "link": "https://www.donga.com/news/Society/article/all/20260731/134403611/2"
+        },
+        {
+          "title": "美반도체주 급등에 외국인 몰려… 코스피 하루만에 1000P 껑충",
+          "desc": "코스피가 31일 사상 최대 상승률(17.91%)을 기록한 건 전날(현지 시간) 미국 주식시장에서 나타난 반도체주의 급등 영향이 컸다. 여기에 최근 국내 증시의 큰 하락세 이후 외국인을 중심으로 ‘저가 매수’가 몰리며 반등에 성공했다. 코스피는 최근 사흘간 총 1,162.19포인트가 빠졌는데, 이날 하루에 손실의 86%를 만회했다. 하지만 증시 전체에 드리워진 공포 심리가 해소됐다고 보기엔 무리다. 개인 투자자는 ‘조금이라도 올랐을 때 팔아 치우자’는 전략으로 이날 유가증권시장에서 역대 가장 많은 8조2840억 원어치를 순매도했다. ",
+          "link": "https://www.donga.com/news/Economy/article/all/20260731/134404646/2"
+        },
+        {
+          "title": "하락장서 던진 개미들 비명… ‘빚투’ 반대매매엔 한숨만",
+          "desc": "31일 코스피가 반도체주를 중심으로 사상 최대폭(17.91%)으로 상승 마감하면서 개인 투자자들의 희비가 엇갈렸다. 반등을 예상하고 전날 매수한 투자자들은 이익을 봤지만, 하락장에서 투매하거나 신용거래 반대매매를 당한 투자자들은 이날 상승세를 바라만 봐야 했다. 40대 직장인 이혜영 씨는 최근 SK하이닉스 주식을 샀다가 주가 하락으로 9월에 내야 할 아파트 중도금을 일부 잃었다. 두 달 안에 원금을 회복하지 못하면 다른 곳에서 돈을 구해 메워야 한다. 이 씨는 “중도금 납부까지 얼마 남지 않아 손실 회복이 시급한데, 증시는 요동치고",
+          "link": "https://www.donga.com/news/Economy/article/all/20260731/134404644/2"
+        }
+      ]
+    },
+    {
+      "category": "AI 뉴스",
+      "icon": "🤖",
+      "en": "AI News",
+      "summary": "요약 생성 실패",
+      "insight": "",
+      "articles": [
+        {
+          "title": "구글, 휴머노이드 전신 제어 AI '제미나이 로보틱스 2' 공개",
+          "desc": "구글 딥마인드가 AI를 디지털 영역에서 실제 물리 세계로 확장하기 위한 핵심 기술을 공개했다. 새로운 ‘제미나이 로보틱스 2(Gemini Robotics 2)’는 로봇이 주변 환경을 이해하고 스스로 작업 계획을 세우며, 손끝부터 다리까지 전신을 제어할 수 있도록 설계된 차세대 로봇 AI 모델이다. 구글 딥마인드는 30일(현지시간) 로봇이 인간처럼 주변 환경을 이해하고 스스로 판단하며 복잡한 작업을 수행할 수 있도록 하는 차세대 로봇 AI 플랫폼 ‘제미나이 로보틱스 2(Gemini Robotics 2)’를 공개했다.이번 발표는 단순한",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=213392"
+        },
+        {
+          "title": "\"단순 실수가 26억 손실로\"…아마존, AI 도입 중 예산 860% 폭증",
+          "desc": "기업들의 AI 도입이 가속하는 가운데, 아마존 내부에서 AI 활용 과정의 비용 통제 실패 사례가 잇따라 드러났다. 과거에는 몇 달러 수준으로 해결할 수 있었던 단순한 코딩 오류나 설정 실수가 AI 모델 사용 환경에서는 수백만달러 규모의 예산 낭비로 이어지면서, 생성 AI 시대의 새로운 비용 관리 문제가 부상하고 있다.30일(현지시간) 파이낸셜타임스에 따르면, 아마존은 최근 내부 보고서를 통해 생성 AI 프로젝트에서 발생한 대규모 예산 초과 사례를 분석하며 비용 관리 체계를 재정비하고 있다.특히 AI 에이전트 활용이 확대되고 토큰 기",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=213403"
+        },
+        {
+          "title": "\"악성 문서 읽고 파일 유출\"...MS 코파일럿서 보안 허점 발견",
+          "desc": "AI를 활용한 사이버 보안 경쟁이 본격화하는 가운데, 기업용 AI 서비스의 보안 취약점이 잇따라 드러나고 있다. 최근 허깅페이스 해킹 사태에 이어 마이크로소프트(MS)의 기업용 AI 비서 '코파일럿(Copilot)'에서도 민감한 기업 데이터를 외부로 유출할 수 있는 취약점이 발견되면서, 보안을 강화하기 위해 도입한 AI가 오히려 새로운 공격 경로가 될 수 있다는 우려가 커지고 있다.디 인포메이션은 30일(현지시간) MS의 오피스 365용 AI 기능인 코파일럿에서 해커가 기업 내부 파일과 이메일을 탈취할 수 있는 복수의 보안 취약점이",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=213408"
+        },
+        {
+          "title": "딥시크, 내몽골에 1GW AI 데이터센터 구축 추진...'중국 최대 규모급'",
+          "desc": "딥시크가 내몽골에 1기가와트(GW) 규모의 초대형 AI 데이터센터 구축을 추진하며 자체 컴퓨팅 인프라 확장에 본격적으로 나선다. 자체 데이터센터 건설과 외부 컴퓨팅 자원 임대를 병행해 대규모 AI 모델 학습 및 서비스 운영 능력을 확보하려는 전략으로 풀이된다.30일(현지시간) 블룸버그에 따르면, 딥시크는 내몽골 울란차브 지역에 총 1GW 규모의 AI 데이터센터 캠퍼스를 조성하는 방안을 추진하는 것으로 알려졌다.이는 미국 빅테크들이 추진하는 3~5GW급 프로젝트에는 미치지 못하지만, 현재 중국 기업이 운영 중인 AI 데이터센터 가운데",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=213416"
+        },
+        {
+          "title": "구글, 맥OS용 '제미나이'에 음성 AI 도입…작업 중 말로 AI 직접 제어",
+          "desc": "구글이 맥OS용 '제미나이' 데스크톱 앱에 음성 기반 AI 기능을 도입, 사용자는 작업 중인 앱을 벗어나지 않고도 음성만으로 텍스트 입력과 문서 편집, 요약, 이미지 생성 등을 수행할 수 있게 됐다. 최근 오픈AI와 앤트로픽이 데스크톱 AI의 음성 기능을 강화하는 가운데, 구글도 음성 AI를 운영체제 전반에 통합하는 모습이다.구글은 29일(현지시간) 맥OS용 제미나이 앱에 '창에 말하기(Speak to Window)' 기능을 글로벌 출시한다고 밝혔다.현재는 영어를 지원하며, 앞으로 다른 언어도 추가될 예정이다. 이 기능은 애플 실리",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=213412"
+        }
+      ]
+    },
+    {
+      "category": "AI·테크 논문",
+      "icon": "📄",
+      "en": "Research · AI Times KR",
+      "summary": "요약 생성 실패",
+      "insight": "",
+      "articles": [
+        {
+          "title": "Probing the Origins of Reasoning Performance: Representational Quality for Mathematical Problem-Solving in RL vs. SFT Fine-Tuned Models",
+          "desc": "arXiv:2607.26119v1 Announce Type: new Abstract: Large reasoning models trained via reinforcement learning (RL) have been increasingly shown to outperform their supervised fine-tuned (SFT) counterparts on mathematical reasoning tasks; Yet the mechanistic basis for this advantage remains unclear. We t",
+          "link": "https://arxiv.org/abs/2607.26119"
+        },
+        {
+          "title": "Even More Deception: Objective Misalignment in Mixed-Motive LLM Multi-Agent Systems",
+          "desc": "arXiv:2607.26120v1 Announce Type: new Abstract: Large Language Models (LLMs)-powered multi-agent systems are increasingly deployed in mixed-motive environments, where agents operate under asymmetric information and strategic deception due to conflicting or hidden objectives. In these settings, misal",
+          "link": "https://arxiv.org/abs/2607.26120"
+        },
+        {
+          "title": "ClinLens: Towards Long-Horizon Coding Agents for Longitudinal Multimodal Clinical Data Science",
+          "desc": "arXiv:2607.26155v1 Announce Type: new Abstract: Clinical data-science agents must transform heterogeneous longitudinal records into auditable analyses, yet existing benchmarks largely isolate medical question answering, structured-table reasoning, or generic scientific repositories. We introduce CLI",
+          "link": "https://arxiv.org/abs/2607.26155"
+        },
+        {
+          "title": "When benchmark inferences do not compose: Projectibility in AI evaluation",
+          "desc": "arXiv:2607.26159v1 Announce Type: new Abstract: An AI benchmark result rarely reaches a consequential claim in one step. Evaluators generalize it to further cases, interpret it as evidence of capability, extrapolate it to new tasks, transport it to another system or site, and combine it with assumpt",
+          "link": "https://arxiv.org/abs/2607.26159"
+        },
+        {
+          "title": "GuideSkill: Evolving Executable LLM Agent Skills for Guideline-Grounded Clinical Reasoning",
+          "desc": "arXiv:2607.26160v1 Announce Type: new Abstract: Clinical practice guidelines (CPGs) encode diagnostic criteria, but LLM systems typically retrieve guideline text or absorb it through training rather than execute its rules. We introduce GuideSkill, an external reasoning layer that compiles disease-sp",
+          "link": "https://arxiv.org/abs/2607.26160"
+        }
+      ]
+    },
+    {
+      "category": "교육 뉴스",
+      "icon": "🏫",
+      "en": "Education News",
+      "summary": "요약 생성 실패",
+      "insight": "",
+      "articles": [
+        {
+          "title": "[김용완 칼럼] 교권 보호와 교실 정상화는 정말 불가능할까?",
+          "desc": "드라마 ‘참교육’이 국민적 관심을 받고 있다. 덩달아 학교폭력, 교권 추락과 교실 붕괴, 악성 민원으로 학교가 흔들리는 현상 등 교사와 학교의 현실이 사회적 조명을 받으니 참으로 반가운 일이다.11년간 학교에서 과학을 가르치며 느낀 점은, 점점 우리의 학교는 어려워지고 교실은 무너지고 있다는 사실이다. 답답한 마음에 해결책을 고민했고, 우리나라는 법치국가이기에 법을 바꾸면 되겠다고 생각했다. 그길로 대학원 전공으로 법학을 선택하여 일과 연구를 병행하였다.그렇다면 문제의 시작은 어디일까? 결국 헌법 제31조를 비롯해 「교육기본법」,",
+          "link": "https://www.edupress.kr/news/articleView.html?idxno=30370"
+        },
+        {
+          "title": "서울시내 중고 10곳 중 8곳 남녀공학 .. 무학여고 등 8개교 공학 전환",
+          "desc": "에듀프레스 장재훈 기자 = 서울지역 중고교 10곳 중 약 8곳이 남녀공학으로 바뀐다. 서울시교육청은 30일 무학여고 등 8개 단성학교를 오는 2028학년도까지 공학으로 전환한다고 발표했다. 단성학교들이 학령인구 감소로 신입생 모집에 어려움을 겪자 공학 전환에 나선 것으로 풀이된다.시교육청에 따르면 올해부터 내년까지 남녀공학으로 전환하는 중고등학교는 모두 8곳이다. 공학 전환을 신청한 11개 학교 중 8곳이 최종 확정됐다.내년부터 공학으로 전환하는 학교는 정원여중, 성심여중, 한양중, 한양과기고, 신정여중, 신정고, 무학여고 등이다.",
+          "link": "https://www.edupress.kr/news/articleView.html?idxno=30369"
+        },
+        {
+          "title": "서부교육지원청, 교실에서 가정까지 ..  책으로 잇고 독서로 하나 된다",
+          "desc": "에듀프레스 장재훈 기자 = 인공지능(AI)이 정보를 대신 찾아주고 논문까지 써주는 시대. 그러나 생각하는 힘과 질문하는 능력은 여전히 사람의 몫이다. 서울서부교육지원청이 학교와 가정, 지역사회를 하나의 독서 생태계로 연결하는 '독서공동체' 만든 이유다.서울서부교육지원청(교육장 주석표)은 올해 '학교·가정·마을이 함께하는 독서교육 활성화' 사업을 본격 추진하며 교사와 학생, 학부모가 함께 책을 읽고 토론하는 다양한 프로그램을 운영하고 있다고 28일 밝혔다.이번 사업은 AI 시대에 필요한 깊이 있는 사고력과 문해력, 비판적 사고를 기르",
+          "link": "https://www.edupress.kr/news/articleView.html?idxno=30367"
+        },
+        {
+          "title": "[신호현 칼럼] 사회정서교육, 학교의 삶 속으로 들어가라",
+          "desc": "최근 사회정서교육(SEL)이 세계적인 교육 의제로 떠오르고 있다.OECD는 사회정서역량이 학업 성취뿐 아니라 건강과 웰빙, 대인관계, 시민성, 미래의 삶과 밀접하게 연결되어 있다고 보고 있으며, 유네스코(UNESCO) 역시 사회정서교육을 학교교육의 주변적인 프로그램이 아니라 교육체제 전반에 통합해야 할 과제로 제시하고 있다.OECD의 사회정서역량 연구에서도 자기조절, 공감, 협력 등의 역량이 학교생활과 대인관계에 중요한 영향을 미치는 것으로 나타났다.교사들은 사회정서교육 하면, 정서학대와 학부모 민원을 떠올려 겁부터 낼 것이다. 학",
+          "link": "https://www.edupress.kr/news/articleView.html?idxno=30368"
+        },
+        {
+          "title": "서울시교육청, 자사고 학급당 학생 수 30명까지 낮춘다",
+          "desc": "에듀프레스 장재훈 기자 = 서울시교육청이 자사고 학급당 학생 수를 30명까지 낮추기로 했다. 현재 26명인 일반고 학급당 학생 수와의 차이를 줄여 교육여건 격차를 완화하고 일반고와의 형평성을 유지한다는 취지다.28일 서울시교육청은 2027학년도부터 적용하는 학생배치지표를 조정해 자사고의 학급당 학생 수를 단계적으로 줄여 나가기로 했다.구체적으로 올해 현재 35~36명 수준인 자사고의 학급당 학생 수를 2027년 35명, 2028년 33명, 2029년 31명, 2030년 30명으로 낮춘다. 지난 2009년 자사고 지정 이후 17년 만",
+          "link": "https://www.edupress.kr/news/articleView.html?idxno=30366"
+        }
+      ]
+    }
+  ],
+  "createdAt": "2026-07-31T20:51:38.308Z"
+}
