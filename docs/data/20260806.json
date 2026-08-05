@@ -1,0 +1,142 @@
+{
+  "date": "20260806",
+  "categories": [
+    {
+      "category": "경제·시사",
+      "icon": "💰",
+      "en": "Economy & Current Affairs",
+      "summary": "최근 중저신용자와 소상공인의 대출 연체율이 높아져 경제적 어려움이 심화되고 있으며, 정부는 취약계층을 위한 포용금융 정책을 추진 중입니다. 또한, 정부와 서울시는 주택 공급 확대를 논의하고 있으며, 엔화 약세가 한국 원화에도 영향을 미쳐 외환시장 개입 가능성이 제기되고 있습니다. 이러한 경제 상황의 변화는 우리 사회 전반에 영향을 미치고 있습니다.",
+      "insight": "경제 상황의 변화가 우리 사회 전반에 미치는 영향을 이해하고, 특히 취약계층의 어려움과 정부의 대응 노력을 아이들에게 설명할 수 있는 시야를 갖추는 것이 중요합니다.",
+      "articles": [
+        {
+          "title": "중저신용자 연체율 최고",
+          "desc": "중저신용자의 대출 연체율이 4년 만에 최고치를 기록했습니다.",
+          "link": "https://www.donga.com/news/Economy/article/all/20260805/134427898/2"
+        },
+        {
+          "title": "소상공인 빚, 연체율 심각",
+          "desc": "경기 침체로 소상공인의 연체율이 9%에 육박합니다.",
+          "link": "https://www.donga.com/news/Economy/article/all/20260805/134427912/2"
+        },
+        {
+          "title": "연체 초기 위험 관리 중요",
+          "desc": "전문가들은 연체 초기부터 위험 관리를 강조합니다.",
+          "link": "https://www.donga.com/news/Economy/article/all/20260805/134427909/2"
+        },
+        {
+          "title": "정부-서울시 주택 공급 논의",
+          "desc": "정부와 서울시가 준공업지 활용 주택 공급을 논의했습니다.",
+          "link": "https://www.donga.com/news/Politics/article/all/20260805/134427950/2"
+        },
+        {
+          "title": "엔저로 원화 약세, 개입 시사",
+          "desc": "미 재무장관이 엔저로 인한 원화 약세에 개입을 시사했습니다.",
+          "link": "https://www.donga.com/news/Inter/article/all/20260805/134427835/2"
+        }
+      ]
+    },
+    {
+      "category": "AI 뉴스",
+      "icon": "🤖",
+      "en": "AI News",
+      "summary": "최근 인공지능(AI) 기술 발전과 관련하여 여러 중요한 소식이 전해졌습니다. 반도체 기술의 물리적 한계에 대한 경고와 함께 새로운 AI 학습 기술이 등장했으며, AI 기업들이 한국 시장에 진출하고 있습니다. 또한, AI 모델의 저작권 문제와 국가 간 기술 규제 움직임도 활발합니다.",
+      "insight": "미래 사회의 핵심이 될 AI 기술이 빠르게 변화하고 있으며, 우리 아이들이 살아갈 세상에 어떤 영향을 미칠지 함께 고민하고 대비하는 것이 중요합니다.",
+      "articles": [
+        {
+          "title": "화웨이, 반도체 한계 경고",
+          "desc": "화웨이가 반도체 기술의 물리적 한계를 경고하며 새로운 기술을 제시했어요.",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=213568"
+        },
+        {
+          "title": "코히어, 한국 법인 설립",
+          "desc": "AI 기업 코히어가 한국에 법인을 세우고 '소버린 AI'를 소개했어요.",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=213578"
+        },
+        {
+          "title": "AI 모델, 저작권 제한",
+          "desc": "AI 모델 'H3'가 저작권 문제로 일부 국가에서 사용이 제한돼요.",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=213560"
+        },
+        {
+          "title": "AI 학습 속도 높이는 기술",
+          "desc": "'커서'가 AI 모델 학습을 41% 빠르게 하는 새 기술을 공개했어요.",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=213572"
+        },
+        {
+          "title": "미국, 중국산 부품 금지 검토",
+          "desc": "미국이 AI 데이터센터에 쓰이는 중국산 부품 수입을 막으려 해요.",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=213553"
+        }
+      ]
+    },
+    {
+      "category": "AI·테크 논문",
+      "icon": "📄",
+      "en": "Research · AI Times KR",
+      "summary": "최근 인공지능(AI) 기술은 우리가 생각하는 것보다 훨씬 빠르게 발전하고 있습니다. AI가 사람처럼 생각하고 느끼는지, 그리고 복잡한 문제를 스스로 해결하는 능력을 어떻게 키울지에 대한 연구가 활발히 진행되고 있어요. 또한, AI를 안전하고 효율적으로 사용하기 위해 에너지 소비량을 줄이거나 잘못된 정보를 만들지 않도록 하는 노력도 계속되고 있습니다.",
+      "insight": "미래 사회의 주역인 우리 아이들이 AI를 올바르게 이해하고 활용할 수 있도록 AI의 발전 방향과 윤리적 측면에 대한 교육적 고민이 필요합니다.",
+      "articles": [
+        {
+          "title": "AI 의식 측정 실험 재조명",
+          "desc": "AI의 의식을 라이프니츠의 방 등을 통해 측정하는 연구입니다.",
+          "link": "https://arxiv.org/abs/2608.00001"
+        },
+        {
+          "title": "AutoFOAM: 자율 정제 에이전트",
+          "desc": "복잡한 공학 시뮬레이션을 AI가 스스로 설정하고 수행합니다.",
+          "link": "https://arxiv.org/abs/2608.00003"
+        },
+        {
+          "title": "LLM의 정보 오류 줄이기",
+          "desc": "AI가 잘못된 정보를 생성하는 것을 막는 기술을 연구합니다.",
+          "link": "https://arxiv.org/abs/2608.00006"
+        },
+        {
+          "title": "LLM의 에너지 효율 분석",
+          "desc": "개인 컴퓨터에서 AI를 사용할 때 드는 전력 소모를 측정합니다.",
+          "link": "https://arxiv.org/abs/2608.00008"
+        },
+        {
+          "title": "LLM 평가 속도 높이기",
+          "desc": "AI 모델을 더 빠르고 효율적으로 평가하는 방법을 연구합니다.",
+          "link": "https://arxiv.org/abs/2608.00014"
+        }
+      ]
+    },
+    {
+      "category": "교육 뉴스",
+      "icon": "🏫",
+      "en": "Education News",
+      "summary": "최근 교육부는 교사 보호 전담 조직 신설, 평가 전문 교사 국가 인증제 도입 등 교원의 교육 활동 지원 및 전문성 강화를 위한 여러 정책을 발표했습니다. 또한, 객관식 평가 개선 논의와 특성화고 학생들의 상위 자격증 취득 지원 방안도 제시되어 교육 현장에 다양한 변화가 예상됩니다. 다만, 지방 국립대 장학금 확대 정책은 사립대의 반발을 사고 있어 지역 대학 간의 갈등도 주목됩니다.",
+      "insight": "교사들은 변화하는 평가 방식과 교권 보호 정책을 이해하고, 학생들의 미래 진로를 위한 교육 방향에 대해 학부모와 소통할 준비가 필요합니다.",
+      "articles": [
+        {
+          "title": "대입 평가 방식 변화",
+          "desc": "대통령이 객관식 평가 개선을 언급하며 대입 평가 방식 변화 가능성을 시사했습니다.",
+          "link": "https://www.edupress.kr/news/articleView.html?idxno=30383"
+        },
+        {
+          "title": "평가전문교사 인증제",
+          "desc": "교육부가 평가 전문 교사 국가 인증제를 도입하고 내신 모니터링을 확대합니다.",
+          "link": "https://www.edupress.kr/news/articleView.html?idxno=30382"
+        },
+        {
+          "title": "교원 보호 전담조직",
+          "desc": "교육부가 교원 보호 전담 조직을 추진하고 학교장 권한을 강화합니다.",
+          "link": "https://www.edupress.kr/news/articleView.html?idxno=30381"
+        },
+        {
+          "title": "특성화고 자격증 지원",
+          "desc": "교육부가 특성화고 학생들의 산업기사 자격 취득을 돕는 학교를 도입합니다.",
+          "link": "https://www.edupress.kr/news/articleView.html?idxno=30380"
+        },
+        {
+          "title": "지방 국립대 장학금",
+          "desc": "지방 국립대 장학금 확대에 사립대가 반발하며 갈등이 예상됩니다.",
+          "link": "https://www.edupress.kr/news/articleView.html?idxno=30379"
+        }
+      ]
+    }
+  ],
+  "createdAt": "2026-08-05T20:52:05.403Z"
+}
