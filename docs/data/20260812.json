@@ -1,0 +1,142 @@
+{
+  "date": "20260812",
+  "categories": [
+    {
+      "category": "경제·시사",
+      "icon": "💰",
+      "en": "Economy & Current Affairs",
+      "summary": "최신 뉴스에서는 인공지능(AI) 기술이 검색 시장의 판도를 바꾸고 구글이 네이버를 추월하는 등 디지털 환경이 빠르게 변화하고 있음을 보여줍니다. 또한 자율주행차의 국내 도입이 가속화되며 자동차 시장의 미래가 소프트웨어 중심으로 재편되고 있으며, 정부의 부동산 세제 개편안을 둘러싼 사회적 논의도 활발하게 진행 중입니다. 이러한 변화들은 우리 사회의 경제와 기술, 정책 방향에 큰 영향을 미치고 있습니다.",
+      "insight": "우리 아이들이 살아갈 미래 사회는 AI와 자율주행 기술이 일상이 되고 경제 정책이 끊임없이 변화하는 역동적인 세상이 될 것이므로, 이러한 변화를 이해하고 대비하는 교육이 중요합니다.",
+      "articles": [
+        {
+          "title": "AI 검색, 구글이 네이버 추월",
+          "desc": "AI 도입으로 구글이 국내 모바일 검색 시장에서 네이버를 처음으로 앞섰습니다.",
+          "link": "https://www.donga.com/news/Economy/article/all/20260812/134461522/2"
+        },
+        {
+          "title": "자율주행차, 내년 한국 상륙",
+          "desc": "벤츠, GM 등 해외 자율주행차가 내년 한국에 대거 도입될 예정입니다.",
+          "link": "https://www.donga.com/news/Economy/article/all/20260812/134461445/2"
+        },
+        {
+          "title": "테슬라 모델Y, 국내 판매 1위",
+          "desc": "자율주행 기대감에 테슬라 모델Y가 그랜저를 제치고 국내 판매 1위를 기록했습니다.",
+          "link": "https://www.donga.com/news/Economy/article/all/20260812/134461443/2"
+        },
+        {
+          "title": "이재명 대통령, 세제 개편안 언급",
+          "desc": "대통령이 부동산 세제 개편안에 대한 수정 가능성을 언급했습니다.",
+          "link": "https://www.donga.com/news/Politics/article/all/20260812/134461514/2"
+        },
+        {
+          "title": "국회, 세제 개편안 논의 활발",
+          "desc": "국회에서 정부의 부동산 세제 개편안과 주택 공급 방안에 대한 논의가 이어졌습니다.",
+          "link": "https://www.donga.com/news/Economy/article/all/20260812/134461511/2"
+        }
+      ]
+    },
+    {
+      "category": "AI 뉴스",
+      "icon": "🤖",
+      "en": "AI News",
+      "summary": "최근 인공지능 기술은 눈에 보이지 않는 워터마크로 생성 콘텐츠의 신뢰도를 높이고, 구글과 MS 같은 기업들은 더욱 발전된 AI 모델과 칩을 선보이며 기술 경쟁이 치열해지고 있습니다. 한편 AI 활용 비용은 낮아지고 있지만, AI를 이용한 사이버 공격 위협도 커지고 있어 기술 발전과 함께 윤리적, 보안적 측면의 중요성이 강조됩니다.",
+      "insight": "AI 기술의 빠른 발전 속에서 우리 아이들이 AI를 올바르게 이해하고 안전하게 활용할 수 있도록 교육하는 것이 미래 사회를 대비하는 중요한 과제입니다.",
+      "articles": [
+        {
+          "title": "클로드 생성물 워터마크",
+          "desc": "클로드 생성물에 보이지 않는 워터마크가 도입됩니다.",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=213821"
+        },
+        {
+          "title": "구글 제미나이 새 모델",
+          "desc": "구글의 경량 AI 모델 제미나이 3.7 플래시 출시가 임박했습니다.",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=213793"
+        },
+        {
+          "title": "MS 차세대 AI 칩 공개",
+          "desc": "MS가 자체 개발한 AI 칩 마이아 300을 올가을 공개합니다.",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=213798"
+        },
+        {
+          "title": "AI 활용 비용 최저치",
+          "desc": "기업의 AI 모델 활용 비용이 올해 최저 수준으로 떨어졌습니다.",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=213818"
+        },
+        {
+          "title": "AI 보안 위협 증가 경고",
+          "desc": "AI가 사이버 공격을 고도화한다는 경고에 보안주가 급등했습니다.",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=213817"
+        }
+      ]
+    },
+    {
+      "category": "AI·테크 논문",
+      "icon": "📄",
+      "en": "Research · AI Times KR",
+      "summary": "최근 인공지능(AI) 기술은 인간의 의사결정을 돕거나, 위험한 상황에서 AI를 안전하게 제어하는 방법에 대한 연구가 활발합니다. 또한, AI가 복잡한 정보를 이해하고 처리하는 새로운 프레임워크를 만들거나, 인간의 감정과 행동을 AI 모델에 반영하는 시도도 이루어지고 있습니다. 이처럼 AI는 다양한 분야에서 발전하며 우리 삶에 더 깊이 들어오고 있습니다.",
+      "insight": "미래 사회의 주역인 아이들이 AI를 올바르게 이해하고 활용할 수 있도록, 교실에서 AI의 기본 원리와 윤리적 측면을 함께 고민하는 교육이 중요합니다.",
+      "articles": [
+        {
+          "title": "평가 AI의 논증 기반",
+          "desc": "평가 AI는 여러 가설과 증거를 제시해 의사결정을 돕습니다.",
+          "link": "https://arxiv.org/abs/2608.07473"
+        },
+        {
+          "title": "고위험 AI 제어 방법",
+          "desc": "AI 속도가 빠르면 인간 개입이 어려워 새로운 제어 방식이 필요합니다.",
+          "link": "https://arxiv.org/abs/2608.07474"
+        },
+        {
+          "title": "구조 이론의 결정화",
+          "desc": "다양한 구조 이론에서 표준 해석을 만드는 프레임워크를 개발합니다.",
+          "link": "https://arxiv.org/abs/2608.07476"
+        },
+        {
+          "title": "운전 모델 속 감정",
+          "desc": "인간 운전 모델에 목표 지향 행동과 불확실성 감소를 통합합니다.",
+          "link": "https://arxiv.org/abs/2608.07480"
+        },
+        {
+          "title": "긴 시퀀스 딥러닝 훈련",
+          "desc": "가변적인 긴 시퀀스 훈련은 효율성과 사용 편의성 사이의 균형이 어렵습니다.",
+          "link": "https://arxiv.org/abs/2608.07524"
+        }
+      ]
+    },
+    {
+      "category": "교육 뉴스",
+      "icon": "🏫",
+      "en": "Education News",
+      "summary": "국가교육위원회가 수업-내신-수능 연계 및 서·논술형 평가 도입을 포함한 대입제도 개편을 공론화했습니다. 서울시교육청은 1.2조 추경으로 3세 유아 무상교육을 추진하고 학교 환경 개선에 힘쓰며, 방과후 돌봄 체제도 지역사회 협력형으로 전환을 모색 중입니다. 이처럼 교육 전반에 걸쳐 평가 방식부터 재정, 돌봄까지 다양한 변화가 논의되고 있습니다.",
+      "insight": "초등학교 교사들은 미래 대입제도 변화가 초등 교육과정 및 평가 방식에 미칠 영향을 주시하고, 유아 무상교육 확대와 방과후 돌봄 체제 개편 등 현장에 직접 영향을 줄 정책 변화에 대한 이해와 대비가 필요합니다.",
+      "articles": [
+        {
+          "title": "국교위, 대입개편 공론화",
+          "desc": "수업-내신-수능 일체화 및 서논술형 평가 도입 논의 시작.",
+          "link": "https://www.edupress.kr/news/articleView.html?idxno=30395"
+        },
+        {
+          "title": "교육교부금 개편 논쟁",
+          "desc": "지방교육재정교부금 개편안, 공교육 재정 문제로 확산.",
+          "link": "https://www.edupress.kr/news/articleView.html?idxno=30394"
+        },
+        {
+          "title": "서울교육청 1.2조 추경",
+          "desc": "서울시교육청, 1.2조 추경 편성, 3세 유아 무상교육 추진.",
+          "link": "https://www.edupress.kr/news/articleView.html?idxno=30391"
+        },
+        {
+          "title": "서울형 방과후 돌봄 논의",
+          "desc": "서울 방과후 돌봄을 지역사회 협력형으로 전환 논의.",
+          "link": "https://www.edupress.kr/news/articleView.html?idxno=30390"
+        },
+        {
+          "title": "수능 절대평가 도입 지지",
+          "desc": "교원·학부모단체, 수능 절대평가 및 서논술형 평가 도입 지지.",
+          "link": "https://www.edupress.kr/news/articleView.html?idxno=30389"
+        }
+      ]
+    }
+  ],
+  "createdAt": "2026-08-11T20:52:06.728Z"
+}
