@@ -1,0 +1,142 @@
+{
+  "date": "20260814",
+  "categories": [
+    {
+      "category": "경제·시사",
+      "icon": "💰",
+      "en": "Economy & Current Affairs",
+      "summary": "최근 정부는 부동산 시장 안정을 위해 다양한 정책을 발표했습니다. 수도권에 주택 공급을 늘리고, 투기성 대출은 막는 한편, 청년들의 첫 주택 구매를 돕는 지원책도 마련하고 있습니다. 또한, 지방 창업 혜택을 악용하는 사례도 나타나고 있으며, 대기업들이 주주들에게 이익을 돌려주는 소식도 들려옵니다.",
+      "insight": "이러한 경제·시사 뉴스를 통해 우리 아이들이 살아갈 사회의 변화와 경제 활동의 흐름을 이해하고, 바람직한 경제관념을 가질 수 있도록 지도하는 것이 중요합니다.",
+      "articles": [
+        {
+          "title": "수도권 주택 23만채 공급",
+          "desc": "정부, 수도권에 주택 23만 채 추가 공급.",
+          "link": "https://www.donga.com/news/Politics/article/all/20260814/134475997/2"
+        },
+        {
+          "title": "지방 창업 '주소 세탁' 성행",
+          "desc": "지방 창업 세금 혜택 노린 주소 세탁 성행.",
+          "link": "https://www.donga.com/news/Economy/article/all/20260814/134475993/2"
+        },
+        {
+          "title": "삼전닉스 대규모 주주환원",
+          "desc": "삼성전자·SK하이닉스, 대규모 주주환원 예고.",
+          "link": "https://www.donga.com/news/Economy/article/all/20260814/134475991/2"
+        },
+        {
+          "title": "비거주 1주택자 전세대출 차단",
+          "desc": "수도권 비거주 1주택자 내년부터 전세대출 제한.",
+          "link": "https://www.donga.com/news/Economy/article/all/20260814/134476015/2"
+        },
+        {
+          "title": "청년 첫 주택 대출 80%",
+          "desc": "청년, 생애 첫 4억 이하 비아파트 80%까지 대출.",
+          "link": "https://www.donga.com/news/Economy/article/all/20260814/134476010/2"
+        }
+      ]
+    },
+    {
+      "category": "AI 뉴스",
+      "icon": "🤖",
+      "en": "AI News",
+      "summary": "최근 AI 기술은 놀라운 발전을 보이며 우리 생활 곳곳에 스며들고 있습니다. AI 모델의 내부 작동 방식이 유출될 수 있다는 보안 문제가 제기되는 한편, AI 서비스 사용량에 따라 추가 요금을 내는 새로운 수익 모델도 등장하고 있습니다. 또한, AI가 스스로 업무를 처리하는 능력이 강화되고 기업 간 경쟁도 치열해지고 있으며, 심지어 AI를 활용해 반려견의 암 치료법을 개발하는 등 의료 분야에서도 혁신적인 시도가 이어지고 있습니다.",
+      "insight": "AI 기술은 빠르게 발전하며 우리의 삶과 미래 직업에 큰 영향을 미치고 있으므로, 교사들은 AI의 잠재력과 한계를 이해하고 학생들에게 올바른 AI 활용법과 윤리적 인식을 교육해야 합니다.",
+      "articles": [
+        {
+          "title": "AI 사고 과정 유출 파문",
+          "desc": "AI 모델의 내부 사고 과정이 API 허점으로 유출될 수 있다는 연구 결과가 나왔습니다.",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=213894"
+        },
+        {
+          "title": "챗GPT 사용량 유료 초기화",
+          "desc": "챗GPT 플러스 사용자가 추가 요금으로 주간 사용량을 초기화하는 기능이 테스트 중입니다.",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=213889"
+        },
+        {
+          "title": "딥시크, AI 에이전트 개발",
+          "desc": "딥시크가 AI 모델을 자율 에이전트로 전환하는 전담팀을 공개했습니다.",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=213883"
+        },
+        {
+          "title": "오픈AI, 기업 AI 지출 선두",
+          "desc": "오픈AI의 AI 모델이 기업 AI 지출에서 경쟁사를 앞섰습니다.",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=213909"
+        },
+        {
+          "title": "AI로 반려견 암 치료법 개발",
+          "desc": "챗GPT로 반려견 암 치료법을 만든 사업가가 스타트업을 설립했습니다.",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=213911"
+        }
+      ]
+    },
+    {
+      "category": "AI·테크 논문",
+      "icon": "📄",
+      "en": "Research · AI Times KR",
+      "summary": "최근 AI 기술 연구는 인공지능이 서로 협력하는 방식, 복잡한 수학 문제를 해결하는 능력, 그리고 AI 모델 내부의 작은 오류가 미치는 영향 등 다양한 분야에서 발전하고 있습니다. 특히, 많은 AI가 상호작용하는 가상 사회를 일반 노트북에서도 시뮬레이션할 수 있는 기술이 개발되어 AI 연구의 접근성이 높아지고 있습니다. 이러한 연구들은 AI의 작동 원리를 이해하고 더 나은 AI를 만드는 데 기여하고 있습니다.",
+      "insight": "이러한 AI 연구 동향은 미래 교육에서 AI 활용의 폭을 넓히고, 학생들이 AI의 협력, 문제 해결 능력, 그리고 한계점을 이해하는 데 중요한 시사점을 제공합니다.",
+      "articles": [
+        {
+          "title": "AI 대화 협력 관리",
+          "desc": "다른 목표 가진 AI 대화, 공동 목표 없으면 붕괴.",
+          "link": "https://arxiv.org/abs/2608.11207"
+        },
+        {
+          "title": "베이즈 모델 예측 개선",
+          "desc": "과학 모델 예측 시 초기 설정 개선 연구.",
+          "link": "https://arxiv.org/abs/2608.11210"
+        },
+        {
+          "title": "AI, 수학 난제 해결",
+          "desc": "AI가 복잡한 수학 그래프 문제 해결 시도.",
+          "link": "https://arxiv.org/abs/2608.11211"
+        },
+        {
+          "title": "AI 모델 오류 감지",
+          "desc": "AI 내부 작은 오류가 결과 변경, 해결 난제.",
+          "link": "https://arxiv.org/abs/2608.11212"
+        },
+        {
+          "title": "저비용 AI 사회 시뮬레이션",
+          "desc": "많은 AI 상호작용, 일반 노트북으로 시뮬레이션.",
+          "link": "https://arxiv.org/abs/2608.11215"
+        }
+      ]
+    },
+    {
+      "category": "교육 뉴스",
+      "icon": "🏫",
+      "en": "Education News",
+      "summary": "최근 교육계는 학생 맞춤형 지원부터 재정 개편까지 다양한 변화를 모색하고 있습니다. 서울시교육청은 수학 난산 학생 지원 프로그램 '서울셈'을 시작하고, 1.2조원 규모의 추경을 통해 만3세 유아 무상교육과 학교 환경 개선에 나섭니다. 한편, 전국 초등교장들은 교육재정 축소에 반대하며 교육투자 유지를 촉구하고, 미래 대입제도 개편 논의도 본격화되고 있습니다.",
+      "insight": "초등 교사들은 학생 개개인의 학습 지원과 더불어, 교육재정 및 대입 제도 변화가 학교 현장에 미칠 영향을 주시하며 능동적으로 대응할 준비가 필요합니다.",
+      "articles": [
+        {
+          "title": "서울셈, 난산 학생 지원",
+          "desc": "서울시교육청이 수학 난산 학생을 위한 맞춤형 학습 지원 프로그램 '서울셈'을 운영합니다.",
+          "link": "https://www.edupress.kr/news/articleView.html?idxno=30398"
+        },
+        {
+          "title": "초등교장, 교육투자 유지 촉구",
+          "desc": "전국 초등교장들이 학생 수 감소에도 교육투자 축소에 반대하며 유지를 촉구했습니다.",
+          "link": "https://www.edupress.kr/news/articleView.html?idxno=30397"
+        },
+        {
+          "title": "대입개편 공론화 시작",
+          "desc": "국교위가 수업-내신-수능 일체화 대입 개편을 위한 현장 토론회를 시작했습니다.",
+          "link": "https://www.edupress.kr/news/articleView.html?idxno=30395"
+        },
+        {
+          "title": "교육교부금 개편 논쟁",
+          "desc": "지방교육재정교부금 개편 논쟁이 심화되며 교육감의 역할이 중요해졌습니다.",
+          "link": "https://www.edupress.kr/news/articleView.html?idxno=30394"
+        },
+        {
+          "title": "서울시교육청 추경 편성",
+          "desc": "서울시교육청이 1.2조 추경으로 학교 환경 개선 및 만3세 유아 무상교육을 지원합니다.",
+          "link": "https://www.edupress.kr/news/articleView.html?idxno=30391"
+        }
+      ]
+    }
+  ],
+  "createdAt": "2026-08-13T20:52:07.788Z"
+}
