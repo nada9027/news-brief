@@ -1,0 +1,142 @@
+{
+  "date": "20260816",
+  "categories": [
+    {
+      "category": "경제·시사",
+      "icon": "💰",
+      "en": "Economy & Current Affairs",
+      "summary": "최근 사회는 고액 재산 분할 소송, 특별관 영화 관람 증가, 국가 공원 주택 개발 반대, 개인 정보 유출 사고, 그리고 은행 예금 증가 등 다양한 변화를 겪고 있습니다. 이러한 뉴스들은 경제, 문화, 사회, 보안 등 여러 분야에서 중요한 시사점을 제공하며, 우리 사회의 현재와 미래를 이해하는 데 도움을 줍니다.",
+      "insight": "다양한 사회 현상을 통해 아이들에게 경제, 환경, 기술 윤리 등 폭넓은 시사 교육의 기회를 제공할 수 있습니다.",
+      "articles": [
+        {
+          "title": "재산분할 소송, 새 국면",
+          "desc": "거액 재산 분할 소송이 대법원 판단을 다시 받게 됩니다.",
+          "link": "https://www.donga.com/news/Economy/article/all/20260815/134483410/1"
+        },
+        {
+          "title": "특별관 영화 관람 증가",
+          "desc": "특별관과 N차 관람으로 영화 소비 방식이 변하고 있습니다.",
+          "link": "https://www.donga.com/news/Economy/article/all/20260814/134478934/2"
+        },
+        {
+          "title": "용산공원 주택 개발 반대",
+          "desc": "용산구가 국가공원 주택 공급 계획에 강력히 반대합니다.",
+          "link": "https://www.donga.com/news/Economy/article/all/20260815/134483318/1"
+        },
+        {
+          "title": "대학 개인정보 유출 사고",
+          "desc": "서강대에서 18만 건의 개인정보가 유출되는 사고가 발생했습니다.",
+          "link": "https://www.donga.com/news/Society/article/all/20260815/134483221/1"
+        },
+        {
+          "title": "은행 정기예금 1000조 육박",
+          "desc": "5대 은행 정기예금이 1000조 원 돌파를 앞두고 있습니다.",
+          "link": "https://www.donga.com/news/Economy/article/all/20260815/134483072/1"
+        }
+      ]
+    },
+    {
+      "category": "AI 뉴스",
+      "icon": "🤖",
+      "en": "AI News",
+      "summary": "최근 인공지능 기술은 빠르게 발전하며 우리 생활에 더 가까이 다가오고 있습니다. AI가 만든 결과물에 워터마크를 넣는 등 투명성 논란이 있는가 하면, 알리바바 같은 기업들은 강력한 AI 모델을 공개하며 기술 경쟁을 심화하고 있습니다. 또한, 챗GPT는 사용자의 컴퓨터 활동을 기억하여 개인 비서처럼 도와주는 기능까지 선보이며, AI가 점점 더 똑똑해지고 있음을 보여줍니다.",
+      "insight": "교사들은 빠르게 변화하는 AI 기술의 장단점을 이해하고, 학생들이 AI를 올바르고 윤리적으로 활용하는 방법을 지도할 준비를 해야 합니다.",
+      "articles": [
+        {
+          "title": "클로드 워터마크 논란",
+          "desc": "앤트로픽이 클로드에 워터마크를 도입하자 사용자들이 반발하며 구독을 취소하고 있습니다.",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=213998"
+        },
+        {
+          "title": "알리바바 큐원3.8-맥스 공개",
+          "desc": "알리바바가 최신 AI 모델 가중치를 공개했지만, 대기업 상업 이용 시 라이선스가 필요합니다.",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=213997"
+        },
+        {
+          "title": "챗GPT 맥용 컴퓨터 히스토리",
+          "desc": "오픈AI가 챗GPT 맥용 앱에 사용자의 컴퓨터 활동을 기억하는 기능을 추가했습니다.",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=213986"
+        },
+        {
+          "title": "알리바바 큐원3.8-27B 공개",
+          "desc": "알리바바가 고성능 AI 모델 가중치를 공개하며 오픈소스 경쟁에 불을 붙였습니다.",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=213987"
+        },
+        {
+          "title": "미스트랄 AI OCR 4.1 공개",
+          "desc": "미스트랄 AI가 복잡한 문서 구조를 정확히 인식하는 OCR 모델을 개선했습니다.",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=213991"
+        }
+      ]
+    },
+    {
+      "category": "AI·테크 논문",
+      "icon": "📄",
+      "en": "Research · AI Times KR",
+      "summary": "최근 AI 기술은 스스로 생각하고 학습하는 능력을 발전시키고 있으며, 연구 윤리 준수나 판단의 근거 등 AI의 윤리적인 측면에 대한 고민이 깊어지고 있습니다. 또한, AI가 정보를 검열하거나 조작하는 데 악용될 수 있다는 우려와 함께, 여러 AI가 협력하여 복잡한 작업을 효율적으로 처리하는 기술도 발전하고 있습니다. 이러한 변화들은 AI의 긍정적 활용과 잠재적 위험성에 대한 이해를 높이는 데 중요합니다.",
+      "insight": "교사들은 AI 기술의 발전과 함께 윤리적 문제, 그리고 AI의 판단 과정에 대한 이해를 바탕으로 학생들이 미래 사회의 책임감 있는 AI 사용자로 성장하도록 지도해야 합니다.",
+      "articles": [
+        {
+          "title": "AI의 추론 능력",
+          "desc": "AI가 스스로 생각하고 학습하는 방식 연구",
+          "link": "https://arxiv.org/abs/2608.12325"
+        },
+        {
+          "title": "AI 연구 윤리 평가",
+          "desc": "AI의 연구 윤리 준수 능력을 평가하는 기준 개발",
+          "link": "https://arxiv.org/abs/2608.12345"
+        },
+        {
+          "title": "AI 기술의 양면성",
+          "desc": "유해 방지 AI 기술이 검열에 악용될 우려",
+          "link": "https://arxiv.org/abs/2608.12346"
+        },
+        {
+          "title": "AI와 인간의 윤리",
+          "desc": "AI의 윤리적 판단 근거가 사람과 다를 수 있음",
+          "link": "https://arxiv.org/abs/2608.12368"
+        },
+        {
+          "title": "AI 협력 작업 분배",
+          "desc": "모바일 환경에서 AI가 협력하여 데이터 처리",
+          "link": "https://arxiv.org/abs/2608.12371"
+        }
+      ]
+    },
+    {
+      "category": "교육 뉴스",
+      "icon": "🏫",
+      "en": "Education News",
+      "summary": "교육교부금 개편을 둘러싼 교육부와 기획예산처의 갈등이 심화되는 가운데, 폐교 부지에 아파트와 교육시설이 함께 들어서는 주교복합 개발이 서울에서 첫 사례로 추진됩니다. 한편, 교실 내 정의 부재와 교권 추락에 대한 성찰이 요구되며, 수학 학습에 어려움을 겪는 학생들을 위한 '서울셈' 프로그램이 본격 운영됩니다. 이러한 소식들은 교육 환경 변화와 학생 지원 방안에 대한 교사들의 관심을 높이고 있습니다.",
+      "insight": "교사들은 교육 재정 변화와 학교 공간 활용의 새로운 가능성을 인지하고, 교실 내 정의로운 환경 조성 및 개별 학생 맞춤형 지원 방안을 지속적으로 모색해야 합니다.",
+      "articles": [
+        {
+          "title": "교육교부금 사수 배수진",
+          "desc": "교육부와 기획예산처 장관이 교육교부금 개편을 두고 대립 중입니다.",
+          "link": "https://www.edupress.kr/news/articleView.html?idxno=30402"
+        },
+        {
+          "title": "폐교부지 주교복합 개발",
+          "desc": "서울 폐교 부지에 아파트와 교육시설이 함께 들어섭니다.",
+          "link": "https://www.edupress.kr/news/articleView.html?idxno=30401"
+        },
+        {
+          "title": "교실 속 정의, 있는가?",
+          "desc": "아이들은 교실에 정의가 없다고 느끼며 힘센 학생이 제지받지 않습니다.",
+          "link": "https://www.edupress.kr/news/articleView.html?idxno=30400"
+        },
+        {
+          "title": "교원, 아이언 돔 필요?",
+          "desc": "열정적인 선생님이 어려움을 겪는 현실을 조명합니다.",
+          "link": "https://www.edupress.kr/news/articleView.html?idxno=30399"
+        },
+        {
+          "title": "난산 학생 지원 '서울셈'",
+          "desc": "서울시교육청이 수학 학습 어려움을 겪는 학생을 지원합니다.",
+          "link": "https://www.edupress.kr/news/articleView.html?idxno=30398"
+        }
+      ]
+    }
+  ],
+  "createdAt": "2026-08-15T20:52:24.375Z"
+}
