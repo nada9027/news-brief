@@ -1,0 +1,142 @@
+{
+  "date": "20260818",
+  "categories": [
+    {
+      "category": "경제·시사",
+      "icon": "💰",
+      "en": "Economy & Current Affairs",
+      "summary": "인공지능(AI)과 같은 신기술이 우리 사회와 직업 환경에 큰 변화를 가져오고 있습니다. 50대가 AI를 배워 새로운 직업을 찾고, 농업 분야에서도 AI가 활용되는 등 기술 발전이 다양한 기회를 만들고 있습니다. 하지만 청년 실업 문제와 같은 사회적 과제와 주택 공급 정책의 실효성 문제도 함께 고민해야 할 시점입니다.",
+      "insight": "아이들에게 미래 사회의 변화에 유연하게 대처하고, 새로운 기술을 배우며 문제 해결 능력을 키우는 것의 중요성을 알려줄 수 있습니다.",
+      "articles": [
+        {
+          "title": "AI로 재도약하는 50대",
+          "desc": "50대가 AI를 배워 프랜차이즈 팀장으로 재취업, AI 활용법을 배웁니다.",
+          "link": "https://www.donga.com/news/Society/article/all/20260818/134490931/2"
+        },
+        {
+          "title": "심각한 청년 실업 문제",
+          "desc": "청년 고용률 하락과 실업률 상승으로 청년 일자리 문제가 심각합니다.",
+          "link": "https://www.donga.com/news/Society/article/all/20260818/134490934/2"
+        },
+        {
+          "title": "골프 상금왕 교체 예고",
+          "desc": "타이거 우즈를 넘어설 새로운 골프 상금왕이 등장할 가능성이 높습니다.",
+          "link": "https://www.donga.com/news/Sports/article/all/20260818/134491529/2"
+        },
+        {
+          "title": "미래 농업 박람회 개최",
+          "desc": "AI 농업과 K푸드를 조명하는 미래 농업 박람회가 열립니다.",
+          "link": "https://www.donga.com/news/People/article/all/20260818/134491945/2"
+        },
+        {
+          "title": "매입임대주택 빈집 증가",
+          "desc": "정부의 매입임대주택 공급에도 기존 주택 빈집이 늘고 있습니다.",
+          "link": "https://www.donga.com/news/Economy/article/all/20260818/134491668/2"
+        }
+      ]
+    },
+    {
+      "category": "AI 뉴스",
+      "icon": "🤖",
+      "en": "AI News",
+      "summary": "최근 AI 기술은 우리 생활과 산업 전반에 걸쳐 빠르게 발전하고 있습니다. 다음 검색의 AI 요약에 업스테이지의 '솔라' 모델이 전면 적용되고, 라이너는 B2B AI 검색 시장으로 확장하는 등 AI 활용 범위가 넓어지고 있습니다. 한편, 오픈AI는 코딩 AI '코덱스'의 성능을 대폭 개선하며 기술 혁신을 이어가고 있습니다.",
+      "insight": "이러한 AI 기술의 발전은 미래 사회의 변화를 가속화하므로, 아이들이 AI를 이해하고 활용할 수 있도록 교육하는 것이 중요합니다.",
+      "articles": [
+        {
+          "title": "다음 검색, 솔라 AI 요약",
+          "desc": "업스테이지 솔라 LLM이 다음 검색의 AI 요약에 100% 적용됩니다.",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=214026"
+        },
+        {
+          "title": "데이터센터, 미 농촌 갈등",
+          "desc": "AI 데이터센터 건설로 미국 농촌 지역사회 갈등이 심화됩니다.",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=214029"
+        },
+        {
+          "title": "마스오토, 무인 화물운송",
+          "desc": "마스오토는 E2E AI로 2028년 무인 화물운송 시대를 목표합니다.",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=213762"
+        },
+        {
+          "title": "라이너, B2B AI 검색 확장",
+          "desc": "라이너가 B2C AI 검색 노하우를 바탕으로 B2B 사업을 본격화합니다.",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=214025"
+        },
+        {
+          "title": "오픈AI 코덱스 성능 개선",
+          "desc": "오픈AI 코덱스가 긴 작업에서 속도와 메모리 사용량을 대폭 개선합니다.",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=214016"
+        }
+      ]
+    },
+    {
+      "category": "AI·테크 논문",
+      "icon": "📄",
+      "en": "Research · AI Times KR",
+      "summary": "최근 인공지능 기술은 빠르게 발전하며, 특히 대규모 언어 모델(LLM)의 평가, 효율성, 구조, 운영 및 안전성에 대한 심도 깊은 연구들이 활발히 진행되고 있습니다. 이 연구들은 AI가 스스로를 평가하고, 인간 뇌처럼 기능별로 특화된 구조를 가지며, 더욱 효율적이고 안전하게 작동하도록 하는 방법을 모색하고 있습니다. 이러한 발전은 미래 교육 현장에서 AI를 활용하는 방식에도 큰 영향을 미칠 것입니다.",
+      "insight": "인공지능 기술의 발전은 AI가 스스로를 평가하고, 복잡한 인지 기능을 수행하며, 더욱 안전하고 효율적으로 운영될 수 있는 가능성을 보여주므로, 교사들은 AI의 작동 원리와 잠재적 활용 방안에 대한 이해를 높여야 합니다.",
+      "articles": [
+        {
+          "title": "AI 평가 공정성 연구",
+          "desc": "AI가 AI를 평가하는 방식의 공정성 개선 연구입니다.",
+          "link": "https://arxiv.org/abs/2608.13564"
+        },
+        {
+          "title": "AI 모델 효율성 분석",
+          "desc": "대규모 AI 모델의 내부 효율성 향상 방안을 연구합니다.",
+          "link": "https://arxiv.org/abs/2608.13565"
+        },
+        {
+          "title": "AI의 모듈형 인지 구조",
+          "desc": "AI가 인간 뇌처럼 기능별 특화 구조를 가질 가능성 연구입니다.",
+          "link": "https://arxiv.org/abs/2608.13567"
+        },
+        {
+          "title": "AI 서비스 운영 분석",
+          "desc": "LLM 서비스의 실제 사용 패턴과 최적화 방안을 분석합니다.",
+          "link": "https://arxiv.org/abs/2608.13573"
+        },
+        {
+          "title": "AI 에이전트 안전성",
+          "desc": "도구 사용하는 AI 에이전트의 안전 관리 시스템을 연구합니다.",
+          "link": "https://arxiv.org/abs/2608.13574"
+        }
+      ]
+    },
+    {
+      "category": "교육 뉴스",
+      "icon": "🏫",
+      "en": "Education News",
+      "summary": "교육부와 기획재정부가 교육교부금 개편을 두고 첨예하게 대립하는 가운데, 서울에서는 폐교 부지에 주거와 교육시설을 결합한 복합단지 개발이 추진됩니다. 한편, 교실 내 정의 구현과 교권 보호에 대한 사회적 논의가 활발하며, 서울시교육청은 수학 학습에 어려움을 겪는 학생들을 위한 맞춤형 지원 프로그램을 시작했습니다.",
+      "insight": "교육 재정 문제부터 학생 지원, 교권 보호까지 교육 현장의 복합적인 과제들을 이해하고, 변화하는 교육 환경에 능동적으로 대응하는 자세가 필요합니다.",
+      "articles": [
+        {
+          "title": "교육교부금 개편 갈등",
+          "desc": "교육부와 기재부 장관이 교부금 개편을 두고 대립 중입니다.",
+          "link": "https://www.edupress.kr/news/articleView.html?idxno=30402"
+        },
+        {
+          "title": "폐교부지 주교복합 개발",
+          "desc": "서울 폐교 부지에 아파트와 체육관이 들어섭니다.",
+          "link": "https://www.edupress.kr/news/articleView.html?idxno=30401"
+        },
+        {
+          "title": "교실 속 정의 구현 고민",
+          "desc": "아이들이 교실에 정의가 없다고 느끼는 현실을 다룹니다.",
+          "link": "https://www.edupress.kr/news/articleView.html?idxno=30400"
+        },
+        {
+          "title": "교원 보호, 아이언 돔 필요",
+          "desc": "열정적인 교사도 교권 추락으로 어려움을 겪습니다.",
+          "link": "https://www.edupress.kr/news/articleView.html?idxno=30399"
+        },
+        {
+          "title": "난산 학생 지원 '서울셈'",
+          "desc": "서울시교육청이 수학 난산 학생을 맞춤 지원합니다.",
+          "link": "https://www.edupress.kr/news/articleView.html?idxno=30398"
+        }
+      ]
+    }
+  ],
+  "createdAt": "2026-08-17T20:52:08.241Z"
+}
