@@ -1,0 +1,142 @@
+{
+  "date": "20260820",
+  "categories": [
+    {
+      "category": "경제·시사",
+      "icon": "💰",
+      "en": "Economy & Current Affairs",
+      "summary": "코로나19 이후 한국 바이오 산업이 세계적 위상을 확보하며 수출액이 크게 늘었고, 골프 선수 김시우는 한국인 최초로 PGA 투어 통산 상금 4천만 달러를 돌파했습니다. 한편, 교육교부금 산정 방식이 54년 만에 개편되어 학령인구 변화 등을 반영하게 되며, 가계 부채는 사상 처음으로 2000조 원을 넘어 고금리 시대에 상환 부담이 우려됩니다. 또한, 원-달러 환율은 하락했지만 미국 국채 금리가 급등하며 국내 경제에 부담을 주고 있습니다.",
+      "insight": "우리 아이들이 살아갈 미래 사회의 주요 산업 변화, 경제 동향, 그리고 교육 정책의 흐름을 이해하는 데 도움이 되는 뉴스들입니다.",
+      "articles": [
+        {
+          "title": "한국 바이오 산업 성장",
+          "desc": "한국 바이오 산업이 세계적 백신 공장으로 도약했습니다.",
+          "link": "https://www.donga.com/news/It/article/all/20260820/134507052/2"
+        },
+        {
+          "title": "김시우 PGA 통산 상금",
+          "desc": "김시우 선수가 PGA 통산 상금 4천만 달러를 돌파했습니다.",
+          "link": "https://www.donga.com/news/Sports/article/all/20260820/134507828/2"
+        },
+        {
+          "title": "교육교부금 개편",
+          "desc": "교육교부금 산정 방식이 54년 만에 변경됩니다.",
+          "link": "https://www.donga.com/news/Economy/article/all/20260820/134508537/2"
+        },
+        {
+          "title": "가계빚 2000조 돌파",
+          "desc": "한국 가계빚이 사상 처음으로 2000조 원을 넘어섰습니다.",
+          "link": "https://www.donga.com/news/Economy/article/all/20260820/134508514/2"
+        },
+        {
+          "title": "환율 하락과 금리 급등",
+          "desc": "원-달러 환율 하락과 미국 국채 금리 급등이 경제에 영향을 줍니다.",
+          "link": "https://www.donga.com/news/Economy/article/all/20260820/134508516/2"
+        }
+      ]
+    },
+    {
+      "category": "AI 뉴스",
+      "icon": "🤖",
+      "en": "AI News",
+      "summary": "최근 인공지능(AI) 기술이 빠르게 발전하며 우리 생활과 교육 현장에 큰 영향을 미치고 있습니다. AI가 생성한 글을 식별하는 워터마크 기술이 등장했지만, 이를 우회하려는 움직임도 나타나고 있으며, 챗GPT와 같은 AI가 부적절한 언어를 사용하는 사례도 보고되고 있습니다. 한편, 구글은 모바일 크롬 브라우저에 AI를 탑재하고 기업 업무 자동화에도 AI를 활용하는 등 AI의 적용 범위를 넓히고 있습니다.",
+      "insight": "AI 기술의 발전과 확산은 아이들의 학습 방식과 미래 직업 세계에 큰 변화를 가져올 것이므로, AI의 윤리적 사용과 비판적 사고력을 길러주는 교육이 더욱 중요해지고 있습니다.",
+      "articles": [
+        {
+          "title": "앤트로픽 클로드 워터마크",
+          "desc": "AI 텍스트 식별 워터마크, 제거 도구 등장.",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=214103"
+        },
+        {
+          "title": "커서, AI 코드 플랫폼",
+          "desc": "AI 에이전트 중심 코드 관리 플랫폼 오리진 출시.",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=214101"
+        },
+        {
+          "title": "챗GPT 욕설 논란",
+          "desc": "챗GPT가 대화 중 비속어 사용 사례 급증.",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=214117"
+        },
+        {
+          "title": "구글 크롬에 제미나이",
+          "desc": "구글, 크롬에 제미나이 통합하여 AI 기능 확장.",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=214118"
+        },
+        {
+          "title": "구글, AI로 업무 자동화",
+          "desc": "구글, 기업 데이터 분석 업무에 AI 에이전트 도입.",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=214122"
+        }
+      ]
+    },
+    {
+      "category": "AI·테크 논문",
+      "icon": "📄",
+      "en": "Research · AI Times KR",
+      "summary": "최근 인공지능(AI) 기술이 임상 시험 데이터 분석, AI 에이전트의 안전한 작동, 수학 연구 등 다양한 전문 분야에서 활용될 가능성이 커지고 있어요. 하지만 AI가 아직 완벽하지 않아, 신뢰성을 높이고 안전하게 관리하며 효율적으로 사용하는 방법에 대한 연구가 활발히 진행 중입니다. AI의 똑똑함 뒤에는 우리가 해결해야 할 여러 과제들이 숨어 있답니다.",
+      "insight": "미래 사회의 주역인 우리 아이들이 AI를 올바르게 이해하고 활용할 수 있도록, AI의 발전과 함께 따라오는 윤리적, 사회적 책임에 대해서도 함께 고민하는 교육이 필요합니다.",
+      "articles": [
+        {
+          "title": "임상 시험 LLM 에이전트",
+          "desc": "LLM이 임상 시험 데이터 프로그래밍에 활용되지만, 아직 신뢰성 문제가 있습니다.",
+          "link": "https://arxiv.org/abs/2608.16890"
+        },
+        {
+          "title": "AI 에이전트 런타임 관리",
+          "desc": "AI 에이전트의 실제 행동을 안전하게 제어하는 기술입니다.",
+          "link": "https://arxiv.org/abs/2608.16891"
+        },
+        {
+          "title": "AI 추론 비용과 계약",
+          "desc": "AI 모델 사용 시 추론 능력 등 계약 조건을 잘 살펴봐야 합니다.",
+          "link": "https://arxiv.org/abs/2608.16956"
+        },
+        {
+          "title": "연합 학습 방사선 보고서",
+          "desc": "여러 병원 데이터를 모아 방사선 보고서 분석을 돕습니다.",
+          "link": "https://arxiv.org/abs/2608.16971"
+        },
+        {
+          "title": "AI와 수학적 발견",
+          "desc": "AI를 활용하여 수학 연구의 효율성을 높이는 방법을 연구합니다.",
+          "link": "https://arxiv.org/abs/2608.16977"
+        }
+      ]
+    },
+    {
+      "category": "교육 뉴스",
+      "icon": "🏫",
+      "en": "Education News",
+      "summary": "최근 지방교육재정교부금 개편을 둘러싼 교육계의 반발이 거세며, 이와 관련해 교육부 장관의 거취까지 거론되고 있습니다. 한편, 학교 현장에서는 적극 행정으로 화재 참사를 예방한 사례가 주목받고, 2029학년도 수능은 국어·수학·탐구 선택과목이 폐지되는 등 큰 변화가 예고되었습니다. 서울에서는 처음으로 폐교 부지에 아파트와 교육 시설이 함께 들어서는 주교복합 개발이 추진됩니다.",
+      "insight": "초등 교사들은 교육 재정 변화가 학교 운영에 미칠 영향을 파악하고, 학교 안전 관리의 중요성 및 미래 교육 과정 변화에 대한 이해를 높여야 할 것입니다.",
+      "articles": [
+        {
+          "title": "교부금 개편 논란",
+          "desc": "교육재정 교부금 개편안에 교육계 반발 심화",
+          "link": "https://www.edupress.kr/news/articleView.html?idxno=30405"
+        },
+        {
+          "title": "학교 화재 예방 노력",
+          "desc": "공무원 적극 행정으로 학교 방화셔터 개선",
+          "link": "https://www.edupress.kr/news/articleView.html?idxno=30403"
+        },
+        {
+          "title": "2029학년도 수능 개편",
+          "desc": "국어·수학·탐구 선택과목 폐지, 통합과목 응시",
+          "link": "https://www.edupress.kr/news/articleView.html?idxno=30404"
+        },
+        {
+          "title": "교육교부금 사수 갈등",
+          "desc": "최교진 장관, 교부금 개편에 직 걸고 반발",
+          "link": "https://www.edupress.kr/news/articleView.html?idxno=30402"
+        },
+        {
+          "title": "폐교 부지 주교복합",
+          "desc": "서울 첫 폐교 부지, 아파트와 체육관 건립",
+          "link": "https://www.edupress.kr/news/articleView.html?idxno=30401"
+        }
+      ]
+    }
+  ],
+  "createdAt": "2026-08-19T20:52:07.157Z"
+}
