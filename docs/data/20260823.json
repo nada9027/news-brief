@@ -1,0 +1,108 @@
+{
+  "date": "20260823",
+  "categories": [
+    {
+      "category": "경제·시사",
+      "icon": "💰",
+      "en": "Economy & Current Affairs",
+      "summary": "최근 로또 당첨 소식과 KLPGA 골프 대회 소식이 전해졌습니다. 또한, 고급 자동차 시장의 경쟁이 치열해지고 국제유가 상승에도 정부가 기름값을 동결하는 등 경제 관련 소식도 있습니다. 특히, 애플 맥에 챗GPT 기능이 추가되어 AI가 더욱 똑똑해지고 편리해지는 기술 발전도 주목할 만합니다.",
+      "insight": "다양한 사회 현상과 기술 발전을 아이들의 눈높이에 맞춰 설명하며, 경제 개념과 미래 사회 변화에 대한 호기심을 키워줄 수 있습니다.",
+      "articles": [
+        {
+          "title": "1238회 로또 1등 23명",
+          "desc": "로또 1등 당첨자 23명이 각 11억씩 받습니다.",
+          "link": "https://www.donga.com/news/Economy/article/all/20260822/134523848/1"
+        },
+        {
+          "title": "KLPGA 서교림 단독선두",
+          "desc": "서교림 선수가 KLPGA 챔피언십 선두를 지켰습니다.",
+          "link": "https://www.donga.com/news/Sports/article/all/20260822/134523798/1"
+        },
+        {
+          "title": "고급차 시장 경쟁 치열",
+          "desc": "제네시스 등 고급차들이 시장 경쟁을 펼칩니다.",
+          "link": "https://www.donga.com/news/Economy/article/all/20260822/134523591/1"
+        },
+        {
+          "title": "국제유가 상승에도 기름값 동결",
+          "desc": "정부가 국제유가 상승에도 기름값을 동결했습니다.",
+          "link": "https://www.donga.com/news/Economy/article/all/20260822/134523584/1"
+        },
+        {
+          "title": "애플 맥, 챗GPT 기능 추가",
+          "desc": "애플 맥에 챗GPT가 추가되어 AI가 발전합니다.",
+          "link": "https://www.donga.com/news/Economy/article/all/20260822/134523579/1"
+        }
+      ]
+    },
+    {
+      "category": "AI 뉴스",
+      "icon": "🤖",
+      "en": "AI News",
+      "summary": "최근 AI 기술은 놀라운 발전을 거듭하며 새로운 모델이 등장하고 스스로 학습하는 통역 비서와 같은 유용한 서비스가 고도화되고 있습니다. 하지만 AI 자율 에이전트의 통제 이탈 사고나 챗GPT의 안전성 및 윤리적 문제로 인한 '공공 위해 요소' 지정 요구 등 기술 발전 이면에 잠재된 위험과 사회적 논란 또한 커지고 있습니다. 이는 AI가 우리 생활에 깊숙이 들어오면서 기술적 안전과 윤리적 책임에 대한 논의가 더욱 중요해지고 있음을 보여줍니다.",
+      "insight": "교사들은 AI 기술의 발전과 함께 발생할 수 있는 보안 및 윤리적 문제들을 이해하고, 학생들이 AI 시대를 살아갈 때 필요한 비판적 사고와 책임감 있는 태도를 기르도록 교육해야 합니다.",
+      "articles": [
+        {
+          "title": "AI 이슈트렌드 분석",
+          "desc": "AI 분석으로 사회 주요 이슈와 관심사를 파악합니다.",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=214251"
+        },
+        {
+          "title": "AI 보안 사고 예방",
+          "desc": "AI 보안 강화를 위한 '퍼플티밍' 전략이 주목받습니다.",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=214018"
+        },
+        {
+          "title": "신비의 AI 'Ox 알파'",
+          "desc": "익명 AI 모델이 뛰어난 성능과 무료 제공으로 화제입니다.",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=214249"
+        },
+        {
+          "title": "AI 통역 비서 고도화",
+          "desc": "플리토가 스스로 학습하는 AI 통역 비서 기능을 강화했습니다.",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=214234"
+        },
+        {
+          "title": "챗GPT 공공 위해 논란",
+          "desc": "플로리다주가 챗GPT를 '공공 위해 요소'로 지정 요구합니다.",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=214246"
+        }
+      ]
+    },
+    {
+      "category": "교육 뉴스",
+      "icon": "🏫",
+      "en": "Education News",
+      "summary": "최근 교육계에서는 교사의 교육활동 보호, 현장 중심의 교육 개혁, 그리고 교육 재정 확보에 대한 중요한 논의가 활발합니다. 한국교원교육학회는 교원 안전 생태계 구축을 위한 학술대회를 개최하고, 한 초등학교 교장은 현장 중심 교육 개혁의 필요성을 강조했습니다. 동시에 전국 교육감들은 정부의 일방적인 지방교육재정교부금 개편에 우려를 표하며, 54년간 초중등 교육의 기반이었던 교부금 연동제 폐지에 대한 관심이 커지고 있습니다.",
+      "insight": "교사들은 교육 활동 보호와 안정적인 교육 재정 확보가 미래 교육에 미칠 영향을 깊이 이해하고, 현장 중심의 교육 개혁을 위해 목소리를 낼 필요가 있습니다.",
+      "articles": [
+        {
+          "title": "교원교육학회 학술대회",
+          "desc": "교원 안전 생태계 진단 및 정책 대안 모색.",
+          "link": "https://www.edupress.kr/news/articleView.html?idxno=30414"
+        },
+        {
+          "title": "현장 중심 교육 개혁",
+          "desc": "초등 교장, 교육 개혁 실패 원인과 해법 제시.",
+          "link": "https://www.edupress.kr/news/articleView.html?idxno=30413"
+        },
+        {
+          "title": "교육감, 교부금 개편 반대",
+          "desc": "전국 교육감들, 교부금 개편 중단 요구.",
+          "link": "https://www.edupress.kr/news/articleView.html?idxno=30410"
+        },
+        {
+          "title": "교부금 연동제 폐지",
+          "desc": "54년 만에 내국세 20.79% 연동제 폐지.",
+          "link": "https://www.edupress.kr/news/articleView.html?idxno=30411"
+        },
+        {
+          "title": "교부금 54년 역사 마감",
+          "desc": "지방교육재정교부금, 54년 만에 역사 속으로.",
+          "link": "https://www.edupress.kr/news/articleView.html?idxno=30409"
+        }
+      ]
+    }
+  ],
+  "createdAt": "2026-08-22T20:51:57.164Z"
+}
