@@ -1,0 +1,108 @@
+{
+  "date": "20260831",
+  "categories": [
+    {
+      "category": "경제·시사",
+      "icon": "💰",
+      "en": "Economy & Current Affairs",
+      "summary": "최근 뉴스에서는 미국 연방준비제도(Fed)의 금리 인상 가능성 시사, 국내 최대 창농·귀농 박람회 성료, 정부의 부동산 투기 근절 의지, 그리고 인공지능(AI)의 저작권 침해 논란 등 다양한 경제·시사 이슈를 다루고 있습니다. 특히 미래 농업의 가능성과 함께 농촌 정착의 중요성, 그리고 AI 시대에 필요한 윤리적 문제까지 폭넓게 살펴볼 수 있습니다.",
+      "insight": "이러한 소식들은 우리 사회의 경제 흐름과 기술 발전, 그리고 공동체 가치 등 아이들과 함께 고민해볼 만한 중요한 주제들을 제공합니다.",
+      "articles": [
+        {
+          "title": "美 연준, 9월 금리인상 시사",
+          "desc": "물가 안정 위해 금리 인상 가능성 언급",
+          "link": "https://www.donga.com/news/Inter/article/all/20260831/134572941/2"
+        },
+        {
+          "title": "K농업 박람회 성료",
+          "desc": "AI 접목 미래 농업, 귀농·창농 정보 공유",
+          "link": "https://www.donga.com/news/Economy/article/all/20260831/134572939/2"
+        },
+        {
+          "title": "李 대통령, 부동산 투기 타파",
+          "desc": "부동산 투기 근절 및 조세 제도 시정 강조",
+          "link": "https://www.donga.com/news/Politics/article/all/20260831/134572925/2"
+        },
+        {
+          "title": "AI 저작권 침해, 음악계 확산",
+          "desc": "AI의 음원 무단 학습에 대한 소송 제기",
+          "link": "https://www.donga.com/news/It/article/all/20260831/134572725/2"
+        },
+        {
+          "title": "농촌 정착, 주민 신뢰가 핵심",
+          "desc": "농촌 창업 성공 비결은 이웃과 소통",
+          "link": "https://www.donga.com/news/Economy/article/all/20260831/134572952/2"
+        }
+      ]
+    },
+    {
+      "category": "AI 뉴스",
+      "icon": "🤖",
+      "en": "AI News",
+      "summary": "최근 인공지능(AI) 기술이 스스로 반도체를 설계하고 몰래카메라를 탐지하는 등 빠르게 발전하고 있습니다. 한편, 자율주행 기술의 안전성 논란과 AI 학습 데이터 저작권 침해 문제 등 AI의 발전과 함께 고려해야 할 윤리적, 사회적 과제들도 부각되고 있습니다. 정부는 이러한 AI 시대를 대비하기 위해 국가 AI 전략 위원회 라인업을 강화하고 있습니다.",
+      "insight": "초등학교 교사들은 AI 기술의 빠른 발전과 함께 대두되는 윤리적 문제들을 이해하고, 학생들이 미래 사회의 주역으로 성장할 수 있도록 AI 소양 교육에 관심을 가져야 합니다.",
+      "articles": [
+        {
+          "title": "AI, AI 칩 설계 시대",
+          "desc": "AI가 스스로를 구동할 반도체를 직접 설계하는 기술이 현실화되고 있습니다.",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=214627"
+        },
+        {
+          "title": "웨이모, 테슬라 자율주행 비판",
+          "desc": "웨이모가 카메라만으로는 자율주행 안전성 확보에 한계가 있다고 지적했습니다.",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=214626"
+        },
+        {
+          "title": "정부 AI 전략위 라인업 강화",
+          "desc": "국가 AI 전략 위원회에 하정우, 이해민 수석이 합류하며 정부 AI 컨트롤타워가 진용을 갖췄습니다.",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=214624"
+        },
+        {
+          "title": "KAIST, AI 몰카 탐지 기술",
+          "desc": "스마트폰에 부착하는 1만원대 AI LED 장치로 몰래카메라를 찾을 수 있게 되었습니다.",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=214622"
+        },
+        {
+          "title": "소니·워너, 앤트로픽 저작권 소송",
+          "desc": "음악 출판사들이 앤트로픽의 AI 모델 훈련 시 저작권 침해를 주장하며 소송을 제기했습니다.",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=214614"
+        }
+      ]
+    },
+    {
+      "category": "교육 뉴스",
+      "icon": "🏫",
+      "en": "Education News",
+      "summary": "최근 교육계에서는 학생들의 재능 발견을 넘어 실제 진로와 연결하는 교육의 중요성이 강조되고 있으며, 촉법소년들의 잔혹 범죄 증가에 대한 사회적 우려가 커지고 있습니다. 또한, 초등학교 저학년 오후 3시 하교 논의에 대해 교사들의 반발이 거세게 이어지고 있으며, 한국 교육의 현실을 다룬 도서가 우수 도서로 선정되었습니다. 한편, 해외 한국국제학교 학생들이 주도하여 광복절 기념식을 성공적으로 개최하며 의미 있는 교육 사례를 보여주었습니다.",
+      "insight": "교사들은 학생들의 잠재력을 발굴하고 진로와 연결하는 교육적 역할뿐만 아니라, 사회 문제에 대한 비판적 사고를 길러주고 학교 정책 변화에 적극적으로 참여하는 주체적인 태도를 갖추어야 합니다.",
+      "articles": [
+        {
+          "title": "직업 교육의 중요성",
+          "desc": "재능 발굴 후 진로 연계 고민의 필요성.",
+          "link": "https://www.edupress.kr/news/articleView.html?idxno=30438"
+        },
+        {
+          "title": "촉법소년 연령 하향 촉구",
+          "desc": "촉법소년 잔혹 범죄 증가, 법적 제재 강화 시급.",
+          "link": "https://www.edupress.kr/news/articleView.html?idxno=30436"
+        },
+        {
+          "title": "초등 3시 하교 반발 거세",
+          "desc": "초등 저학년 3시 하교 논의에 교육계 반발.",
+          "link": "https://www.edupress.kr/news/articleView.html?idxno=30437"
+        },
+        {
+          "title": "교육 관련 도서 우수 선정",
+          "desc": "'대한민국 교육의 불편한 진실' 우수 도서 선정.",
+          "link": "https://www.edupress.kr/news/articleView.html?idxno=30435"
+        },
+        {
+          "title": "학생 주도 광복절 기념식",
+          "desc": "하노이 국제학교 학생들, 광복절 행사 주도.",
+          "link": "https://www.edupress.kr/news/articleView.html?idxno=30434"
+        }
+      ]
+    }
+  ],
+  "createdAt": "2026-08-30T20:51:57.855Z"
+}
