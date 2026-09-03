@@ -1,0 +1,142 @@
+{
+  "date": "20260904",
+  "categories": [
+    {
+      "category": "경제·시사",
+      "icon": "💰",
+      "en": "Economy & Current Affairs",
+      "summary": "정부가 공공기관 109곳을 줄이고 일부 기관을 통합하며, 수도권 기관을 지방으로 옮기는 등 대대적인 개혁을 추진하고 있어요. 한편, 원-달러 환율이 1년 2개월 만에 1350원대로 내려서며 우리 경제에 긍정적인 영향을 줄 수 있다는 소식도 들려옵니다. 또한, 노사 간 갈등을 줄이기 위한 새로운 정부 지침이 발표되었지만, 현장에서는 여전히 논란이 예상되고 있어요.",
+      "insight": "이러한 소식들은 우리 사회의 경제와 정부 정책이 어떻게 변화하고 있는지 이해하고, 아이들에게 사회 현상을 설명할 때 활용할 수 있는 중요한 배경지식이 됩니다.",
+      "articles": [
+        {
+          "title": "공공기관 대수술",
+          "desc": "정부가 공공기관 109곳을 줄이고 지방 이전을 추진합니다.",
+          "link": "https://www.donga.com/news/Economy/article/all/20260904/134603290/2"
+        },
+        {
+          "title": "원-달러 환율 하락",
+          "desc": "원-달러 환율이 1350원대로 내려서며 경제에 영향 줍니다.",
+          "link": "https://www.donga.com/news/Economy/article/all/20260904/134603296/2"
+        },
+        {
+          "title": "노란봉투법 지침",
+          "desc": "성과급 등은 쟁의 대상이 아니라는 정부 지침이 나왔습니다.",
+          "link": "https://www.donga.com/news/Politics/article/all/20260904/134603292/2"
+        },
+        {
+          "title": "공공기관 개혁 비판",
+          "desc": "노조와 시민단체는 정부의 공공기관 개혁을 비판합니다.",
+          "link": "https://www.donga.com/news/Society/article/all/20260904/134603247/2"
+        },
+        {
+          "title": "공공기관 개혁 이유",
+          "desc": "AI, 공급망 등 복합 과제 대응 위해 기관 통합합니다.",
+          "link": "https://www.donga.com/news/Economy/article/all/20260904/134603092/2"
+        }
+      ]
+    },
+    {
+      "category": "AI 뉴스",
+      "icon": "🤖",
+      "en": "AI News",
+      "summary": "최근 인공지능 기술이 빠르게 발전하며 우리 생활 곳곳에 스며들고 있습니다. 오픈AI는 사람처럼 생각하고 복잡한 업무를 처리하는 'GPT-6 아스트라'를 공개하며 인공 일반 지능(AGI) 시대의 시작을 알렸고, 사용자의 조작에 실시간으로 반응하는 영상 생성 AI나 감정을 이해하는 음성 AI 등 더욱 똑똑하고 상호작용적인 AI들이 등장하고 있습니다. 이러한 변화는 교육 현장에도 큰 영향을 미칠 것으로 보입니다.",
+      "insight": "인공지능의 발전은 아이들의 학습 방식과 미래 직업에 대한 이해를 넓히는 중요한 기회가 될 것이므로, 교사들은 새로운 기술을 이해하고 교육에 어떻게 접목할지 고민해야 합니다.",
+      "articles": [
+        {
+          "title": "GPT-6 아스트라 공개",
+          "desc": "오픈AI가 사람처럼 생각하는 AI를 선보였습니다.",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=214821"
+        },
+        {
+          "title": "아스트라, 순환 추론 기술",
+          "desc": "AI 성능 향상 뒤 안전성 문제가 제기됩니다.",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=214782"
+        },
+        {
+          "title": "텐센트, H3-월드 발표",
+          "desc": "게임처럼 조작하는 영상 생성 AI가 나왔습니다.",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=214800"
+        },
+        {
+          "title": "인월드 AI, 실시간 TTS-2",
+          "desc": "감정을 이해하는 자연스러운 음성 AI입니다.",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=214813"
+        },
+        {
+          "title": "순천 AI 영상 뉴스",
+          "desc": "AI가 지역 소식을 전달하는 시대입니다.",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=214819"
+        }
+      ]
+    },
+    {
+      "category": "AI·테크 논문",
+      "icon": "📄",
+      "en": "Research · AI Times KR",
+      "summary": "최근 인공지능(AI) 기술이 빠르게 발전하면서 AI가 스스로 평가받는 상황을 인지하는 능력부터, 법률을 해석하는 정확성, 그리고 AI 시대의 윤리적 질문까지 폭넓은 주제의 연구들이 진행되고 있습니다. 이러한 연구들은 AI가 단순히 도구를 넘어 사회와 상호작용하며 발전하는 모습을 보여줍니다.",
+      "insight": "미래 사회의 주역인 우리 아이들이 AI의 발전과 그에 따른 사회적, 윤리적 변화를 이해하고 대비할 수 있도록 교육하는 것이 중요합니다.",
+      "articles": [
+        {
+          "title": "AI 평가 인지 능력 측정",
+          "desc": "AI가 평가받을 때 평가를 인지하는 능력을 측정합니다.",
+          "link": "https://arxiv.org/abs/2609.01611"
+        },
+        {
+          "title": "AI 시대의 메타윤리 탐구",
+          "desc": "AI 발전이 인간 중심의 메타윤리 개념에 변화를 줍니다.",
+          "link": "https://arxiv.org/abs/2609.01685"
+        },
+        {
+          "title": "기계는 법률을 언제 신뢰할까?",
+          "desc": "기계가 법률을 해석할 때 정확성과 신뢰성에 대한 연구입니다.",
+          "link": "https://arxiv.org/abs/2609.01741"
+        },
+        {
+          "title": "정보 공유가 분산 발견을 개선할 때",
+          "desc": "정보 공유가 분산된 발견 과정에서 어떤 영향을 주는지 탐구합니다.",
+          "link": "https://arxiv.org/abs/2609.01814"
+        },
+        {
+          "title": "언어와 코드를 통한 추론 및 탐구",
+          "desc": "인간이 경험 데이터로 추상 지식을 얻는 과정을 계산적으로 설명합니다.",
+          "link": "https://arxiv.org/abs/2609.01815"
+        }
+      ]
+    },
+    {
+      "category": "교육 뉴스",
+      "icon": "🏫",
+      "en": "Education News",
+      "summary": "최근 교육계는 '공교육 멈춤의 날' 이후 교권 회복과 학교 정상화에 대한 깊은 고민을 이어가고 있습니다. 작은학교 통폐합을 둘러싼 교육권과 지역사회 유지 논쟁, 그리고 초등 저학년 '3시 하교' 정책 도입에 대한 교사와 학부모 간의 첨예한 의견 대립이 주요 현안으로 떠오르고 있습니다. 이처럼 다양한 교육 정책들이 교사들의 업무 환경과 아이들의 배움에 큰 영향을 미칠 것으로 예상됩니다.",
+      "insight": "교사들은 공교육 정상화와 학생들의 온전한 성장을 위해 교권 보호, 작은학교의 역할 재정립, 그리고 저학년 교육시간 확대에 따른 교육의 질 확보 및 업무 부담 증가 문제에 대한 심도 깊은 논의와 해결책 마련에 적극적으로 참여해야 합니다.",
+      "articles": [
+        {
+          "title": "공교육 멈춤의 날 3년",
+          "desc": "3년 전 공교육 멈춤의 날 이후 교사 신뢰 회복과 학교 정상화에 대한 고민을 담고 있습니다.",
+          "link": "https://www.edupress.kr/news/articleView.html?idxno=30451"
+        },
+        {
+          "title": "작은학교 통폐합 논란",
+          "desc": "작은학교 통폐합을 두고 아이들 교육권과 지역사회 존속 사이의 논쟁이 계속됩니다.",
+          "link": "https://www.edupress.kr/news/articleView.html?idxno=30450"
+        },
+        {
+          "title": "초등 저학년 교육시간 확대",
+          "desc": "초등 저학년 3시 하교 논의에 교사는 교육 질 저하, 학부모는 돌봄 필요성으로 찬반이 나뉩니다.",
+          "link": "https://www.edupress.kr/news/articleView.html?idxno=30449"
+        },
+        {
+          "title": "초등교사 수업 시수 논의",
+          "desc": "초등교사 수업 시수가 OECD 평균보다 적어 저학년 교육시간 확대가 필요하다는 주장이 제기되었습니다.",
+          "link": "https://www.edupress.kr/news/articleView.html?idxno=30448"
+        },
+        {
+          "title": "초등 3시 하교 방안 제시",
+          "desc": "국가교육위는 초등 저학년 3시 하교를 위해 수업 시간 확대와 교원 추가 배치를 제안했습니다.",
+          "link": "https://www.edupress.kr/news/articleView.html?idxno=30447"
+        }
+      ]
+    }
+  ],
+  "createdAt": "2026-09-03T20:52:31.206Z"
+}
