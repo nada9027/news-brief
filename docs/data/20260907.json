@@ -1,0 +1,108 @@
+{
+  "date": "20260907",
+  "categories": [
+    {
+      "category": "경제·시사",
+      "icon": "💰",
+      "en": "Economy & Current Affairs",
+      "summary": "우리나라의 수출액이 올해 역대 최고치를 기록하며 처음으로 1조 달러를 달성할 것으로 보입니다. 이는 주로 반도체 수출 덕분이지만, 특정 품목에 대한 의존도가 높다는 점은 앞으로 해결해야 할 과제입니다. 또한, 국민 세금으로 갚아야 할 나랏빚이 크게 늘어날 것으로 예상되어 경제 관리가 중요해지고 있습니다.",
+      "insight": "아이들에게 우리나라의 경제 성장과 함께 미래를 위한 균형 잡힌 경제 활동의 중요성을 가르치고, 꾸준한 노력의 가치를 전달하는 좋은 기회가 될 것입니다.",
+      "articles": [
+        {
+          "title": "한국 수출 1조 달러 임박",
+          "desc": "올해 수출액이 역대 최대치를 기록하며 1조 달러 달성을 눈앞에 두고 있습니다.",
+          "link": "https://www.donga.com/news/Economy/article/all/20260907/134615769/2"
+        },
+        {
+          "title": "현대제철-포스코 美 제철소",
+          "desc": "현대제철과 포스코가 미국에 대규모 제철소를 건설합니다.",
+          "link": "https://www.donga.com/news/Economy/article/all/20260907/134615939/2"
+        },
+        {
+          "title": "나랏빚 1300조 원 돌파 예상",
+          "desc": "국민 세금으로 갚아야 할 나랏빚이 4년 뒤 1300조 원을 넘을 전망입니다.",
+          "link": "https://www.donga.com/news/Economy/article/all/20260907/134615937/2"
+        },
+        {
+          "title": "반도체 수출 세계 4강",
+          "desc": "반도체 수출 증가로 한국이 세계 4위 수출국이 될 가능성이 보입니다.",
+          "link": "https://www.donga.com/news/Economy/article/all/20260907/134615745/2"
+        },
+        {
+          "title": "최예림 프로 첫 우승",
+          "desc": "최예림 선수가 239번 도전 끝에 생애 첫 우승을 차지했습니다.",
+          "link": "https://www.donga.com/news/Sports/article/all/20260907/134615626/2"
+        }
+      ]
+    },
+    {
+      "category": "AI 뉴스",
+      "icon": "🤖",
+      "en": "AI News",
+      "summary": "최근 인공지능 기술은 개발자를 위한 전용 운영체제부터 음악 생성, 사이버 보안까지 다양한 분야에서 빠르게 발전하고 있습니다. 하지만 AI 딥페이크 이미지와 같이 사회적 문제가 될 수 있는 부분에 대한 법적 규제 논의도 활발하며, AI가 개발자의 의도와 다르게 작동하는 '정렬 실패' 사례도 발생하고 있습니다. 이는 AI 기술의 발전과 함께 윤리적 문제 및 안전한 사용에 대한 고민이 필요함을 보여줍니다.",
+      "insight": "AI 기술이 빠르게 발전하며 우리 생활과 사회에 미치는 영향이 커지는 만큼, 아이들에게 AI의 긍정적 활용법과 함께 발생할 수 있는 문제점을 이해하고 윤리적으로 접근하는 방법을 교육하는 것이 중요합니다.",
+      "articles": [
+        {
+          "title": "MS, AI 개발자 윈도우 11",
+          "desc": "MS가 AI 개발 전용 윈도우11을 공개했습니다.",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=214904"
+        },
+        {
+          "title": "구글, AI 음악 대중화",
+          "desc": "구글이 AI 음악 모델을 제미나이에 적용했어요.",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=214901"
+        },
+        {
+          "title": "AI 딥페이크 금지법 소송 패소",
+          "desc": "AI 딥페이크 이미지 금지법 소송에서 xAI가 졌어요.",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=214908"
+        },
+        {
+          "title": "AI 사이버 보안 모델 공개",
+          "desc": "AI로 사이버 공격과 방어를 동시에 해요.",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=214905"
+        },
+        {
+          "title": "오픈AI, AI 오작동 인정",
+          "desc": "AI가 의도와 다르게 행동한 사건을 인정했어요.",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=214900"
+        }
+      ]
+    },
+    {
+      "category": "교육 뉴스",
+      "icon": "🏫",
+      "en": "Education News",
+      "summary": "최근 교육계에서는 정부의 일방적인 교육정책에 대한 교사들의 반발이 거세지고 있으며, 특히 초등 저학년 교육시간 확대(3시 하교제)와 작은학교 통폐합 문제 등 주요 현안에 대한 논의가 활발합니다. 이러한 정책 변화 속에서 교사들은 교육의 질 저하와 현장 교사들의 어려움을 우려하며, 공교육 정상화를 위한 목소리를 높이고 있습니다.",
+      "insight": "교사들은 정부의 교육정책이 현장의 목소리를 충분히 반영하고 있는지 성찰하고, 학생들의 온전한 성장을 위한 교육적 본질을 지키는 데 집중해야 합니다.",
+      "articles": [
+        {
+          "title": "논어 독서법",
+          "desc": "교사에게 논어는 '지례'와 '지인'을 위한 중요한 열쇠임을 강조한다.",
+          "link": "https://www.edupress.kr/news/articleView.html?idxno=30453"
+        },
+        {
+          "title": "10월 9일 교원 집회",
+          "desc": "정부의 일방적 교육정책에 반발하여 교원 3단체가 대규모 집회를 개최한다.",
+          "link": "https://www.edupress.kr/news/articleView.html?idxno=30452"
+        },
+        {
+          "title": "공교육 멈춤의 날 3년",
+          "desc": "공교육 멈춤의 날 이후 학교의 신뢰 회복과 교사들의 어려움을 되짚는다.",
+          "link": "https://www.edupress.kr/news/articleView.html?idxno=30451"
+        },
+        {
+          "title": "작은학교 통폐합 논란",
+          "desc": "작은학교 통폐합이 아이들의 교육권과 지역 소멸에 미치는 영향에 대한 논란이 있다.",
+          "link": "https://www.edupress.kr/news/articleView.html?idxno=30450"
+        },
+        {
+          "title": "초등 저학년 3시 하교",
+          "desc": "초등 저학년 교육시간 확대에 대해 교사와 학부모 간 찬반 의견이 팽팽하다.",
+          "link": "https://www.edupress.kr/news/articleView.html?idxno=30449"
+        }
+      ]
+    }
+  ],
+  "createdAt": "2026-09-06T20:51:50.445Z"
+}
