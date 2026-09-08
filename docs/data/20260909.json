@@ -1,0 +1,108 @@
+{
+  "date": "20260909",
+  "categories": [
+    {
+      "category": "경제·시사",
+      "icon": "💰",
+      "en": "Economy & Current Affairs",
+      "summary": "최근 서울 일부 지역의 아파트 가격이 크게 오르고, 우리나라 경제는 반도체 수출 덕분에 성장했지만 다른 산업은 어려움을 겪고 있어요. 정부의 부동산 정책을 담당할 인사의 과거 발언이 논란이 되고, 삼성전자는 프랑스 AI 기업에 투자하며 미래 기술 경쟁에 뛰어들었습니다. 또한, 우리나라와 미국 기업이 협력하여 미국에 원자력 발전소를 짓기로 하는 등 여러 중요한 경제 및 시사 소식들이 있었어요.",
+      "insight": "아이들에게 미래 사회의 경제 흐름과 기술 변화, 그리고 사회 문제에 대한 다양한 시각을 알려주기 위해 이러한 시사 이슈들을 이해하고 설명할 수 있는 교사의 역량이 중요합니다.",
+      "articles": [
+        {
+          "title": "서울 집값 서남권 확산",
+          "desc": "서울 더블역세권 아파트 신고가, 실수요 꾸준",
+          "link": "https://www.donga.com/news/Economy/article/all/20260909/134631653/1"
+        },
+        {
+          "title": "반도체 경제 성장 주도",
+          "desc": "반도체 호황으로 경제 성장, 물가 부담 우려",
+          "link": "https://www.donga.com/news/Economy/article/all/20260909/134631245/2"
+        },
+        {
+          "title": "부동산 정책 입장 논란",
+          "desc": "다주택 중과세 관련 장관 후보자 과거 발언 논란",
+          "link": "https://www.donga.com/news/Economy/article/all/20260909/134630838/2"
+        },
+        {
+          "title": "삼성, 프랑스 AI에 투자",
+          "desc": "삼성전자, 프랑스 AI 기업에 투자해 기술 협력",
+          "link": "https://www.donga.com/news/Economy/article/all/20260909/134631328/2"
+        },
+        {
+          "title": "한수원-美 원전 협력",
+          "desc": "한수원과 미국 기업, 원전 건설 위해 협력",
+          "link": "https://www.donga.com/news/Economy/article/all/20260909/134630834/2"
+        }
+      ]
+    },
+    {
+      "category": "AI 뉴스",
+      "icon": "🤖",
+      "en": "AI News",
+      "summary": "최근 인공지능(AI) 기술이 빠르게 발전하면서, AI를 위한 컴퓨터 자원 수요가 폭발적으로 늘고 있지만 공급이 부족하다는 소식이 있습니다. 한편, 앤트로픽 같은 주요 AI 기업의 대규모 인수합병이 무산되기도 하고, 중국은 로봇 병사를 실제 전투에 활용하려는 움직임을 보이고 있습니다. 틱톡의 바이트댄스는 가상 세계를 만드는 AI를 개발 중이며, 알파고 개발자는 초지능 AI를 위해 세계적인 인재들을 모으고 있습니다.",
+      "insight": "이러한 소식들은 AI 기술이 우리 생활과 미래 사회에 미칠 영향이 매우 크며, 아이들이 AI 시대를 이해하고 준비하는 교육의 중요성을 보여줍니다.",
+      "articles": [
+        {
+          "title": "AI 컴퓨팅 수요 폭증",
+          "desc": "AI 산업 성장에 컴퓨팅 파워 공급이 수요를 못 따라갈 전망입니다.",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=214985"
+        },
+        {
+          "title": "앤트로픽, 데카르트 인수 포기",
+          "desc": "앤트로픽이 8조원 규모의 AI 스타트업 데카르트 인수를 포기했습니다.",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=214998"
+        },
+        {
+          "title": "중국, 로봇 병사 실전 투입",
+          "desc": "중국군이 휴머노이드 로봇을 전투에 활용하는 연구를 가속화합니다.",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=214981"
+        },
+        {
+          "title": "바이트댄스, 월드 모델 개발",
+          "desc": "틱톡의 바이트댄스가 가상 세계 구현 AI '월드 모델'을 개발 중입니다.",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=214982"
+        },
+        {
+          "title": "알파고 개발자, 핵심 인재 영입",
+          "desc": "알파고 개발자가 초지능 AI 개발 위해 딥마인드 출신 등 6인을 영입했습니다.",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=215001"
+        }
+      ]
+    },
+    {
+      "category": "교육 뉴스",
+      "icon": "🏫",
+      "en": "Education News",
+      "summary": "OECD 국제 학업성취도 평가에서 한국 학생들의 수학, 읽기, 과학 성취도가 하락했으며, 스마트폰 등 디지털 기기 사용이 주요 원인으로 분석되었습니다. 서울시교육청은 중고생 교통비와 초중학생 체험학습비를 지원하며 학생 복지 확대에 나서고 있으며, 교육부와 교육감협은 내년도 지방교육재정교부금 규모를 두고 진실 공방을 벌이고 있습니다.",
+      "insight": "교사들은 학생들의 디지털 기기 사용 습관을 지도하고, 학교 현장에서 지원되는 다양한 복지 혜택을 활용하여 교육 활동에 집중할 수 있는 방안을 모색해야 합니다.",
+      "articles": [
+        {
+          "title": "OECD 한국 학생 성적 하락",
+          "desc": "OECD 평가에서 한국 학생 성취도가 하락, 스마트폰이 원인으로 분석됩니다.",
+          "link": "https://www.edupress.kr/news/articleView.html?idxno=30457"
+        },
+        {
+          "title": "교육부-교육감협 교부금 공방",
+          "desc": "교육부와 교육감협이 내년도 지방교육재정교부금 규모를 두고 진실 공방 중입니다.",
+          "link": "https://www.edupress.kr/news/articleView.html?idxno=30456"
+        },
+        {
+          "title": "서울 중고생 교통비 지원",
+          "desc": "서울시교육청이 중고생에게 연간 16만원의 대중교통비를 지원합니다.",
+          "link": "https://www.edupress.kr/news/articleView.html?idxno=30455"
+        },
+        {
+          "title": "서울 초중 체험학습비 지원",
+          "desc": "서울시교육청이 내년부터 초중학생에게 체험학습비 10만원을 지원합니다.",
+          "link": "https://www.edupress.kr/news/articleView.html?idxno=30454"
+        },
+        {
+          "title": "교사를 위한 논어 독서법",
+          "desc": "교사에게 절실한 논어 독서법을 '지례'와 '지인' 관점에서 제시합니다.",
+          "link": "https://www.edupress.kr/news/articleView.html?idxno=30453"
+        }
+      ]
+    }
+  ],
+  "createdAt": "2026-09-08T20:51:55.123Z"
+}
