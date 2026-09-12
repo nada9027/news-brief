@@ -1,0 +1,142 @@
+{
+  "date": "20260913",
+  "categories": [
+    {
+      "category": "경제·시사",
+      "icon": "💰",
+      "en": "Economy & Current Affairs",
+      "summary": "최근 경제·시사 뉴스에서는 젊은 세대의 독특한 소비 트렌드부터 부동산 시장의 변화까지 다양한 소식이 전해졌습니다. 2030세대는 옥반지처럼 자신만의 개성을 찾는 '보물찾기' 소비를 즐기고 있으며, 분당 지역 아파트값은 재건축 기대로 크게 오르고 있습니다. 또한, 국제 유가 안정화 노력과 상속 관련 법률 정보, 미중 관계에 대한 소식도 눈길을 끕니다.",
+      "insight": "아이들에게 변화하는 소비 문화, 경제 흐름, 그리고 사회 현상에 대한 관심을 키워주고 미래 사회를 이해하는 데 필요한 배경 지식을 제공하는 기회로 삼을 수 있습니다.",
+      "articles": [
+        {
+          "title": "2030, 옥반지 보물찾기 소비",
+          "desc": "젊은 세대가 옥반지를 찾아다니며 소비를 놀이처럼 즐기는 트렌드입니다.",
+          "link": "https://www.donga.com/news/Economy/article/all/20260911/134650490/2"
+        },
+        {
+          "title": "대통령, 유가 안정 약속",
+          "desc": "중동 긴장에도 유가가 안정될 것이며, 원유 수입처를 다변화 중입니다.",
+          "link": "https://www.donga.com/news/Politics/article/all/20260912/134655187/2"
+        },
+        {
+          "title": "상속포기, 되돌릴 수 있을까?",
+          "desc": "몰랐던 재산 발견 시 상속포기 취소 가능 여부와 조건을 다룹니다.",
+          "link": "https://www.donga.com/news/Economy/article/all/20260911/134629735/2"
+        },
+        {
+          "title": "트럼프, 중국차 美 생산 허용",
+          "desc": "트럼프가 중국차의 미국 생산을 허용할 수 있다고 밝혔습니다.",
+          "link": "https://www.donga.com/news/Inter/article/all/20260912/134655100/2"
+        },
+        {
+          "title": "분당 아파트값, 신고가 속출",
+          "desc": "분당 아파트값이 재건축 기대감과 함께 크게 오르고 있습니다.",
+          "link": "https://www.donga.com/news/Economy/article/all/20260912/134655043/1"
+        }
+      ]
+    },
+    {
+      "category": "AI 뉴스",
+      "icon": "🤖",
+      "en": "AI News",
+      "summary": "최근 AI 기술 관련 소식은 다양합니다. 일론 머스크가 자신에 대한 다큐멘터리에 법적 대응을 예고하고, AI 챗봇 전문가들이 사람을 돕는 AI 컴패니언 서비스를 선보이는 등 기술 발전과 함께 사회적 논란도 커지고 있습니다. 또한, AI가 생성한 저품질 결과물에 대한 비판으로 오픈AI가 수학 행사 후원을 철회하는 등 AI의 윤리적 사용과 품질 관리의 중요성도 부각되고 있습니다.",
+      "insight": "아이들에게 AI 기술의 긍정적 활용 가능성과 함께, AI가 사회에 미칠 수 있는 영향, 그리고 비판적 사고의 중요성을 교육하는 것이 필요합니다.",
+      "articles": [
+        {
+          "title": "머스크, 다큐에 법적 대응",
+          "desc": "일론 머스크가 자신을 다룬 다큐에 허위 사실이라며 법적 대응을 경고했습니다.",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=215194"
+        },
+        {
+          "title": "AI 이슈: 살인·학폭 논란",
+          "desc": "AI 분석 결과, 외래진료 확대, 살인, 학폭 논란 등이 사회적 관심사였습니다.",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=215192"
+        },
+        {
+          "title": "딥그로브, AI 컴패니언",
+          "desc": "AI 챗봇 전문가들이 모여 사람을 돕는 AI 컴패니언 서비스를 시작했습니다.",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=214911"
+        },
+        {
+          "title": "오픈AI, 수학 해커톤 후원 철회",
+          "desc": "AI가 만든 저품질 수학 결과물 비판에 오픈AI가 수학 행사 후원을 철회했습니다.",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=215193"
+        },
+        {
+          "title": "앤트로픽, AI 플러그인 평가",
+          "desc": "앤트로픽이 AI 코딩 에이전트의 플러그인 성능을 평가하는 기능을 추가했습니다.",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=215184"
+        }
+      ]
+    },
+    {
+      "category": "AI·테크 논문",
+      "icon": "📄",
+      "en": "Research · AI Times KR",
+      "summary": "요약 생성 실패",
+      "insight": "",
+      "articles": [
+        {
+          "title": "Probabilistic Focal Search: Accelerating Bounded-Suboptimal Search via Lower-Bound Advancement",
+          "desc": "arXiv:2609.10584v1 Announce Type: new Abstract: Bounded-suboptimal search seeks a solution within a factor $w$ of optimal while reducing search effort. Focal Search (FS) uses heuristic guidance within FOCAL, the frontier nodes eligible under the threshold $w f_{\\min}$, but its deterministic policy m",
+          "link": "https://arxiv.org/abs/2609.10584"
+        },
+        {
+          "title": "Automating Quadratic Unconstrained Binary Optimization (QUBO) Formulation Generation from Natural Language",
+          "desc": "arXiv:2609.10629v1 Announce Type: new Abstract: Quadratic Unconstrained Binary Optimization (QUBO) is a central formulation for combinatorial optimization and has gained increasing attention due to its compatibility with quantum, hybrid quantum-classical, and quantum-inspired solvers. However, trans",
+          "link": "https://arxiv.org/abs/2609.10629"
+        },
+        {
+          "title": "A Multi-Stage Rule-Chaining Framework for Compositional and Interpretable Cognitive Reasoning",
+          "desc": "arXiv:2609.10654v1 Announce Type: new Abstract: The Abstraction and Reasoning Corpus (ARC) benchmarks cognitive generalization, the ability to infer and apply abstract rules from limited examples. This paper presents a multi-stage rule-chaining framework that performs compositional reasoning across ",
+          "link": "https://arxiv.org/abs/2609.10654"
+        },
+        {
+          "title": "Understanding LoRA Rank Trade-offs in Diffusion Model Fine-Tuning",
+          "desc": "arXiv:2609.10656v1 Announce Type: new Abstract: Selecting LoRA rank for diffusion fine-tuning requires balancing quality and compute cost. We present a controlled study on CIFAR-10 using a DDPM U-Net with ranks {2,4,8,16,32}, fixed optimization settings, and a reproducible local-folder pytorch-fid p",
+          "link": "https://arxiv.org/abs/2609.10656"
+        },
+        {
+          "title": "Quantifying the Memorization-to-Generalization Transition: Scaling Laws and Phase Structure in Grokking",
+          "desc": "arXiv:2609.10657v1 Announce Type: new Abstract: Neural networks trained past memorization frequently undergo a delayed transition to generalization, a phenomenon known as grokking. Despite theoretical progress on \\emph{why} this transition occurs, the quantitative structure of \\emph{when} it occurs ",
+          "link": "https://arxiv.org/abs/2609.10657"
+        }
+      ]
+    },
+    {
+      "category": "교육 뉴스",
+      "icon": "🏫",
+      "en": "Education News",
+      "summary": "국가교육위원회가 '초등 3시 하교제' 추진을 부인했지만 관련 포럼을 개최하며 혼란을 주었고, 서울시교육청의 초등교사 선발 인원 확대는 교원 수급 안정에 긍정적 소식입니다. 한편, 학부모 단체는 학교 내 혐오·차별 가이드북에서 성소수자 관련 내용 삭제를 주장했으며, 교사·학부모·시민이 학교의 권리와 책임 경계를 논의하는 포럼이 열릴 예정입니다. 또한, '야차룰' 같은 신종 학교폭력이 증가하며 피해응답률이 역대 최고치를 기록, 교육 당국의 엄정 대응이 예고되었습니다.",
+      "insight": "교사들은 정책 혼선 속에서도 교원 수급 안정화에 대한 기대를 가질 수 있지만, 학교 내 민감한 사회적 이슈와 신종 학교폭력 증가에 대한 대응 방안 마련 및 교육 주체 간의 협력 강화가 시급함을 인지해야 합니다.",
+      "articles": [
+        {
+          "title": "국교위 3시 하교 논란",
+          "desc": "국교위, 3시 하교 정책 추진 부인하며 혼란 야기.",
+          "link": "https://www.edupress.kr/news/articleView.html?idxno=30465"
+        },
+        {
+          "title": "서울시교육청 교사 선발 확대",
+          "desc": "서울교대 총장, 초등교사 선발 확대 환영.",
+          "link": "https://www.edupress.kr/news/articleView.html?idxno=30463"
+        },
+        {
+          "title": "학부모, 혐오·차별 가이드북 수정 요구",
+          "desc": "학부모 단체, 성소수자 내용 삭제 주장.",
+          "link": "https://www.edupress.kr/news/articleView.html?idxno=30462"
+        },
+        {
+          "title": "학교 권리·책임 포럼 개최",
+          "desc": "교사·학부모·시민, 학교 권리·책임 논의.",
+          "link": "https://www.edupress.kr/news/articleView.html?idxno=30461"
+        },
+        {
+          "title": "신종 학폭 증가, 피해율 최고",
+          "desc": "신종 학폭 증가, 피해응답률 역대 최고.",
+          "link": "https://www.edupress.kr/news/articleView.html?idxno=30460"
+        }
+      ]
+    }
+  ],
+  "createdAt": "2026-09-12T20:53:16.141Z"
+}
