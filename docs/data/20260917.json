@@ -1,0 +1,137 @@
+{
+  "date": "20260917",
+  "categories": [
+    {
+      "category": "경제·시사",
+      "icon": "💰",
+      "en": "Economy & Current Affairs",
+      "summary": "최근 국제유가 상승에도 국내 유가는 정부의 최고가격제 정책으로 안정세를 유지하고 있습니다. 한편, 동해 석유·가스 개발 프로젝트는 성공 확률이 매우 낮았음에도 발표가 강행되었음이 드러났습니다. 또한, 소나무재선충병 방제를 위한 친환경 곰팡이 약제 검증과 기후변화에 강한 신품종 벼 개발 소식도 전해졌으며, 한국의 인공지능(AI) 기술이 세계적으로 뒤처져 있어 기술 격차 해소가 시급하다는 내용도 다뤄졌습니다.",
+      "insight": "이러한 경제·시사 뉴스를 통해 아이들에게 에너지 문제, 환경 보호, 과학 기술 발전의 중요성을 균형 있게 가르칠 수 있는 기회를 마련해야 합니다.",
+      "articles": [
+        {
+          "title": "국제유가 상승과 국내 유가",
+          "desc": "국제유가 급등에도 국내 유가는 정책 영향으로 안정세.",
+          "link": "https://www.donga.com/news/Economy/article/all/20260917/134685029/2"
+        },
+        {
+          "title": "대왕고래 프로젝트 감사",
+          "desc": "동해 석유·가스 시추 성공 확률이 낮았음에도 발표 강행.",
+          "link": "https://www.donga.com/news/Politics/article/all/20260917/134685027/2"
+        },
+        {
+          "title": "소나무재선충병 천적 곰팡이",
+          "desc": "소나무재선충병 방제 친환경 곰팡이 약제 검증 중.",
+          "link": "https://www.donga.com/news/Society/article/all/20260917/134683705/2"
+        },
+        {
+          "title": "신품종 벼 '충북 1호' 개발",
+          "desc": "충북 기후에 최적화된 병해충 강한 고품질 벼 개발.",
+          "link": "https://www.donga.com/news/Society/article/all/20260917/134683698/2"
+        },
+        {
+          "title": "한국 AI 기술 격차 심화",
+          "desc": "세계 AI 모델 순위에서 한국산 전무, 기술 격차 큼.",
+          "link": "https://www.donga.com/news/Economy/article/all/20260917/134684846/2"
+        }
+      ]
+    },
+    {
+      "category": "AI 뉴스",
+      "icon": "🤖",
+      "en": "AI News",
+      "summary": "최근 인공지능 기술 발전 소식과 함께 지역 축제 소식이 눈에 띕니다. 넘즈AI의 '코실로' 모델이 세계적인 AI 평가에서 1위를 차지했고, 앤트로픽의 AI 코딩 도구 사용에 대한 논란도 있었습니다. 한편, 순천과 나주에서는 세계 각국의 문화와 음식을 체험하고 지역의 역사와 자연을 즐길 수 있는 다채로운 가을 축제가 열릴 예정입니다.",
+      "insight": "교사들은 AI 기술의 발전 동향과 윤리적 이슈를 이해하고, 지역 축제를 통해 아이들에게 다양한 문화 체험과 지역사회 연계 교육 기회를 제공할 수 있습니다.",
+      "articles": [
+        {
+          "title": "넘즈AI, 코실로 모델 세계 1위",
+          "desc": "넘즈AI의 정형 데이터 모델 '코실로'가 글로벌 AI 평가 플랫폼 '탭아레나'에서 1위를 차지했습니다.",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=215363"
+        },
+        {
+          "title": "클로드 코드, 타사 모델 연결 논란",
+          "desc": "앤트로픽의 '클로드 코드'에 타사 AI 모델 연결 논란이 있었으나, 앤트로픽은 차단하지 않는다고 해명했습니다.",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=215343"
+        },
+        {
+          "title": "순천 글로컬 페스타 개최",
+          "desc": "순천 원도심에서 13개국 음식과 문화를 즐기는 '글로컬 페스타'가 열립니다.",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=215360"
+        },
+        {
+          "title": "나주영산강축제 10월 개막",
+          "desc": "나주에서 10월 7일부터 닷새간 영산강을 배경으로 공연, 체험, 미식을 즐기는 축제가 열립니다.",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=215356"
+        },
+        {
+          "title": "전남광주, 계절노동 준비 교육",
+          "desc": "전남광주가 2027년 계절노동 프로그램 운영을 위해 농협 및 시군 담당자 교육을 진행했습니다.",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=215354"
+        }
+      ]
+    },
+    {
+      "category": "AI·테크 논문",
+      "icon": "📄",
+      "en": "Research · AI Times KR",
+      "summary": "요약 생성 실패",
+      "insight": "",
+      "articles": [
+        {
+          "title": "ZGCM-1: A Fully Open and Extremely Efficient Foundation Model for Math and Agentic Search",
+          "desc": "arXiv:2609.13356v1 Announce Type: new Abstract: In this work, we present ZGCM-1, a fully open 7B dense foundation model trained from scratch with extreme data, system, and algorithmic efficiency. ZGCM-1 is founded on a core premise: compact models cannot passively memorize the open web, but can over",
+          "link": "https://arxiv.org/abs/2609.13356"
+        },
+        {
+          "title": "Converge Then Diversify: Decoupling Convergence and Diversity in Multi-Objective Bayesian Optimisation",
+          "desc": "arXiv:2609.13396v1 Announce Type: new Abstract: Multi-objective Bayesian optimisation (MOBO) is a sample-efficient approach for optimising expensive black-box functions with multiple objectives. In MOBO, the goal is to adequately approximate the Pareto front; that is, to obtain a high-quality soluti",
+          "link": "https://arxiv.org/abs/2609.13396"
+        },
+        {
+          "title": "Generalized Agent Iteration: One Formal Framework for Iterative Policy Improvement and Recursive Self-Improvement",
+          "desc": "arXiv:2609.13406v1 Announce Type: new Abstract: When we speak of recursive self-improvement (RSI), are we speaking of a phenomenon, a mechanism, or a prospect? Towards autonomous and evolving intelligence, RSI is being claimed at many scales, while no single framework that formally describes these e",
+          "link": "https://arxiv.org/abs/2609.13406"
+        },
+        {
+          "title": "Vibe Patenting: Evaluating LLM Judges for Professional Patent-Drafting Agents",
+          "desc": "arXiv:2609.13422v1 Announce Type: new Abstract: LLM judges are increasingly used to evaluate and improve AI-generated outputs, yet their reliability for complex professional work remains unclear. We study this problem through Vibe Patenting, an end-to-end patent-drafting testbed for AI-agent evaluat",
+          "link": "https://arxiv.org/abs/2609.13422"
+        },
+        {
+          "title": "Toward Self-Adaptive Physical AI: Can LLM Agents Manage Long-Horizon Physical Tasks?",
+          "desc": "arXiv:2609.13436v1 Announce Type: new Abstract: Large Language Model (LLM) agents offer a promising path toward autonomously managing long-term physical tasks without human intervention. However, physical tasks require agents to continuously observe the environment, make consequential actions, and r",
+          "link": "https://arxiv.org/abs/2609.13436"
+        }
+      ]
+    },
+    {
+      "category": "교육 뉴스",
+      "icon": "🏫",
+      "en": "Education News",
+      "summary": "초등학교 교사들은 16년 만에 폐지되는 교원능력개발평가 대신, 스스로 역량을 진단하고 연수를 받는 새로운 교원역량개발지원제도를 내년부터 맞이하게 됩니다. 한편, 정부의 지방교육재정교부금 개편안은 교육 재정 축소 우려를 낳고 있으며, 초등 저학년 교육시간 확대 정책 추진 여부에 대한 혼란도 있어 교사들의 현안 이해가 중요합니다.",
+      "insight": "교사 역량 강화를 위한 새로운 제도가 도입되고 교육 재정 및 정책 방향에 대한 논의가 활발한 시점에서, 교사들은 변화하는 교육 환경에 대한 이해와 적극적인 참여가 중요합니다.",
+      "articles": [
+        {
+          "title": "교사 시선으로 논어 읽기",
+          "desc": "고전을 교사의 시선으로 해석, 수업에 적용하는 중요성 강조.",
+          "link": "https://www.edupress.kr/news/articleView.html?idxno=30471"
+        },
+        {
+          "title": "교원평가 폐지, 새 제도 도입",
+          "desc": "16년 만에 교원평가 폐지, 역량개발지원제도 내년 시행.",
+          "link": "https://www.edupress.kr/news/articleView.html?idxno=30470"
+        },
+        {
+          "title": "교육교부금 개편 중단 촉구",
+          "desc": "교육교부금 개편이 교육 재정 축소 우려, 즉각 중단 요구.",
+          "link": "https://www.edupress.kr/news/articleView.html?idxno=30469"
+        },
+        {
+          "title": "초등 3시 하교제 혼란",
+          "desc": "국교위, 초등 3시 하교제 추진 부인하며 정책 혼선 야기.",
+          "link": "https://www.edupress.kr/news/articleView.html?idxno=30465"
+        }
+      ]
+    }
+  ],
+  "createdAt": "2026-09-16T20:53:50.022Z"
+}
