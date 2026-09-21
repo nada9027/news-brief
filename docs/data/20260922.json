@@ -1,0 +1,108 @@
+{
+  "date": "20260922",
+  "categories": [
+    {
+      "category": "AI 뉴스",
+      "icon": "🤖",
+      "en": "AI News",
+      "summary": "AI 기술이 우리 생활에 점점 더 깊숙이 들어오고 있으며, 효율성과 자율성을 높이는 방향으로 빠르게 발전하고 있습니다. KAIST는 AI가 스스로 지식을 재활용하여 서버 의존도를 낮추는 기술을 개발했고, 국내 스타트업 뉴로퓨전은 미래 예측 AI 기술로 세계 1위를 차지했습니다. 또한, 알리바바는 실시간 통역 지연 시간을 획기적으로 줄인 AI를 선보였으며, AI가 기업의 모든 업무를 스스로 처리하는 자율 경영 플랫폼까지 등장했습니다.",
+      "insight": "AI 기술의 급속한 발전은 아이들의 미래 직업과 학습 방식에 큰 영향을 미칠 것이므로, 교사들은 AI 리터러시 교육의 중요성을 인식하고 미래 교육 방향을 고민해야 합니다.",
+      "articles": [
+        {
+          "title": "KAIST, AI 지식 재사용 기술",
+          "desc": "AI가 스스로 지식을 재활용해 효율을 높였어요.",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=215545"
+        },
+        {
+          "title": "뉴로퓨전, AI 미래 예측 1위",
+          "desc": "국내 스타트업이 미래 예측 AI 벤치마크 1위를 했어요.",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=215547"
+        },
+        {
+          "title": "알리바바, AI 통역 2.3초 단축",
+          "desc": "알리바바가 실시간 통역 AI를 공개했어요.",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=215516"
+        },
+        {
+          "title": "AI, '고통 축' 발견 및 회피",
+          "desc": "AI 모델에서 고통과 유사한 개념이 발견됐어요.",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=215520"
+        },
+        {
+          "title": "앤돈랩스, AI 자율 경영 플랫폼",
+          "desc": "AI가 기업 업무를 스스로 수행하는 플랫폼이 나왔어요.",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=215537"
+        }
+      ]
+    },
+    {
+      "category": "AI·테크 논문",
+      "icon": "📄",
+      "en": "Research · AI Times KR",
+      "summary": "요약 생성 실패",
+      "insight": "",
+      "articles": [
+        {
+          "title": "RBS-Attention: Radius-Bounded Sparse Prefill for Long-Context Large Language Models",
+          "desc": "arXiv:2609.20971v1 Announce Type: new Abstract: Long-context large language model inference is increasingly limited by prefill, where dense self-attention processes the entire prompt before generation begins. Sparse block selection can reduce this cost, but a block centroid may hide a highly relevan",
+          "link": "https://arxiv.org/abs/2609.20971"
+        },
+        {
+          "title": "Attention-Aware Routing: Coupling Routing and Attention in MoEs",
+          "desc": "arXiv:2609.20974v1 Announce Type: new Abstract: In Mixture-of-Experts language models, the router typically selects and weights experts based on the token's hidden state, utilizing limited contextual information. We propose Attention-Aware Routing (AAR), which augments the router with temporal and s",
+          "link": "https://arxiv.org/abs/2609.20974"
+        },
+        {
+          "title": "CaLR: Causal Latent Revision for Robust Diffusion Reasoning",
+          "desc": "arXiv:2609.20981v1 Announce Type: new Abstract: Autoregressive (AR) models suffer from local greediness, while diffusion language models (DLMs) often lack the strict causal structure required for reasoning. To combine the advantages and overcome the drawbacks of the dual, we propose Causal Latent Re",
+          "link": "https://arxiv.org/abs/2609.20981"
+        },
+        {
+          "title": "LoRA Enhanced Contrastive Learning with SAS Vision Transformers",
+          "desc": "arXiv:2609.21061v1 Announce Type: new Abstract: Automatic target recognition (ATR) with synthetic aperture sonar (SAS) supports advanced naval capabilities, but deep learning is constrained by scarce target imagery, background clutter, and human-in-the-loop assessment. We adapt DINOv3 Vision Transfo",
+          "link": "https://arxiv.org/abs/2609.21061"
+        },
+        {
+          "title": "Detecting Hallucination in LLMs: Tracing the Topological Signatures of Impaired Context Sharing",
+          "desc": "arXiv:2609.21096v1 Announce Type: new Abstract: In this work, we examine the topology of information flow patterns within attention graphs to effectively distinguish hallucinated from non-hallucinated responses. We analyze the Forman-Ricci curvature to identify structural patterns indicating informa",
+          "link": "https://arxiv.org/abs/2609.21096"
+        }
+      ]
+    },
+    {
+      "category": "교육 뉴스",
+      "icon": "🏫",
+      "en": "Education News",
+      "summary": "요약 생성 실패",
+      "insight": "",
+      "articles": [
+        {
+          "title": "[단독] 선심성 현금지원 교육청 8곳 페널티…최대 100억 교부금 삭감",
+          "desc": "에듀프레스 장재훈 기자 = 교육부가 선심성 현금 지원을 하는 시도교육청 8곳에 예산 삭감 등 페널티를 주기로 했다. 전국 16개 시도교육청을 상대로 세출예산액 대비 선심성 지출 비율을 순위로 매겨 1위~8위 교육청의 교육교부금을 차등 감액한다.세출예산액 대비 선심성 지출 비율이 가장 많은 교육청은 최대 100억원을 삭감한다. 교육부는 대신 목적사업비를 줄인 교육청에 대해서는 예산 지원 등 인센티브를 주기로 했다. 선심성 예산 규모에 따른 교부금 감액은 2028년부터 시행된다.교육부는 21일 이러한 내용을 골자로 하는 지방교육재정교부",
+          "link": "https://www.edupress.kr/news/articleView.html?idxno=30479"
+        },
+        {
+          "title": "유아 무상교육, 서울시교육청 - 사립유치원 갈등  왜?",
+          "desc": "에듀프레스 장재훈 기자 = 만 3~5세 유아 무상교육을 앞두고 서울시교육청과 사립유치원이 지원 금액과 산정 기준, 사업 참여 조건 등에 대해 첨예한 입장차를 보이고 있다.서울시교육청은 21일 한국유치원총연합회(한유총)와 한국사립유치원어린이집총연합회(한사총) 등 사립유치원 관계자들을 대상으로 무상교육 지원계획 설명 및 현장 의견수렴 간담회를 열었으나 지원 방식과 조건을 둘러싸고 날 선 공방이 이어졌다.사립유치원 측은 우선 교육청이 제시한 지원금 수준과 산정 기준이 현실과 크게 동떨어져 있다고 비판했다.육아정책연구소가 제시한 표준유아교",
+          "link": "https://www.edupress.kr/news/articleView.html?idxno=30478"
+        },
+        {
+          "title": "‘양성-보호-회복’ 생애 전주기 교원보호 방안은?…한국교원교육학회 학술대회",
+          "desc": "에듀프레스 장재훈 기자 = 교권 침해와 악성 민원으로 상처받은 교원이 다시 교단으로 돌아올 수 있도록 하는 '교원 안전생태계' 구축 방안을 모색하는 학술대회가 18일 서울교대에서 열렸다.한국교원교육학회가 '교육활동 보호를 위한 교원 안전생태계 진단과 과제'를 주제로 연 추계학술대회에서는 교원이 안전하게 양성되고 안전하게 가르치며 어려움을 겪더라도 회복해 교직을 지속할 수 있도록 하는 방안이 핵심 화두로 다뤄졌다.박균열 한국교원교육학회장은 인사말에서 \"이번 추계학술대회는 단순히 교육활동 보호의 제도적 문제를 논의하는 자리가 아니다\"며",
+          "link": "https://www.edupress.kr/news/articleView.html?idxno=30477"
+        },
+        {
+          "title": "[조학규 칼럼] 1정 점수 논란 ..  승진제도 큰 그림을 묻다",
+          "desc": "1정 점수를 둘러싼 논란최근 교직사회에서 1급 정교사 자격연수 성적, 이른바 ‘1정 점수’를 둘러싼 논란이 뜨겁다.교육부가 입법예고한 「교원 등의 연수에 관한 규정 시행규칙」 개정안은 2020년 자격연수 평가체제가 상대평가에서 절대평가로 바뀐 것을 반영하여 교감·원감 자격연수 대상자 순위명부 작성 때 자격연수 성적을 반영하지 않는 방향으로 제도를 변경하고, 이에 대한 경과기간을 두는 내용을 담고 있다.국민참여입법센터에는 2030년 시행을 둘러싸고 기존 점수 취득자의 신뢰와 형평성을 고려해 적용을 늦춰야 한다는 의견과, 오랜 과거의",
+          "link": "https://www.edupress.kr/news/articleView.html?idxno=30476"
+        },
+        {
+          "title": "석승하 서울교총 회장, 교권보호전담관 도입 촉구 1인 시위",
+          "desc": "에듀프레스 장재훈 기자 = 석승하 서울시교원단체총연합회(서울교총) 회장이 교권보호전담관의 즉각적인 도입을 촉구하며 14일부터 서울 용산구 서울시교육청 앞에서 릴레이 1인 시위에 들어갔다.서울교총은 그동안 교권침해 사안이 발생할 경우 피해 교원에게 교권보호전담관을 1대1로 배정해 초기 대응부터 사안 종결까지 전 과정을 지원하는 체계를 마련해야 한다고 주장해 왔다.특히 무분별한 아동학대 신고와 악성 민원 등 교육활동 침해 사안이 발생하면 교육청이 즉시 현장에 개입할 수 있는 대응체계를 구축해야 한다고 요구했다. 교권침해 피해 교원에 대",
+          "link": "https://www.edupress.kr/news/articleView.html?idxno=30472"
+        }
+      ]
+    }
+  ],
+  "createdAt": "2026-09-21T20:55:18.077Z"
+}
