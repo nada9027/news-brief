@@ -1,0 +1,108 @@
+{
+  "date": "20260924",
+  "categories": [
+    {
+      "category": "AI 뉴스",
+      "icon": "🤖",
+      "en": "AI News",
+      "summary": "최근 인공지능(AI) 기술이 로봇 마라톤 완주, 새로운 AI 교육기관 설립, 고성능 이미지 생성, 스마트폰용 AI 칩 개발 등 다양한 분야에서 빠르게 발전하고 있어요. 특히 AI의 안전성을 높이기 위해 개발 초기부터 외부 검증을 받는 노력도 이어지고 있답니다. 이러한 변화들은 우리 아이들이 살아갈 미래 사회를 더욱 풍요롭게 만들 중요한 기술들이에요.",
+      "insight": "교사들은 AI 기술의 발전과 윤리적 중요성을 이해하고, 아이들이 미래 사회의 변화에 유연하게 적응하며 AI를 올바르게 활용할 수 있도록 교육하는 데 관심을 가져야 합니다.",
+      "articles": [
+        {
+          "title": "KAIST 로봇 마라톤 완주",
+          "desc": "KAIST 로봇이 마라톤 완주 기술을 네이처에 발표했어요.",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=215611"
+        },
+        {
+          "title": "AI 아카데미 출범",
+          "desc": "AI 인재 양성을 위한 새로운 교육기관이 생겼어요.",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=215596"
+        },
+        {
+          "title": "텐센트 AI 이미지 출시",
+          "desc": "텐센트가 더 좋은 AI 이미지 생성 모델을 내놓았어요.",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=215599"
+        },
+        {
+          "title": "퀄컴 온디바이스 AI 칩",
+          "desc": "퀄컴이 스마트폰에 들어갈 새로운 AI 칩을 공개했어요.",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=215614"
+        },
+        {
+          "title": "오픈AI 안전성 검증",
+          "desc": "오픈AI가 AI 개발 초기부터 외부 검증을 받기로 했어요.",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=215615"
+        }
+      ]
+    },
+    {
+      "category": "AI·테크 논문",
+      "icon": "📄",
+      "en": "Research · AI Times KR",
+      "summary": "최근 인공지능 기술은 다양한 분야에서 빠르게 발전하고 있습니다. 가상 인물을 통해 대중의 반응을 예측하거나, 복잡한 생체 데이터를 분석하고, 움직이는 3D 이미지를 만들거나, 심지어 뇌종양 환자의 생존율을 예측하는 등 놀라운 연구들이 진행되고 있습니다. 또한, 텍스트, 이미지, 영상, 소리 등 여러 형태의 정보를 한 번에 이해하는 AI 모델도 개발되고 있습니다.",
+      "insight": "미래 사회를 살아갈 우리 아이들이 AI 기술의 발전과 활용 가능성을 이해하고, 다양한 정보를 통합적으로 사고하는 능력을 기르도록 돕는 것이 중요합니다.",
+      "articles": [
+        {
+          "title": "가상 페르소나 예측력",
+          "desc": "LLM이 가상 페르소나로 대중 반응을 예측하는 연구입니다.",
+          "link": "https://arxiv.org/abs/2609.25010"
+        },
+        {
+          "title": "생의학 데이터 분석 개선",
+          "desc": "TabPFN 모델의 생의학 데이터 분석 최적화 연구입니다.",
+          "link": "https://arxiv.org/abs/2609.25013"
+        },
+        {
+          "title": "동적 3D 장면 예측",
+          "desc": "동적 3D 장면의 예측 모델 학습 방법을 제안합니다.",
+          "link": "https://arxiv.org/abs/2609.25036"
+        },
+        {
+          "title": "뇌종양 생존 예측",
+          "desc": "정확하고 해석 가능한 뇌종양 생존 예측 모델입니다.",
+          "link": "https://arxiv.org/abs/2609.25088"
+        },
+        {
+          "title": "옴니 모달 임베딩",
+          "desc": "텍스트, 이미지, 비디오, 오디오 통합 임베딩 개발입니다.",
+          "link": "https://arxiv.org/abs/2609.25165"
+        }
+      ]
+    },
+    {
+      "category": "교육 뉴스",
+      "icon": "🏫",
+      "en": "Education News",
+      "summary": "최근 교육계는 학교의 역사와 동문 지원의 중요성부터 교육청 예산 집행의 투명성, 유아 무상교육을 둘러싼 갈등까지 다양한 이슈로 뜨겁습니다. 또한 교원의 안전한 교육활동을 위한 보호 방안과 교사 승진 제도의 공정성에 대한 논의도 활발히 이루어지고 있습니다.",
+      "insight": "선생님들은 이러한 뉴스들을 통해 교육 정책 변화가 현장에 미치는 영향을 이해하고, 학생 교육뿐만 아니라 교원으로서의 권리와 복지, 그리고 학교의 지속 가능한 발전을 위한 다양한 관점을 고민해 볼 수 있습니다.",
+      "articles": [
+        {
+          "title": "용산고 80주년, 명문 전통",
+          "desc": "80주년을 맞은 용산고가 동문과 함께 명문 전통을 이어갑니다.",
+          "link": "https://www.edupress.kr/news/articleView.html?idxno=30481"
+        },
+        {
+          "title": "교육청 선심성 예산 삭감",
+          "desc": "교육부가 선심성 현금 지원 교육청에 최대 100억 교부금을 삭감합니다.",
+          "link": "https://www.edupress.kr/news/articleView.html?idxno=30479"
+        },
+        {
+          "title": "유아 무상교육 갈등 심화",
+          "desc": "서울시교육청과 사립유치원이 유아 무상교육 지원금으로 갈등 중입니다.",
+          "link": "https://www.edupress.kr/news/articleView.html?idxno=30478"
+        },
+        {
+          "title": "교원보호 안전생태계 구축",
+          "desc": "교권 침해 교원 보호 및 회복을 위한 안전생태계 방안이 논의됩니다.",
+          "link": "https://www.edupress.kr/news/articleView.html?idxno=30477"
+        },
+        {
+          "title": "1정 점수 승진제도 논란",
+          "desc": "1급 정교사 자격연수 점수를 둘러싼 승진제도 논란이 뜨겁습니다.",
+          "link": "https://www.edupress.kr/news/articleView.html?idxno=30476"
+        }
+      ]
+    }
+  ],
+  "createdAt": "2026-09-23T20:51:58.268Z"
+}
