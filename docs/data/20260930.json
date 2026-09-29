@@ -1,0 +1,108 @@
+{
+  "date": "20260930",
+  "categories": [
+    {
+      "category": "AI 뉴스",
+      "icon": "🤖",
+      "en": "AI News",
+      "summary": "인공지능(AI) 기술이 빠르게 발전하며 비디오 생성 모델의 정교함이 높아지고 있습니다. 동시에 AI 기업들은 급성장 속에서도 막대한 투자와 손실을 감당하며, AI의 안전성 및 규제에 대한 사회적 논의가 활발히 진행되고 있습니다.",
+      "insight": "미래 사회의 핵심 기술인 AI의 발전과 함께 윤리적 사용, 안전성 확보, 그리고 기술 기업의 책임에 대한 교육적 논의가 필요합니다.",
+      "articles": [
+        {
+          "title": "클링 4.0 공개",
+          "desc": "중국 클링이 차세대 비디오 생성 AI를 공개, 영상 제작 정밀도를 높였습니다.",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=215759"
+        },
+        {
+          "title": "앤트로픽 적자 확대",
+          "desc": "앤트로픽은 매출이 급증했으나, 영업손실도 크게 늘어났습니다.",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=215749"
+        },
+        {
+          "title": "엔비디아 자사주 매입",
+          "desc": "엔비디아가 주가 부양을 위해 사상 최대 규모의 자사주 매입을 발표했습니다.",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=215746"
+        },
+        {
+          "title": "플로리다 AI 개발 금지",
+          "desc": "플로리다주가 안전 검증 없는 AI 모델 개발 금지를 오픈AI에 요청했습니다.",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=215769"
+        },
+        {
+          "title": "호주 AI 청문회 불참",
+          "desc": "오픈AI와 앤트로픽 CEO가 호주 AI 청문회에 불참하고 임원을 보냈습니다.",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=215771"
+        }
+      ]
+    },
+    {
+      "category": "AI·테크 논문",
+      "icon": "📄",
+      "en": "Research · AI Times KR",
+      "summary": "최근 AI 기술은 의료, 재료 과학, 로봇 분야 등 다양한 곳에서 활용되고 있습니다. AI는 환자 진료 기록을 놓치지 않고 분석하거나, 복잡한 시뮬레이션 과정을 자동화하고, 잘못된 지시에도 적절히 반응하는 등 더욱 똑똑해지고 있습니다. 또한, AI 모델이 어떻게 개발되었는지 그 출처를 추적하고, 사람과 AI가 더 잘 협력하는 방법에 대한 연구도 활발히 진행 중입니다.",
+      "insight": "미래 사회의 주역인 우리 아이들이 AI와 함께 살아갈 세상에서 AI의 역할과 한계를 이해하고, AI를 올바르게 활용하는 능력을 키울 수 있도록 교육하는 것이 중요합니다.",
+      "articles": [
+        {
+          "title": "스마트케어: AI 의료 시스템",
+          "desc": "AI가 환자 진료 기록을 놓치지 않고 의료 결정을 돕는 시스템입니다.",
+          "link": "https://arxiv.org/abs/2609.31763"
+        },
+        {
+          "title": "AI 모델 출처 추적",
+          "desc": "공개 AI 모델의 개발 과정을 추적하여 어떤 모델이 먼저 나왔는지 확인합니다.",
+          "link": "https://arxiv.org/abs/2609.31784"
+        },
+        {
+          "title": "AI 기반 재료 시뮬레이션",
+          "desc": "AI가 복잡한 금속 재료 시뮬레이션 과정을 자동화하여 연구를 돕습니다.",
+          "link": "https://arxiv.org/abs/2609.31790"
+        },
+        {
+          "title": "AI의 잘못된 지시 처리",
+          "desc": "AI가 잘못된 지시를 받았을 때 어떻게 반응하는지 평가하는 연구입니다.",
+          "link": "https://arxiv.org/abs/2609.31792"
+        },
+        {
+          "title": "인간-AI 협업 프레임워크",
+          "desc": "AI와 사람이 함께 일할 때 효과적인 협업 방법을 연구하는 내용입니다.",
+          "link": "https://arxiv.org/abs/2609.31793"
+        }
+      ]
+    },
+    {
+      "category": "교육 뉴스",
+      "icon": "🏫",
+      "en": "Education News",
+      "summary": "OECD 교육지표에 따르면 한국 초임교사의 보수는 평균보다 낮고 초등학생 1인당 공교육비 지출도 감소했습니다. 한편, 국회 교육위 국정감사에서는 AI 디지털교과서 등 교육 현안이 다뤄지며, 지방교육재정교부금 개편 반대 움직임도 커지고 있습니다. 서울시교육청은 AI를 활용한 협력적 수업설계 가이드북을 배포하여 교사들의 수업 역량 강화를 지원합니다.",
+      "insight": "교사로서 우리는 초임 교사의 낮은 보수와 초등 교육 재정 감소 문제에 관심을 가지고, AI 디지털 교육 등 변화하는 교육 환경에 발맞춰 수업 역량을 지속적으로 강화해야 합니다.",
+      "articles": [
+        {
+          "title": "한국 초임교사 보수",
+          "desc": "OECD 평균보다 최대 8000달러 낮게 나타났다.",
+          "link": "https://www.edupress.kr/news/articleView.html?idxno=30489"
+        },
+        {
+          "title": "초등 공교육비 감소",
+          "desc": "초등학생 1인당 공교육비 지출이 17.1% 줄었다.",
+          "link": "https://www.edupress.kr/news/articleView.html?idxno=30488"
+        },
+        {
+          "title": "교육위 국감 증인 채택",
+          "desc": "국회 교육위 국감에 23명의 증인·참고인이 출석한다.",
+          "link": "https://www.edupress.kr/news/articleView.html?idxno=30487"
+        },
+        {
+          "title": "교부금 개편 반대 총파업",
+          "desc": "민주노총이 교부금 개편 반대에 참여, 총파업 예고.",
+          "link": "https://www.edupress.kr/news/articleView.html?idxno=30486"
+        },
+        {
+          "title": "AI 협력 수업 가이드북",
+          "desc": "서울시교육청이 AI 활용 협력 수업 가이드북을 배포한다.",
+          "link": "https://www.edupress.kr/news/articleView.html?idxno=30485"
+        }
+      ]
+    }
+  ],
+  "createdAt": "2026-09-29T20:52:06.386Z"
+}
