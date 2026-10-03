@@ -1,0 +1,74 @@
+{
+  "date": "20261004",
+  "categories": [
+    {
+      "category": "AI 뉴스",
+      "icon": "🤖",
+      "en": "AI News",
+      "summary": "최근 인공지능(AI) 기술에 대한 투자가 과열되고 있다는 경고가 나오는 가운데, AI에 대한 대중의 불안감을 줄이기 위한 귀여운 캐릭터 마케팅이 시도되고 있습니다. AI가 제공하는 정보의 정확성이 중요해지고 있으며, 사용자 맞춤형 AI 기능 개발과 함께 AI를 활용한 사회 이슈 분석도 활발합니다.",
+      "insight": "AI 기술의 급속한 발전과 사회적 영향에 대한 이해를 높이고, 아이들에게 AI 활용의 긍정적 측면과 함께 정보의 정확성을 비판적으로 판단하는 능력을 가르칠 준비가 필요합니다.",
+      "articles": [
+        {
+          "title": "AI 투자 거품 경고",
+          "desc": "월가에서 AI 기업의 천문학적 투자 대비 수익성에 대한 회의론이 제기됩니다.",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=215942"
+        },
+        {
+          "title": "AI, 귀여운 캐릭터로 친근하게",
+          "desc": "AI에 대한 대중의 거부감을 줄이고자 귀여운 마스코트 마케팅이 시도됩니다.",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=215941"
+        },
+        {
+          "title": "AI로 본 사회 이슈",
+          "desc": "AI 분석 결과, 청주 흉기 성폭행 등 사회적 사건들이 주요 이슈로 나타났습니다.",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=215940"
+        },
+        {
+          "title": "AI 검색, 정확성이 중요",
+          "desc": "AI 검색은 단순 노출보다 질문 의도에 맞는 정확한 정보 제공이 핵심입니다.",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=215693"
+        },
+        {
+          "title": "AI 맞춤형 기능 '모드' 출시",
+          "desc": "앤트로픽이 사용자 워크플로우에 최적화된 AI 맞춤형 기능을 선보였습니다.",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=215932"
+        }
+      ]
+    },
+    {
+      "category": "교육 뉴스",
+      "icon": "🏫",
+      "en": "Education News",
+      "summary": "이번 주 교육 뉴스에서는 교사 승진 제도 변화, 유치원 원비 인상 소식, 그리고 교육계 인사들의 애도와 새로운 임명 소식을 전합니다. 특히 2030년부터 1급 정교사 자격연수 성적이 교감 승진에 반영되지 않는다는 소식은 기존 교사들에게 경과조치 필요성을 제기하고 있습니다. 또한, 교사의 본분인 수업의 중요성을 강조하는 칼럼도 주목할 만합니다.",
+      "insight": "교사들은 승진 제도의 변화에 대한 이해와 함께, 유치원 원비 인상과 같은 교육 정책 변화에도 관심을 기울이며, 교사로서 수업의 본질적 가치를 되새길 필요가 있습니다.",
+      "articles": [
+        {
+          "title": "양영유 대신대 미래전략부총장 취임",
+          "desc": "양영유 전 단국대 교수가 대신대 미래전략부총장에 임명됐다.",
+          "link": "https://www.edupress.kr/news/articleView.html?idxno=30500"
+        },
+        {
+          "title": "1정 연수점수, 승진 반영 제외",
+          "desc": "2030년부터 1정 연수 성적이 교감 승진에 반영되지 않아 경과조치 요구가 있다.",
+          "link": "https://www.edupress.kr/news/articleView.html?idxno=30499"
+        },
+        {
+          "title": "故 최승복 부교육감 애도",
+          "desc": "故 최승복 경기도부교육감 별세에 교육계가 깊은 슬픔에 빠졌다.",
+          "link": "https://www.edupress.kr/news/articleView.html?idxno=30498"
+        },
+        {
+          "title": "교사의 가장 중요한 예는 수업",
+          "desc": "교사의 본분 중 으뜸인 '예'는 수업이며, 수업에 대한 통찰이 중요하다.",
+          "link": "https://www.edupress.kr/news/articleView.html?idxno=30495"
+        },
+        {
+          "title": "내년 유치원 원비 2.3% 인상",
+          "desc": "내년 유치원 원비 인상률이 최대 2.3%로 제한될 예정이다.",
+          "link": "https://www.edupress.kr/news/articleView.html?idxno=30492"
+        }
+      ]
+    }
+  ],
+  "createdAt": "2026-10-03T20:52:17.580Z"
+}
