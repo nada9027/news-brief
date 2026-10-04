@@ -1,0 +1,108 @@
+{
+  "date": "20261005",
+  "categories": [
+    {
+      "category": "경제·시사",
+      "icon": "💰",
+      "en": "Economy & Current Affairs",
+      "summary": "최근 우리 사회는 구도심 고독사 문제와 인공지능(AI)을 활용한 금융권 해킹 등 다양한 사회적 문제에 직면하고 있습니다. 국제적으로는 트럼프 전 대통령이 한국에 알래스카 LNG 사업 투자를 압박하는 소식이 있었고, 국내에서는 유해란 선수가 골프 메이저 대회에서 우승하며 좋은 소식도 전해졌습니다. 이러한 뉴스들을 통해 우리 사회의 어두운 면과 밝은 면을 함께 살펴볼 수 있습니다.",
+      "insight": "다양한 사회 현상과 기술 발전에 따른 변화를 이해하고, 아이들에게 사회 문제에 대한 공감 능력과 정보 보안의 중요성을 가르치는 교육이 필요합니다.",
+      "articles": [
+        {
+          "title": "고독사 위험 구도심",
+          "desc": "부산 구도심에서 고독사가 늘어 사회적 관심이 필요합니다.",
+          "link": "https://www.donga.com/news/Society/article/all/20261005/134784559/2"
+        },
+        {
+          "title": "AI 금융권 해킹 확산",
+          "desc": "AI 활용 해킹으로 금융사 7곳 개인정보 7만 건 유출.",
+          "link": "https://www.donga.com/news/Economy/article/all/20261005/134784563/2"
+        },
+        {
+          "title": "트럼프, 한국에 투자 압박",
+          "desc": "트럼프가 알래스카 LNG 투자 안하면 비용 2배 청구 경고.",
+          "link": "https://www.donga.com/news/Inter/article/all/20261005/134784561/2"
+        },
+        {
+          "title": "AI 이용 무차별 해킹",
+          "desc": "악성코드 없는 AI 해킹으로 금융권 취약점 노려 불안감 증폭.",
+          "link": "https://www.donga.com/news/Economy/article/all/20261005/134784557/2"
+        },
+        {
+          "title": "유해란, KLPGA 메이저 우승",
+          "desc": "유해란 선수가 한국 메이저 대회에서 우승하며 실력을 입증.",
+          "link": "https://www.donga.com/news/Sports/article/all/20261005/134784165/2"
+        }
+      ]
+    },
+    {
+      "category": "AI 뉴스",
+      "icon": "🤖",
+      "en": "AI News",
+      "summary": "최근 인공지능(AI) 기술은 공장에서 버려지던 데이터를 활용해 생산성을 높이거나, 화면 없이도 복잡한 게임을 스스로 플레이하는 등 다양한 분야에서 발전하고 있습니다. 또한, AI가 다른 AI의 작업을 감독하여 효율을 높이거나, 특정 국가나 산업의 데이터 주권을 지키기 위한 맞춤형 AI 개발도 활발합니다. 다만, 최신 AI 모델을 사용하려면 비용을 지불해야 하는 유료화 정책도 확산되고 있습니다.",
+      "insight": "AI 기술이 우리 생활과 산업 전반에 깊숙이 들어오고 있으며, 아이들이 미래 사회에서 AI를 이해하고 활용하는 능력을 키울 수 있도록 교육적 접근이 필요합니다.",
+      "articles": [
+        {
+          "title": "AI로 공장 데이터 활용",
+          "desc": "버려지던 제조 데이터를 AI로 분석해 공장을 똑똑하게 운영합니다.",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=215688"
+        },
+        {
+          "title": "AI, 화면 없이 게임 플레이",
+          "desc": "AI가 화면을 보지 않고 복잡한 게임 퀘스트를 스스로 완료했습니다.",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=215945"
+        },
+        {
+          "title": "AI가 AI를 감독해요",
+          "desc": "앤트로픽이 AI가 다른 AI 작업을 감시하는 기능을 추가했습니다.",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=215949"
+        },
+        {
+          "title": "구글 제미나이 요금제 변경",
+          "desc": "구글이 제미나이 AI 모델 접근을 요금제에 따라 차등합니다.",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=215946"
+        },
+        {
+          "title": "특정 분야 위한 AI 개발",
+          "desc": "독일 기업이 데이터 주권과 규정을 지키는 특수 AI를 공개했습니다.",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=215951"
+        }
+      ]
+    },
+    {
+      "category": "교육 뉴스",
+      "icon": "🏫",
+      "en": "Education News",
+      "summary": "교육 현장의 생생한 경험을 담은 책 출간 소식과 언론인 출신 인사의 대학 부총장 취임 소식이 전해졌습니다. 또한, 2030년부터 1급 정교사 자격연수 성적이 교감 승진에 반영되지 않는다는 소식과 교육계의 애도 물결, 그리고 교사의 본분인 수업의 중요성에 대한 칼럼이 있었습니다.",
+      "insight": "교사로서 교육 현장의 변화와 정책, 그리고 우리의 본질적인 역할인 수업의 중요성을 다시 한번 생각해보는 계기가 됩니다.",
+      "articles": [
+        {
+          "title": "김지용 장학관 책 출간",
+          "desc": "서울시교육청 장학관이 교직 경험 담은 책 출간",
+          "link": "https://www.edupress.kr/news/articleView.html?idxno=30502"
+        },
+        {
+          "title": "양영유 대신대 부총장 취임",
+          "desc": "중앙일보 출신 양영유, 대신대 부총장 취임",
+          "link": "https://www.edupress.kr/news/articleView.html?idxno=30500"
+        },
+        {
+          "title": "1정 연수 점수 승진 제외",
+          "desc": "2030년부터 1정 연수 성적, 승진 미반영",
+          "link": "https://www.edupress.kr/news/articleView.html?idxno=30499"
+        },
+        {
+          "title": "故 최승복 부교육감 애도",
+          "desc": "故 최승복 부교육감 별세, 교육계 애도",
+          "link": "https://www.edupress.kr/news/articleView.html?idxno=30498"
+        },
+        {
+          "title": "교사의 가장 중요한 예는 수업",
+          "desc": "교사의 가장 중요한 본분은 '수업'이다",
+          "link": "https://www.edupress.kr/news/articleView.html?idxno=30495"
+        }
+      ]
+    }
+  ],
+  "createdAt": "2026-10-04T20:51:54.339Z"
+}
