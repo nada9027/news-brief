@@ -1,0 +1,108 @@
+{
+  "date": "20261006",
+  "categories": [
+    {
+      "category": "AI 뉴스",
+      "icon": "🤖",
+      "en": "AI News",
+      "summary": "최근 인공지능(AI) 기술이 과학 연구, 대화형 학습, 뇌-컴퓨터 연결 등 다양한 분야에서 빠르게 발전하고 있습니다. AI는 복잡한 문제를 해결하거나 사람처럼 정보를 수집하고, 뇌와 컴퓨터를 연결하는 기술까지 선보이고 있어요. 하지만 인간과 로봇의 격투처럼 AI와 관련된 윤리적, 사회적 문제도 함께 논의되고 있습니다.",
+      "insight": "아이들에게 AI의 놀라운 발전 가능성과 함께, AI를 책임감 있게 사용하고 윤리적인 관점에서 이해하는 중요성을 가 가르쳐야 합니다.",
+      "articles": [
+        {
+          "title": "클로드, AI 과학 연구 활용",
+          "desc": "AI가 과학적 난제 해결에 새로운 접근법을 제시합니다.",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=215979"
+        },
+        {
+          "title": "앤트로픽, AI 음성 인터뷰",
+          "desc": "AI가 사람과 대화하며 정보를 수집하고 연구합니다.",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=215978"
+        },
+        {
+          "title": "뉴럴링크, 뇌-컴퓨터 연결",
+          "desc": "뇌 데이터를 학습한 AI가 뇌와 컴퓨터를 연결합니다.",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=215977"
+        },
+        {
+          "title": "인간 vs 로봇 격투 중단",
+          "desc": "인간과 로봇의 싸움 경기가 규제 당국에 의해 중단됩니다.",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=215975"
+        },
+        {
+          "title": "KAIST, AI 검색 기술 개발",
+          "desc": "AI가 최신 정보를 정확하고 빠르게 찾는 기술을 개발했습니다.",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=215974"
+        }
+      ]
+    },
+    {
+      "category": "AI·테크 논문",
+      "icon": "📄",
+      "en": "Research · AI Times KR",
+      "summary": "최근 AI 기술 연구는 생성 모델이 특정 제약 조건을 따르도록 하거나, 인공지능 에이전트가 복잡한 작업을 더 효율적으로 처리하도록 돕는 데 집중하고 있습니다. 또한, 기업들이 AI 위험에 어떻게 대응하는지 분석하여 사회 전반의 안정성을 평가하고, 텍스트로 이미지를 만드는 AI의 안전성을 높이는 연구도 활발히 진행되고 있습니다. 마지막으로, AI가 여러 단계를 거쳐 도구를 사용하는 과정에서 더 나은 결정을 내리도록 돕는 방법도 탐구되고 있습니다.",
+      "insight": "이러한 연구들은 미래 사회의 AI 활용이 더욱 정교하고 안전하며 책임감 있게 발전할 것임을 보여주므로, 아이들에게 AI의 다양한 가능성과 함께 윤리적 사용의 중요성을 교육하는 데 참고할 수 있습니다.",
+      "articles": [
+        {
+          "title": "장기 도구 사용 에이전트",
+          "desc": "LLM의 장기 도구 사용 에이전트 가치 평가.",
+          "link": "https://arxiv.org/abs/2610.02260"
+        },
+        {
+          "title": "Fast Models, Slow Evidence: A Paired and Self-Audited Evaluation of System-1 Decision Models for LLM Agent Harnesses",
+          "desc": "arXiv:2610.02267v1 Announce Type: new Abstract: Agent harnesses make many small, typed decisions per task: which model to call, which tool to use, whether retrieved text is relevant, whether an input carries an injection. System-1 decision models answer such questions in a single forward pass with c",
+          "link": "https://arxiv.org/abs/2610.02267"
+        },
+        {
+          "title": "The AI Risk Observatory: What Can We Learn from AI Disclosures in Annual Reports About Societal Resilience?",
+          "desc": "arXiv:2610.02281v1 Announce Type: new Abstract: Societal resilience research relies on access to useful and actionable data, which motivates our main research question: Can annual reports, processed at scale with LLMs, provide a useful signal about how companies disclose their response to AI? We tes",
+          "link": "https://arxiv.org/abs/2610.02281"
+        },
+        {
+          "title": "Keep It CALM: Analyzing the Limits of Global Unsafety in Text-to-Image Generation",
+          "desc": "arXiv:2610.02300v1 Announce Type: new Abstract: Training-free safeguards for text-to-image generation often rely on a reusable safety signal, such as an unsafe direction or global toxic subspace, applied broadly across prompts. We provide a controlled geometric analysis of this global-unsafety assum",
+          "link": "https://arxiv.org/abs/2610.02300"
+        },
+        {
+          "title": "Choosing Before Acting: Comparative Value Estimation for Long-Horizon Tool-Use Agents",
+          "desc": "arXiv:2610.02330v1 Announce Type: new Abstract: Large language models (LLMs) rely on long-horizon tool invocation sequences for complex tasks, where each invocation can alter the task state and condition subsequent decisions. In long-horizon tool use, final-outcome rewards provide weak credit assign",
+          "link": "https://arxiv.org/abs/2610.02330"
+        }
+      ]
+    },
+    {
+      "category": "교육 뉴스",
+      "icon": "🏫",
+      "en": "Education News",
+      "summary": "최근 교육계에서는 학교 현장의 깊은 고민과 경험을 담은 책 출간 소식, 그리고 대신대학교의 새로운 부총장 취임 소식이 전해졌습니다. 또한, 2030년부터 1급 정교사 자격연수 성적이 교감 승진에 반영되지 않는다는 중요한 제도 변화와 고 최승복 부교육감의 별세에 대한 교육계의 애도 물결이 있었습니다. 교사의 가장 중요한 역할이 '수업'이라는 칼럼도 주목받고 있습니다.",
+      "insight": "교사들은 교육 제도 변화에 대한 이해와 함께, 학교 현장의 본질인 수업의 중요성을 다시 한번 되새기며 교육자로서의 책무성을 성찰할 필요가 있습니다.",
+      "articles": [
+        {
+          "title": "김지용 장학관 책 출간",
+          "desc": "학교를 사랑한 장학관의 25년 교직 기록.",
+          "link": "https://www.edupress.kr/news/articleView.html?idxno=30502"
+        },
+        {
+          "title": "양영유 대신대 부총장 취임",
+          "desc": "전 중앙일보 논설위원, 단국대 교수 출신.",
+          "link": "https://www.edupress.kr/news/articleView.html?idxno=30500"
+        },
+        {
+          "title": "1정 연수 점수 승진 제외",
+          "desc": "2030년부터 1정 연수 점수 승진 반영 제외.",
+          "link": "https://www.edupress.kr/news/articleView.html?idxno=30499"
+        },
+        {
+          "title": "故 최승복 부교육감 애도",
+          "desc": "교육계, 故 최승복 부교육감 별세에 애도.",
+          "link": "https://www.edupress.kr/news/articleView.html?idxno=30498"
+        },
+        {
+          "title": "교사의 가장 중요한 예는 수업",
+          "desc": "교사의 본분은 수업이며, 수업에 대한 통찰 필요.",
+          "link": "https://www.edupress.kr/news/articleView.html?idxno=30495"
+        }
+      ]
+    }
+  ],
+  "createdAt": "2026-10-05T20:53:59.177Z"
+}
