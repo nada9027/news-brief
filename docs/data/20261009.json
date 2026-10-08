@@ -1,0 +1,142 @@
+{
+  "date": "20261009",
+  "categories": [
+    {
+      "category": "경제·시사",
+      "icon": "💰",
+      "en": "Economy & Current Affairs",
+      "summary": "최근 정부는 농지 투기 단속에 대한 농민들의 반발을 수용하여 상속이나 고령농의 농지 처분 조치를 완화했습니다. 한편, 삼성전자는 반도체 호황에 힘입어 사상 최대 분기 영업이익을 달성하며 우리나라 경제 성장을 이끌었고, SK하이닉",
+      "insight": "",
+      "articles": [
+        {
+          "title": "상속-고령-임대 농지 강제처분 조치 안한다",
+          "desc": "정부가 농지 전수조사에서 상속·고령농 등 투기와 무관한 농지법 위반은 처분 대상에서 제외하기로 했다. 농촌에서 관행적으로 이뤄지고 있는 농지 임대차는 일정 요건을 갖추면 적법한 것으로 인정한다. 이재명 대통령이 올 2월 국무회의에서 농지 투기를 거론하며 전수조사를 지시하고 5월부터 실제 조사가 시작되면서 농민 반발과 현장 혼란이 이어진 데 따른 조치다. 정부가 당초의 강경한 정책 기조에서 물러섰다는 평가가 나온다. 정부는 농업계 반대가 큰 포괄적·점진적 환태평양경제동반자협정(CPTPP) 가입까지 미루며 농촌 민심 수습에 나서는 모습",
+          "link": "https://www.donga.com/news/Economy/article/all/20261009/134812805/2"
+        },
+        {
+          "title": "삼성전자, 엔비디아도 못한 ‘영업익 100조’ 시대 열어",
+          "desc": "삼성전자가 사상 첫 ‘분기 이익 100조 원’ 시대를 열었다. 3분기(7∼9월) 영업이익 107조 원을 달성한 것이다. 글로벌 테크 기업 중 분기 영업이익 100조 원을 넘긴 것은 삼성전자가 처음이다. 삼성전자는 8일 올해 3분기 연결 기준 잠정 매출이 195조 원, 영업이익은 107조4000억 원으로 집계됐다고 공시했다. 전년 동기 대비 각각 126.6%, 782.5%가 증가한 수치다. 직원 성과급을 위한 충당금 약 11조 원이 반영됐다는 점을 감안하면 실제 영업이익은 약 120조 원대로 추산된다. 이는 글로벌 기업 중 역대 최고",
+          "link": "https://www.donga.com/news/Economy/article/all/20261009/134812803/2"
+        },
+        {
+          "title": "D램이 이끈 ‘빅테크 영업익 세계 1위’ 삼성… “내년엔 HBM4 주축”",
+          "desc": "삼성전자가 글로벌 빅테크들을 제치고 최초로 분기 영업이익 ‘100조 원’을 달성한 배경으로는 메모리 슈퍼사이클이 꼽힌다. 반도체 피크아웃(정점론) 논란 속에서도 메모리 수요는 여전히 치솟고 있다는 방증으로 풀이된다. 8일 삼성전자가 공개한 잠정 실적에는 부문별 상세 실적이 포함되지 않았지만, 반도체 사업부인 디바이스솔루션(DS) 매출 가운데 D램이 60∼70%를 차지했을 것이라는 시각이 우세하다. 인공지능(AI) 데이터센터 건설 붐으로 수요가 폭증한 데다 최근 대답에서 행동까지 이어지는 AI 에이전트 대중화가 본격화되며 D램, 낸드",
+          "link": "https://www.donga.com/news/Economy/article/all/20261008/134812813/2"
+        },
+        {
+          "title": "반도체 호황에 8월 경상흑자 역대 2위 461억달러",
+          "desc": "반도체 호황에 힘입어 한국의 경상수지가 3개월 연속으로 50조 원을 넘는 흑자를 거뒀다. 지지부진한 국내 증시를 떠나는 국내 투자자가 늘며 한국인의 해외 주식 투자는 역대 2위 수준까지 불어났다. 8일 한국은행이 발표한 ‘국제수지 잠정 통계’에 따르면 올해 8월 경상수지는 461억1000만 달러(약 61조7000억 원) 흑자를 냈다. 전년 동기에 비해 362억7000만 달러, 지난달에 비해서는 40억4000만 달러 늘어난 수준이다. 월 단위로는 역대 최대치인 올 6월(497억3000만 달러)에 이어 역대 두 번째로 많은 규모다. 경",
+          "link": "https://www.donga.com/news/Economy/article/all/20261008/134812811/2"
+        },
+        {
+          "title": "SK하이닉스 손자회사 솔리다임, 내년 美 상장 시동",
+          "desc": "SK하이닉스의 손자회사인 솔리다임이 대표 주관사를 선정하며 내년 미국 증시 상장 검토에 착수한 것으로 알려졌다. 8일 블룸버그통신은 솔리다임이 골드만삭스, 모건스탠리를 기업공개(IPO) 주관사로 선정하고, 상장 전 투자 유치(프리IPO)를 마무리하고 있다고 보도했다. JP모건체이스, 시티그룹, UBS그룹도 솔리다임의 IPO 주관사단에 참여하고 있는 것으로 알려졌다. 블룸버그통신에 따르면 이르면 내년 솔리다임이 IPO에 나설 수 있다며, 기업가치는 최대 1000억 달러(약 134조 원)로 평가될 것으로 전망했다. 솔리다임은 SK하이닉",
+          "link": "https://www.donga.com/news/Economy/article/all/20261008/134812809/2"
+        }
+      ]
+    },
+    {
+      "category": "AI 뉴스",
+      "icon": "🤖",
+      "en": "AI News",
+      "summary": "최근 인공지능 기술은 게임 제작부터 반도체 공장 운영, 그리고 우리 주변의 PC에 이르기까지 다양한 분야에서 빠르게 발전하고 있습니다. 구글은 텍스트로 게임을 만드는 AI 플랫폼을 선보였고, 마이크로소프트는 코딩 AI 모델을 개인 컴퓨터에서 직접 사용할 수 있도록 하는 등 AI의 활용 범위가 넓어지고 있습니다. 이러한 기술 발전은 미래 교육과 아이들의 학습 방식에도 큰 영향을 미칠 것으로 예상됩니다.",
+      "insight": "교사들은 AI 기술의 발전 동향을 이해하고, 학생들이 미래 사회의 주역으로 성장할 수 있도록 AI 활용 교육 및 디지털 리터러시 함양에 더욱 관심을 기울여야 합니다.",
+      "articles": [
+        {
+          "title": "구글, 텍스트로 게임 만드는 AI 플랫폼 공개",
+          "desc": "구글이 AI 게임 제작 플랫폼 '플레이그라운드'를 출시했습니다.",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=216076"
+        },
+        {
+          "title": "머스크, AI 반도체 공장 직접 운영",
+          "desc": "일론 머스크가 대규모 AI 반도체 공장 '테라팹'을 직접 운영한다고 밝혔습니다.",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=216080"
+        },
+        {
+          "title": "카카오, AI 모델 효율화 기술 공개",
+          "desc": "카카오가 AI 모델 학습 효율 및 경량화 연구 성과를 국제 학회에서 발표했습니다.",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=216073"
+        },
+        {
+          "title": "리퀴드 AI, 소형 멀티모달 모델 출시",
+          "desc": "리퀴드 AI가 작은 크기로 뛰어난 성능을 보이는 의사결정 AI 모델을 공개했습니다.",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=216087"
+        },
+        {
+          "title": "MS, 코딩 AI 모델 PC 최적화",
+          "desc": "MS가 코딩 AI 모델 'MAI-코드-1.1'을 PC에서 바로 실행하도록 최적화했습니다.",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=216071"
+        }
+      ]
+    },
+    {
+      "category": "AI·테크 논문",
+      "icon": "📄",
+      "en": "Research · AI Times KR",
+      "summary": "이번 AI·테크 논문들은 인공지능이 우리 삶에 미치는 다양한 영향을 다룹니다. AI가 업무를 자동화하고 소프트웨어의 오류를 찾는 데 도움을 주는 긍정적인 측면과 함께, 언어 모델의 추론 능력을 향상시키거나 AI 에이전트의 실제 활용도를 분석하는 연구도 있습니다. 또한, 발전된 AI가 인류에게 잠재적인 위협이 될 수 있다는 심도 깊은 분석도 포함되어 있습니다.",
+      "insight": "교사들은 AI 기술의 발전이 가져올 긍정적 변화와 함께 잠재적 위험성에 대한 균형 잡힌 시각을 가지고 학생들에게 미래 사회의 AI 리터러시 교육의 중요성을 강조해야 합니다.",
+      "articles": [
+        {
+          "title": "AI가 인류를 위협하는 방식",
+          "desc": "발전된 AI가 인류에게 재앙이 될 수 있는 시나리오 분석.",
+          "link": "https://arxiv.org/abs/2610.08793"
+        },
+        {
+          "title": "Accelerating Floating-Point Satisfiability Solving via Gradient Normalization",
+          "desc": "arXiv:2610.08808v1 Announce Type: new Abstract: Satisfiability Modulo Theories (SMT) solvers are foundational to software verification, program analysis, and compiler testing, particularly over the theory of Quantifier-Free Floating-Point (QF_FP). While recent optimization-based SMT solvers have suc",
+          "link": "https://arxiv.org/abs/2610.08808"
+        },
+        {
+          "title": "Route-Verify-Vote: Procedure-Conditioned Self-Consistency for Mixed-Domain Reasoning",
+          "desc": "arXiv:2610.08814v1 Announce Type: new Abstract: Compositional generalization remains challenging when language models must combine familiar reasoning operations in unfamiliar ways. The Scenario-Based Commonsense Reasoning Evaluation (SCoRE) 2026 tests this ability on three mixed domains absent from ",
+          "link": "https://arxiv.org/abs/2610.08814"
+        },
+        {
+          "title": "An Empirical Study of Agent Skills' Downstream Utility",
+          "desc": "arXiv:2610.08875v1 Announce Type: new Abstract: Agent Skills package procedural guidance and resources for reuse, but a relevant Skill does not necessarily improve task performance. Existing studies characterize Skill content and evaluate downstream performance, yet provide limited explanations of h",
+          "link": "https://arxiv.org/abs/2610.08875"
+        },
+        {
+          "title": "How Could AI Eliminate Humanity? A Failure-Mode Analysis of Civilizational Risk",
+          "desc": "arXiv:2610.08878v1 Announce Type: new Abstract: This article develops a failure-mode framework for analyzing how advanced artificial intelligence could contribute to human extinction, irreversible civilizational collapse, or permanent human disempowerment. The central thesis is that catastrophic AI ",
+          "link": "https://arxiv.org/abs/2610.08878"
+        }
+      ]
+    },
+    {
+      "category": "교육 뉴스",
+      "icon": "🏫",
+      "en": "Education News",
+      "summary": "최근 교육계는 학생들의 기초학력 보장과 마음 건강 지원, 그리고 민주시민 교육 강화에 주목하고 있습니다. 동시에 교사의 전문성 향상을 위한 연수 및 연구비 지원과 정치기본권 확대 방안도 활발히 논의되고 있습니다. 다만, 대학 입시 시스템 장애와 같은 교육 행정의 문제점도 드러나고 있습니다.",
+      "insight": "교사들은 학생들의 학력과 정서 지원에 더욱 집중하며, 변화하는 교육 정책과 자신의 권리 확대에 관심을 갖고 전문성 신장을 위한 기회를 적극 활용해야 합니다.",
+      "articles": [
+        {
+          "title": "정근식 교육감 100일",
+          "desc": "기초학력 보장, 마음회복학교 설립 등 공약 이행 토론회가 열렸습니다.",
+          "link": "https://www.edupress.kr/news/articleView.html?idxno=30508"
+        },
+        {
+          "title": "최교진 장관 사과",
+          "desc": "대학 수시 원서접수 시스템 장애에 대해 교육부 장관이 사과했습니다.",
+          "link": "https://www.edupress.kr/news/articleView.html?idxno=30506"
+        },
+        {
+          "title": "아이가 뿌리내릴 도시",
+          "desc": "대학 중심에서 아이가 성장하는 도시로의 변화를 칼럼에서 다룹니다.",
+          "link": "https://www.edupress.kr/news/articleView.html?idxno=30505"
+        },
+        {
+          "title": "교원 정치기본권 확대",
+          "desc": "학교 밖 교원의 정치적 권리 보장 방안이 추진됩니다.",
+          "link": "https://www.edupress.kr/news/articleView.html?idxno=30504"
+        },
+        {
+          "title": "강미애 교육감 100일",
+          "desc": "초3~6 학력평가 및 교사 연수비 지원을 발표했습니다.",
+          "link": "https://www.edupress.kr/news/articleView.html?idxno=30503"
+        }
+      ]
+    }
+  ],
+  "createdAt": "2026-10-08T20:52:06.222Z"
+}
