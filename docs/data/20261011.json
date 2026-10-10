@@ -1,0 +1,108 @@
+{
+  "date": "20261011",
+  "categories": [
+    {
+      "category": "AI 뉴스",
+      "icon": "🤖",
+      "en": "AI News",
+      "summary": "최근 기술 기업들은 AI 분야에서 활발한 움직임을 보이고 있습니다. 엔비디아는 AI 칩 개발사에 투자하며 생태계를 넓히고, 마이크로소프트는 AI 에이전트의 의사결정을 돕는 모델을 공개했습니다. 테슬라는 유럽 규제에 맞춰 자율주행 명칭을 변경했으며, 알리바바는 이미지 생성 AI 모델의 속도와 효율을 높이는 등 다양한 AI 기술 발전이 이루어지고 있습니다.",
+      "insight": "미래 교육을 위해 AI 기술의 발전 동향을 이해하고, 학생들이 AI를 올바르게 활용할 수 있도록 지도하는 역량을 키워야 합니다.",
+      "articles": [
+        {
+          "title": "엔비디아, AI 칩 투자",
+          "desc": "엔비디아가 AI 추론 칩 개발사에 투자해 생태계를 확장합니다.",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=216122"
+        },
+        {
+          "title": "MS, AI 의사결정 모델 공개",
+          "desc": "MS가 AI 에이전트의 의사결정을 돕는 전용 모델을 공개했습니다.",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=216107"
+        },
+        {
+          "title": "테슬라, FSD 명칭 변경",
+          "desc": "테슬라가 유럽에서 자율주행 명칭을 '보조 주행'으로 변경했습니다.",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=216113"
+        },
+        {
+          "title": "알리바바, 이미지 AI 모델",
+          "desc": "알리바바가 이미지 생성 속도를 높인 AI 모델을 출시했습니다.",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=216108"
+        },
+        {
+          "title": "마누스, 6700억 투자 유치",
+          "desc": "AI 스타트업 마누스가 메타 인수 무산 후 대규모 투자를 받았습니다.",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=216118"
+        }
+      ]
+    },
+    {
+      "category": "AI·테크 논문",
+      "icon": "📄",
+      "en": "Research · AI Times KR",
+      "summary": "최근 AI 기술은 스스로 배우고 발전하는 똑똑한 비서처럼 진화하고 있습니다. 이 기술들은 방대한 데이터를 정리하고, 필요한 정보를 효율적으로 기억하며, 심지어 실제와 같은 가상 데이터를 만들어 훈련하기도 합니다. 하지만 AI가 스스로 발전할 때, 그 과정이 투명하고 우리가 이해할 수 있도록 하는 것이 매우 중요합니다.",
+      "insight": "미래 교육에서 AI는 정보 정리, 문제 해결, 창의적 사고를 돕는 강력한 도구가 될 것이며, 교사는 AI의 발전 과정을 이해하고 윤리적인 활용 방안을 지도하는 역할이 중요해질 것입니다.",
+      "articles": [
+        {
+          "title": "An Explainable Header-Centric Framework for Large-Scale Semantic Table Interpretation and Data Quality Assessment",
+          "desc": "arXiv:2610.10541v1 Announce Type: new Abstract: Knowledge Graph (KG) quality depends not only on downstream graph validation, but also on the quality of tabular metadata used before integration. In metadata-only Semantic Table Interpretation (STI), where cell values are unavailable, noisy, or unsuit",
+          "link": "https://arxiv.org/abs/2610.10541"
+        },
+        {
+          "title": "Synthesis Through Simulation: Generating Coherent Enterprise Data via Scalable Agent-System Interaction",
+          "desc": "arXiv:2610.10549v1 Announce Type: new Abstract: Tool-calling agents have become central to enterprise AI, yet training and evaluating them at scale remains severely constrained due to business and legal restrictions on enterprise systems, data, and database schemas. Tabular data synthesis offers a n",
+          "link": "https://arxiv.org/abs/2610.10549"
+        },
+        {
+          "title": "Agent-Controlled Forgetting for Tool-Using Agents: Reversible Context Curation in Practice",
+          "desc": "arXiv:2610.10590v1 Announce Type: new Abstract: Tool-using agents repeatedly carry observations whose useful content can be much smaller than their original payload. We study agent-controlled forgetting: the acting model selects previously observed tool results, replaces each with a short note at it",
+          "link": "https://arxiv.org/abs/2610.10590"
+        },
+        {
+          "title": "Verification and Self-Improvement in Agentic AI: Foundations and Limits",
+          "desc": "arXiv:2610.10611v1 Announce Type: new Abstract: Agentic AI systems can improve by searching longer, receiving additional support, or modifying how they propose and verify outputs. A performance score does not distinguish these mechanisms. We compare these changes through bounded verification with hi",
+          "link": "https://arxiv.org/abs/2610.10611"
+        },
+        {
+          "title": "The Harness as the Only Mutable Surface: Compliance-Bounded Self-Evolution of LLM Agents in Credit Pipelines, with a Measured Admission Gate",
+          "desc": "arXiv:2610.10629v1 Announce Type: new Abstract: Self-improving LLM agents can adapt a credit pipeline to a changed rule, but an agent that rewrites itself destroys the artefact a supervisor reviews: a named change, a recorded test, an approval. We argue that self-evolution is reviewable only if it i",
+          "link": "https://arxiv.org/abs/2610.10629"
+        }
+      ]
+    },
+    {
+      "category": "교육 뉴스",
+      "icon": "🏫",
+      "en": "Education News",
+      "summary": "최근 고등교육 분야에서는 여러 대학이 협력하는 세종공동캠퍼스 모델이 정부 지원 부족으로 어려움을 겪고 있습니다. 한편, 교원단체들은 교육활동 보장과 정치기본권 확대를 요구하는 대규모 집회를 열었으며, 1급 정교사 연수 성적의 승진평정 반영 폐지 논란도 확산되고 있습니다. 이러한 소식들은 교육 현장의 변화와 교원들의 목소리를 담고 있습니다.",
+      "insight": "초등학교 교사로서 우리는 교육 정책 변화에 관심을 가지고, 학생 개개인의 특성을 고려한 공자의 '인재시교' 정신을 교육에 적용하며, 지역사회 연계 예술 프로그램을 통해 학생들에게 다양한 경험을 제공할 기회를 모색해야 합니다.",
+      "articles": [
+        {
+          "title": "세종 공동캠퍼스 위기",
+          "desc": "여러 대학이 협력하는 미래형 캠퍼스가 정부 지원 부족으로 어려움을 겪고 있습니다.",
+          "link": "https://www.edupress.kr/news/articleView.html?idxno=30513"
+        },
+        {
+          "title": "공자의 인재시교 교육",
+          "desc": "공자가 제자마다 다른 가르침을 준 인재시교의 교육자적 면모를 조명합니다.",
+          "link": "https://www.edupress.kr/news/articleView.html?idxno=30512"
+        },
+        {
+          "title": "성북강북교육청 예술",
+          "desc": "성북강북교육지원청이 시민 대상 예술 프로그램을 운영하여 일상 속 예술 경험을 제공합니다.",
+          "link": "https://www.edupress.kr/news/articleView.html?idxno=30511"
+        },
+        {
+          "title": "교원단체 교육활동 집회",
+          "desc": "교원단체들이 교육활동 보장 등을 요구하며 대규모 집회를 열었습니다.",
+          "link": "https://www.edupress.kr/news/articleView.html?idxno=30509"
+        },
+        {
+          "title": "1정 연수 점수 폐지 논란",
+          "desc": "1급 정교사 연수 성적의 승진평정 반영 폐지를 두고 교원들의 반발이 있습니다.",
+          "link": "https://www.edupress.kr/news/articleView.html?idxno=30510"
+        }
+      ]
+    }
+  ],
+  "createdAt": "2026-10-10T20:51:58.688Z"
+}
