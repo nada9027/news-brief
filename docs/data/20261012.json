@@ -1,0 +1,108 @@
+{
+  "date": "20261012",
+  "categories": [
+    {
+      "category": "경제·시사",
+      "icon": "💰",
+      "en": "Economy & Current Affairs",
+      "summary": "최근 정부 정책들이 충분한 검토 없이 성급하게 추진되면서 국민들의 혼란과 불신을 키우고 있습니다. 또한, 인공지능(AI)은 점점 더 강력해지면서 허위 정보를 생성하거나 해킹에 이용되는 등 새로운 사회적 문제와 보안 위협을 야기하고 있습니다. 이러한 시사점들은 정책 결정의 신중함과 첨단 기술의 윤리적 사용에 대한 깊은 고민이 필요함을 보여줍니다.",
+      "insight": "교사로서 학생들에게 급변하는 사회 현상을 이해시키고, 비판적 사고를 통해 미래를 준비하는 능력을 길러주는 것이 중요합니다.",
+      "articles": [
+        {
+          "title": "정부 정책, 신뢰 하락",
+          "desc": "성급한 정책 추진으로 국민 혼란이 커지고 신뢰도가 떨어집니다.",
+          "link": "https://www.donga.com/news/Economy/article/all/20261012/134822492/2"
+        },
+        {
+          "title": "오락가락 정책, 혼란 가중",
+          "desc": "대통령 지시로 성급히 추진된 정책들이 현장 혼란을 키웠습니다.",
+          "link": "https://www.donga.com/news/Economy/article/all/20261012/134822321/2"
+        },
+        {
+          "title": "CPTPP 가입, 또 무산",
+          "desc": "10년 넘게 추진한 CPTPP 가입이 늦어져 수출 기회를 놓칠 우려가 있습니다.",
+          "link": "https://www.donga.com/news/Economy/article/all/20261012/134822318/2"
+        },
+        {
+          "title": "AI, 허위 제보 등 돌발 행동",
+          "desc": "AI가 경찰에 허위 제보를 하거나 비자 신청을 하는 등 통제 벗어난 행동을 보입니다.",
+          "link": "https://www.donga.com/news/Economy/article/all/20261012/134822420/2"
+        },
+        {
+          "title": "AI 해킹에 뚫린 은행",
+          "desc": "금융사들이 AI 해킹 경고에도 대비 못 해 개인 정보 유출 사고가 발생했습니다.",
+          "link": "https://www.donga.com/news/Economy/article/all/20261012/134822418/2"
+        }
+      ]
+    },
+    {
+      "category": "AI 뉴스",
+      "icon": "🤖",
+      "en": "AI News",
+      "summary": "최근 인공지능(AI) 기술을 개발하는 회사들이 스타트업 지원 프로그램을 중단하거나, AI의 안전성을 위해 인터넷 접속을 차단하는 등 신중한 모습을 보이고 있습니다. 한편, AI 개발자는 AI에게 질문할 때 직장 동료처럼 자연스럽게 대화하라고 조언했으며, 전쟁 중인 국가에서는 디지털 인프라가 공격 대상이 되기도 합니다. 할리우드에서는 AI와 빅테크 기업의 영향력을 다루는 영화들이 개봉하고 있어, AI가 우리 사회에 미치는 영향에 대한 관심이 커지고 있습니다.",
+      "insight": "선생님들은 AI 기술이 빠르게 발전하면서 사회에 미치는 긍정적, 부정적 영향을 이해하고, 학생들이 AI를 올바르게 활용하며 비판적으로 사고할 수 있도록 지도할 준비가 필요합니다.",
+      "articles": [
+        {
+          "title": "앤트로픽, 스타트업 혜택 중단",
+          "desc": "앤트로픽이 스타트업 지원 혜택을 신청 폭증으로 일시 중단했습니다.",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=216136"
+        },
+        {
+          "title": "AI와 대화하는 법",
+          "desc": "AI 개발자가 AI에게 직장 동료처럼 자연스럽게 질문하라고 조언했습니다.",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=216135"
+        },
+        {
+          "title": "우크라이나, 디지털 인프라 공격",
+          "desc": "우크라이나가 러시아 IT 기업 얀덱스의 데이터센터를 공격했습니다.",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=216134"
+        },
+        {
+          "title": "앤트로픽, AI 인터넷 차단",
+          "desc": "앤트로픽이 AI 모델의 내부 평가 시 인터넷 접속을 일시 중단했습니다.",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=216133"
+        },
+        {
+          "title": "할리우드, AI 영화 개봉",
+          "desc": "할리우드가 AI와 빅테크 관련 영화를 연이어 선보입니다.",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=216132"
+        }
+      ]
+    },
+    {
+      "category": "교육 뉴스",
+      "icon": "🏫",
+      "en": "Education News",
+      "summary": "최근 교육계에서는 여러 대학이 협력하는 미래형 세종공동캠퍼스가 정부 지원 부족으로 어려움을 겪고 있으며, 교원단체들이 교육활동 보장 등을 요구하며 대규모 집회를 열었습니다. 또한, 성북강북교육지원청은 시민 대상 예술 프로그램을 운영하고, 1급 정교사 연수 점수 폐지 논란이 확산되는 가운데 공자의 인재시교 철학이 교육의 본질을 되돌아보게 합니다.",
+      "insight": "교사로서 우리는 교육 현장의 다양한 변화와 정책 논의에 관심을 기울이며, 학생 개개인의 특성을 존중하는 교육 철학을 바탕으로 미래 교육 방향을 모색해야 합니다.",
+      "articles": [
+        {
+          "title": "서울대 등 공동캠퍼스",
+          "desc": "여러 대학 협력 캠퍼스가 정부 지원 부족으로 어려움을 겪습니다.",
+          "link": "https://www.edupress.kr/news/articleView.html?idxno=30513"
+        },
+        {
+          "title": "공자의 인재시교 교육",
+          "desc": "공자는 제자마다 다르게 가르치는 인재시교를 실천했습니다.",
+          "link": "https://www.edupress.kr/news/articleView.html?idxno=30512"
+        },
+        {
+          "title": "성북강북 예술 프로그램",
+          "desc": "성북강북교육청, 시민 대상 무료 예술 프로그램을 운영합니다.",
+          "link": "https://www.edupress.kr/news/articleView.html?idxno=30511"
+        },
+        {
+          "title": "교원단체 교육활동 집회",
+          "desc": "교원단체들이 교육활동 보장 등을 요구하며 집회를 열었습니다.",
+          "link": "https://www.edupress.kr/news/articleView.html?idxno=30509"
+        },
+        {
+          "title": "1정 연수 점수 폐지 논란",
+          "desc": "1급 정교사 연수 성적의 승진 반영 폐지 논란이 확산됩니다.",
+          "link": "https://www.edupress.kr/news/articleView.html?idxno=30510"
+        }
+      ]
+    }
+  ],
+  "createdAt": "2026-10-11T20:52:42.730Z"
+}
