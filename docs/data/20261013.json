@@ -1,0 +1,108 @@
+{
+  "date": "20261013",
+  "categories": [
+    {
+      "category": "AI 뉴스",
+      "icon": "🤖",
+      "en": "AI News",
+      "summary": "이번 주 AI 소식은 우리 아이들이 미래에 만날 기술의 모습을 보여줍니다. AI가 말 한마디로 3D 그림을 그리거나, 복잡한 논문 속 잘못된 부분을 찾아내고, 심지어 컴퓨터 보안 문제까지 해결하는 등 다양한 분야에서 똑똑하게 활용되고 있습니다. AI 기술이 점점 더 발전하며 우리 삶에 깊숙이 들어오고 있음을 알 수 있습니다.",
+      "insight": "AI가 복잡한 문제를 해결하고 효율성을 높이는 도구로 발전하고 있기에, 아이들이 AI를 이해하고 활용하는 능력을 키울 수 있도록 교육적 접근을 고민해야 합니다.",
+      "articles": [
+        {
+          "title": "클로드 코드용 '아나토미' 공개",
+          "desc": "AI가 아이디어를 3D 시각화 코드로 만들어줍니다.",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=216170"
+        },
+        {
+          "title": "'올모 코어 3' 학습 효율↑",
+          "desc": "AI 학습에 필요한 자원을 줄이는 기술이 나왔습니다.",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=216173"
+        },
+        {
+          "title": "AI, 논문 오류 73% 찾아내",
+          "desc": "AI가 논문의 논리적 오류를 찾아내는 시스템을 개발했습니다.",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=216163"
+        },
+        {
+          "title": "앤트로픽, 데이터센터 투자",
+          "desc": "AI 기업이 데이터센터 확보로 수익을 늘리려 합니다.",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=216168"
+        },
+        {
+          "title": "AI 사이버 보안 모델 공개",
+          "desc": "AI가 복잡한 사이버 공격을 분석하고 해결합니다.",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=216167"
+        }
+      ]
+    },
+    {
+      "category": "AI·테크 논문",
+      "icon": "📄",
+      "en": "Research · AI Times KR",
+      "summary": "최근 인공지능(AI) 기술은 스스로 학습하고 발전하는 방향으로 빠르게 나아가고 있어요. AI가 왜 그렇게 판단했는지 설명하는 기술의 한계점을 연구하고, AI가 스스로 프로그램을 개선하거나 복잡한 일정을 효율적으로 관리하는 방법도 개발되고 있답니다. 또한, AI가 더 똑똑해지기 위해 가상 데이터를 만들고, 긴 시간 동안 전략적으로 생각하는 능력을 평가하는 연구도 활발히 진행 중이에요.",
+      "insight": "미래 교육에서 AI는 단순한 도구를 넘어 스스로 배우고 문제 해결 능력을 키우는 '학습 주체'로 발전할 가능성이 크므로, AI의 작동 원리와 한계를 이해하고 이를 교육에 어떻게 접목할지 고민하는 시야가 필요합니다.",
+      "articles": [
+        {
+          "title": "AI 장기 전략 평가",
+          "desc": "AI 모델의 장기적 전략 사고 능력 평가.",
+          "link": "https://arxiv.org/abs/2610.12493"
+        },
+        {
+          "title": "EliteTable: Self-Improving Program Search for Executable Control Policies",
+          "desc": "arXiv:2610.12536v1 Announce Type: new Abstract: EliteTable is a self-improving program-search algorithm guided by large language models (LLMs) that uses a fixed-capacity table of high-scoring solutions to guide new proposals, edits of existing solutions, and remixes of several solutions. Performance",
+          "link": "https://arxiv.org/abs/2610.12536"
+        },
+        {
+          "title": "Equal-Budget Monte Carlo Tree Search versus Randomized-Restart List Scheduling for DAG Workflows: A Controlled Equal-Budget Computational Study",
+          "desc": "arXiv:2610.12542v1 Announce Type: new Abstract: Monte Carlo Tree Search (MCTS) is often proposed for scheduling directed-acyclic-graph (DAG) workflows, yet most studies never run the comparison that could refute it - giving a much simpler method the same search effort. We run that comparison under a",
+          "link": "https://arxiv.org/abs/2610.12542"
+        },
+        {
+          "title": "Know What You Don't Know: Agentic Data Synthesis by Evolving Generation Space for Closed-Loop Learning",
+          "desc": "arXiv:2610.12593v1 Announce Type: new Abstract: The continued improvement of large language models increasingly depends on synthetic experience, yet effective data synthesis for interactive agents requires not only executable and verifiable trajectories, but also interactions that provide learning v",
+          "link": "https://arxiv.org/abs/2610.12593"
+        },
+        {
+          "title": "SpireBench: Evaluating Long-Horizon Strategic Play of Agentic Models with Slay the Spire",
+          "desc": "arXiv:2610.12596v1 Announce Type: new Abstract: Agentic large language models now tackle complex tasks, yet strategic reasoning over long horizons is under-studied: most agentic benchmarks are short and episodic, and performance on long tasks is hard to dissect into stored knowledge, reasoning and l",
+          "link": "https://arxiv.org/abs/2610.12596"
+        }
+      ]
+    },
+    {
+      "category": "교육 뉴스",
+      "icon": "🏫",
+      "en": "Education News",
+      "summary": "최근 대학생 생활비 대출 급증과 수시 원서접수 시스템 장애 등 고등교육 관련 문제들이 불거지며 우리 아이들이 성장하여 마주할 미래 교육 환경에 대한 고민이 필요합니다. 한편, 교원의 초과근무수당 제한이 폐지되어 교사들의 근무 여건 개선에 대한 기대감이 커지고 있습니다. 혁신적인 교육 모델인 세종공동캠퍼스가 정부 지원 부족으로 어려움을 겪는 소식도 전해졌습니다.",
+      "insight": "우리 아이들이 성장하여 마주할 미래 교육 환경과 교사로서의 근무 여건 변화에 대해 지속적인 관심을 가지고 대비해야 할 필요가 있습니다.",
+      "articles": [
+        {
+          "title": "대학생 생활비 대출 급증",
+          "desc": "대학생 생활비 대출이 급증하며 빚투 우려가 제기되었습니다.",
+          "link": "https://www.edupress.kr/news/articleView.html?idxno=30517"
+        },
+        {
+          "title": "교원 초과근무수당 폐지",
+          "desc": "교원 초과근무수당 4시간 제한이 폐지되었습니다.",
+          "link": "https://www.edupress.kr/news/articleView.html?idxno=30516"
+        },
+        {
+          "title": "수시 시스템 개선 논란",
+          "desc": "수시 원서접수 시스템 장애 재발 방지책에 이견입니다.",
+          "link": "https://www.edupress.kr/news/articleView.html?idxno=30515"
+        },
+        {
+          "title": "동북아재단 이사장 공방",
+          "desc": "동북아역사재단 이사장 해임 문제로 여야가 충돌했습니다.",
+          "link": "https://www.edupress.kr/news/articleView.html?idxno=30514"
+        },
+        {
+          "title": "세종공동캠퍼스 위기",
+          "desc": "세종공동캠퍼스가 정부 지원 부족으로 흔들립니다.",
+          "link": "https://www.edupress.kr/news/articleView.html?idxno=30513"
+        }
+      ]
+    }
+  ],
+  "createdAt": "2026-10-12T20:52:00.378Z"
+}
