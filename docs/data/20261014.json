@@ -1,0 +1,74 @@
+{
+  "date": "20261014",
+  "categories": [
+    {
+      "category": "AI 뉴스",
+      "icon": "🤖",
+      "en": "AI News",
+      "summary": "최근 인공지능 기술이 더욱 발전하여 구글과 앤트로픽 같은 회사들이 새로운 AI 모델을 출시하거나 비밀리에 테스트 중입니다. 이 기술들은 복잡한 업무를 처리하거나 긴 내용을 기억하는 능력을 향상시키고, 심지어 코드를 이용해 영상을 정교하게 만드는 수준에 이르렀습니다. 하지만 AI 모델 개발 과정에서 표절 논란이 발생하기도 하여 기술 윤리의 중요성도 함께 부각되고 있습니다.",
+      "insight": "이러한 AI 발전은 미래 교육 환경에 큰 변화를 가져올 것이므로, 아이들이 AI를 올바르게 이해하고 활용하며 윤리적 문제에 대해 생각하는 기회를 제공하는 것이 중요합니다.",
+      "articles": [
+        {
+          "title": "구글, 제미나이 4 아르곤 출시",
+          "desc": "구글이 새로운 AI 모델을 전 세계에 상용화했습니다.",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=216220"
+        },
+        {
+          "title": "앤트로픽, 차세대 AI 테스트",
+          "desc": "앤트로픽이 비밀리에 새 AI 모델을 시험 중입니다.",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=216200"
+        },
+        {
+          "title": "AI 모델 '제브' 표절 논란",
+          "desc": "새 AI 모델이 기존 연구를 베꼈다는 의혹입니다.",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=216211"
+        },
+        {
+          "title": "오픈AI, GPT-6.1 솔 개선",
+          "desc": "AI가 더 긴 내용을 기억할 수 있게 되었습니다.",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=216196"
+        },
+        {
+          "title": "MS, 코드로 영상 만드는 AI",
+          "desc": "마이크로소프트가 코드로 영상 제작 AI를 공개했습니다.",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=216205"
+        }
+      ]
+    },
+    {
+      "category": "교육 뉴스",
+      "icon": "🏫",
+      "en": "Education News",
+      "summary": "초등교장들이 교원의 퇴직 전 공로연수 법제화 및 장기재직휴가 확대를 요구하며 교사 처우 개선 목소리를 높였습니다. 한편, 국가교육위원회를 포함한 주요 교육 관련 기관들이 세종시로 이전하며 행정 효율성 증대가 기대됩니다. 또한, AI 활용 학습의 효과와 초등 저학년 3시 하교제 등 교육 정책에 대한 논의가 활발하며, 어린이와 청소년의 영상 창작을 독려하는 영화 축제도 개최됩니다.",
+      "insight": "교사들은 교원 처우 개선 요구와 교육기관 이전, AI 활용 학습 및 교육 정책 변화, 미디어 교육의 중요성 등 다양한 교육 현안에 대한 이해와 변화에 대한 준비가 필요합니다.",
+      "articles": [
+        {
+          "title": "초등교원 공로연수 요구",
+          "desc": "초등교장들이 퇴직 전 공로연수 법제화를 요구했습니다.",
+          "link": "https://www.edupress.kr/news/articleView.html?idxno=30523"
+        },
+        {
+          "title": "국교위 세종 이전 확정",
+          "desc": "국가교육위원회가 내년 상반기 세종시로 이전합니다.",
+          "link": "https://www.edupress.kr/news/articleView.html?idxno=30522"
+        },
+        {
+          "title": "AI 학습 효과 요인 분석",
+          "desc": "AI 활용 학습의 효과에 영향을 미치는 요인을 분석합니다.",
+          "link": "https://www.edupress.kr/news/articleView.html?idxno=30521"
+        },
+        {
+          "title": "3시 하교제 정책 비판",
+          "desc": "초등 저학년 3시 하교제 등 일률적 정책을 비판합니다.",
+          "link": "https://www.edupress.kr/news/articleView.html?idxno=30520"
+        },
+        {
+          "title": "서울국제필름어워즈 개막",
+          "desc": "어린이와 청소년을 위한 영화 축제가 열립니다.",
+          "link": "https://www.edupress.kr/news/articleView.html?idxno=30519"
+        }
+      ]
+    }
+  ],
+  "createdAt": "2026-10-13T20:51:50.956Z"
+}
