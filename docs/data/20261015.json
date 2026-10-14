@@ -1,0 +1,108 @@
+{
+  "date": "20261015",
+  "categories": [
+    {
+      "category": "AI 뉴스",
+      "icon": "🤖",
+      "en": "AI News",
+      "summary": "최근 인공지능 기술은 소형 AI가 사물인터넷(IoT) 기기를 감염시켜 자율 복제할 수 있는 'AI 웜' 수준에 도달할 위험이 있다는 경고와 함께, AI 모델의 안전성 확보와 불법 복제 방지에 대한 노력이 활발히 이루어지고 있습니다. 한편, 구글은 로봇이 물리적 환경을 이해하고 스스로 작업을 개선하도록 돕는 AI를 개발했으며, 중국의 Z.ai는 법률 분야에 특화된 AI 모델을 출시하는 등 AI의 전문화와 적용 범위가 넓어지고 있습니다.",
+      "insight": "이러한 AI 발전은 미래 사회의 변화를 가속화하며, 학생들에게 AI의 잠재력과 함께 윤리적 사용, 보안의 중요성, 그리고 다양한 직업 분야에서의 AI 활용 가능성을 교육할 필요성을 시사합니다.",
+      "articles": [
+        {
+          "title": "소형 AI, 'AI 웜' 가능성 경고",
+          "desc": "소형 AI가 IoT 기기 감염, 자율 복제 가능성이 경고되었습니다.",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=216242"
+        },
+        {
+          "title": "오픈AI, 새 AI 모델 안전 집중",
+          "desc": "오픈AI가 감시 어려운 새 AI 모델의 안전 확보에 힘씁니다.",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=216244"
+        },
+        {
+          "title": "앤트로픽, AI 불법 복제 방어",
+          "desc": "앤트로픽이 AI 모델 불법 복제 방어 체계를 강화했습니다.",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=216253"
+        },
+        {
+          "title": "구글, 로봇용 AI '제미나이'",
+          "desc": "구글이 로봇의 물리 추론을 돕는 AI 모델을 공개했습니다.",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=216246"
+        },
+        {
+          "title": "Z.ai, 법률 특화 AI 모델 출시",
+          "desc": "Z.ai가 법률 업무에 특화된 AI 모델을 선보였습니다.",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=216260"
+        }
+      ]
+    },
+    {
+      "category": "AI·테크 논문",
+      "icon": "📄",
+      "en": "Research · AI Times KR",
+      "summary": "최근 AI 기술이 매우 빠르게 발전하면서, 우리 아이들이 미래에 만날 AI는 지금보다 훨씬 똑똑해질 거예요. 그래서 이 뉴스들은 AI의 지능을 어떻게 평가하고, AI가 스스로 배우고 발전하며, 복잡한 문제를 해결할 때 생기는 오류를 어떻게 고쳐나갈지에 대한 최신 연구들을 다루고 있어요. AI가 더 똑똑하고 믿음직스럽게 우리 삶에 도움을 줄 수 있도록 과학자들이 어떤 노력을 하는지 엿볼 수 있습니다.",
+      "insight": "미래 교육을 준비하는 교사로서 AI가 단순히 도구가 아닌, 스스로 학습하고 발전하며 복잡한 문제를 해결하는 존재로 진화하고 있음을 이해하고, 이러한 변화가 아이들의 학습과 생활에 미칠 영향을 미리 고민해야 합니다.",
+      "articles": [
+        {
+          "title": "AI 지능 평가의 새 기준",
+          "desc": "AI 발전 속도에 맞춰 새로운 평가 방법 제안.",
+          "link": "https://arxiv.org/abs/2610.14005"
+        },
+        {
+          "title": "AI 데이터 과학의 숨은 문제",
+          "desc": "AI가 데이터 과학 자동화 시 발생할 수 있는 문제점 분석.",
+          "link": "https://arxiv.org/abs/2610.14115"
+        },
+        {
+          "title": "스스로 발전하는 AI 에이전트",
+          "desc": "AI가 스스로 학습하고 개선하는 방법을 연구.",
+          "link": "https://arxiv.org/abs/2610.14118"
+        },
+        {
+          "title": "확산 모델의 오류 수정 훈련",
+          "desc": "AI 이미지 생성 모델의 오류를 줄이는 훈련법.",
+          "link": "https://arxiv.org/abs/2610.14136"
+        },
+        {
+          "title": "AI 장기 과제 수행 능력 측정",
+          "desc": "AI가 복잡하고 긴 과제를 얼마나 잘 수행하는지 평가.",
+          "link": "https://arxiv.org/abs/2610.14146"
+        }
+      ]
+    },
+    {
+      "category": "교육 뉴스",
+      "icon": "🏫",
+      "en": "Education News",
+      "summary": "국회 교육위원회 국정감사에서는 경기도교육청의 하이러닝 사업 특혜 의혹과 학교 안전 문제가 도마 위에 올랐습니다. 무승부 운동회와 상장 남발의 교육적 효과에 대한 논란이 제기되었고, 교육부는 경미한 4대 비위 전력자도 교장 임용이 가능하도록 기준을 변경할 계획입니다. 이와 함께 교원들의 퇴직 전 공로연수 확대 요구와 학생들의 잠재력을 키우는 교육의 중요성에 대한 칼럼도 주목받았습니다.",
+      "insight": "교사들은 교육 정책의 변화와 학교 현장의 다양한 논쟁 속에서 학생들의 성장과 교원의 처우 개선이라는 두 가지 중요한 축을 균형 있게 고려해야 할 것입니다.",
+      "articles": [
+        {
+          "title": "교육위 국감, 하이러닝 의혹",
+          "desc": "국감서 하이러닝 특혜 의혹, 학교 안전 질타.",
+          "link": "https://www.edupress.kr/news/articleView.html?idxno=30530"
+        },
+        {
+          "title": "국감, 무승부 운동회 질타",
+          "desc": "무승부 운동회와 상장 남발의 교육적 효과 논란.",
+          "link": "https://www.edupress.kr/news/articleView.html?idxno=30529"
+        },
+        {
+          "title": "4대 비위 교장 임용 변경",
+          "desc": "경미한 4대 비위 전력자도 교장 임용 가능해진다.",
+          "link": "https://www.edupress.kr/news/articleView.html?idxno=30526"
+        },
+        {
+          "title": "인생의 크레센도 교육칼럼",
+          "desc": "학생들의 꿈과 가능성을 키우는 교육의 중요성.",
+          "link": "https://www.edupress.kr/news/articleView.html?idxno=30525"
+        },
+        {
+          "title": "교원 공로연수 확대 요구",
+          "desc": "초등교장협의회, 교원 공로연수 법제화 및 확대 요구.",
+          "link": "https://www.edupress.kr/news/articleView.html?idxno=30523"
+        }
+      ]
+    }
+  ],
+  "createdAt": "2026-10-14T20:52:58.332Z"
+}
