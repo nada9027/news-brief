@@ -1,0 +1,108 @@
+{
+  "date": "20261019",
+  "categories": [
+    {
+      "category": "경제·시사",
+      "icon": "💰",
+      "en": "Economy & Current Affairs",
+      "summary": "최근 반도체 주식 시장이 불안정해지면서 국민연금의 손실이 커지고, 개인 투자자들도 어려움을 겪고 있습니다. 인공지능(AI) 관련 기업들의 투자 방식에 대한 우려도 제기되고 있으며, 정부의 주택 공급 계획에도 차질이 생길 수 있다는 소식이 있습니다. 또한, 중소 병원과 의원들의 해킹 피해가 늘고 있지만, 보안 시스템은 여전히 취약한 상황입니다.",
+      "insight": "경제 뉴스를 통해 우리 사회의 중요한 자산 관리, 미래 기술 투자, 주거 안정, 그리고 개인 정보 보안 문제에 대한 이해를 높이는 것이 필요합니다.",
+      "articles": [
+        {
+          "title": "국민연금, 주식 손실",
+          "desc": "반도체주 하락으로 국민연금 평가액 180조 원 이상 감소했습니다.",
+          "link": "https://www.donga.com/news/Economy/article/all/20261019/134863543/2"
+        },
+        {
+          "title": "美 반도체 지수 하락",
+          "desc": "미국 반도체 지수가 8일 연속 떨어져 투자자 우려가 큽니다.",
+          "link": "https://www.donga.com/news/Economy/article/all/20261019/134863541/2"
+        },
+        {
+          "title": "AI 산업, 부채 우려",
+          "desc": "AI 인프라 기업들의 대규모 외부 투자 의존이 우려됩니다.",
+          "link": "https://www.donga.com/news/Economy/article/all/20261019/134863396/2"
+        },
+        {
+          "title": "공적주택 공급 차질",
+          "desc": "정부의 주택 공급 계획 중 서울 세부 계획이 미확정입니다.",
+          "link": "https://www.donga.com/news/Politics/article/all/20261019/134863394/2"
+        },
+        {
+          "title": "중소 병원 보안 취약",
+          "desc": "중소 병의원 해킹 피해 많지만 보안 가입률이 낮습니다.",
+          "link": "https://www.donga.com/news/Society/article/all/20261019/134863257/2"
+        }
+      ]
+    },
+    {
+      "category": "AI 뉴스",
+      "icon": "🤖",
+      "en": "AI News",
+      "summary": "최근 인공지능 기술이 빠르게 발전하며 다양한 분야에서 놀라운 성과를 보이고 있습니다. 앤트로픽의 클로드는 오래된 암호 미스터리를 해결했고, 구글 제미나이 에이전트들은 협력하여 마인크래프트를 클리어했습니다. 또한, 여러 AI가 동시에 작업하거나 텍스트와 이미지를 함께 분석하며 복잡한 문제를 해결하고, 영상을 생성하는 등 AI의 활용 범위가 넓어지고 있습니다.",
+      "insight": "이러한 AI 기술의 발전은 우리 아이들이 미래 사회에서 AI와 함께 살아갈 능력을 키울 수 있도록, 학교 교육에서 AI 리터러시와 창의적 활용법을 가르치는 것이 중요함을 시사합니다.",
+      "articles": [
+        {
+          "title": "클로드, 암호 미스터리 해결",
+          "desc": "앤트로픽 클로드가 25년 된 암호 표준의 비밀을 30분 만에 풀었습니다.",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=216380"
+        },
+        {
+          "title": "AI, 마인크래프트 클리어",
+          "desc": "구글 AI 에이전트들이 협력해 마인크래프트 최종 보스를 물리쳤습니다.",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=216379"
+        },
+        {
+          "title": "GPT-6, 동시 작업 지원",
+          "desc": "오픈AI GPT-6가 여러 AI 에이전트의 병렬 작업을 가능하게 합니다.",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=216375"
+        },
+        {
+          "title": "멀티모달 AI, 의사결정",
+          "desc": "리퀴드 AI d1-울트라가 텍스트와 이미지를 분석해 정확히 판단합니다.",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=216371"
+        },
+        {
+          "title": "AI, 영상 및 음성 생성",
+          "desc": "클링 4.0이 사실적인 영상을 만들고 AI가 감정 음성도 조절합니다.",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=216369"
+        }
+      ]
+    },
+    {
+      "category": "교육 뉴스",
+      "icon": "🏫",
+      "en": "Education News",
+      "summary": "최근 교육계에서는 농촌 학교의 경력 교사 이탈로 인한 저경력 교사 비중 증가와 학생들 사이에서 유행하는 신종 학교폭력 '야차룰'에 대한 교육감들의 긴급 대응 논의가 있었습니다. 또한 현장체험학습 사고 발생 시 인솔 교사의 과도한 책임에 대한 우려가 제기되며 아동복지법 개정 요구가 이어지고 있습니다. 이와 함께 서울교대 개교 80주년 기념 행사를 통해 교육 공동체의 화합을 다지는 소식도 전해졌습니다.",
+      "insight": "교사들은 농촌 교육 환경 변화와 신종 학교폭력에 대한 이해를 높이고, 체험학습 시 교사의 교육활동을 보호할 수 있는 제도 개선에 지속적인 관심을 가져야 합니다.",
+      "articles": [
+        {
+          "title": "농촌 학교 경력교사 이탈",
+          "desc": "농촌 학교에서 경력교사 이탈 심화, 저경력 교사 비중 증가.",
+          "link": "https://www.edupress.kr/news/articleView.html?idxno=30538"
+        },
+        {
+          "title": "서울교대 80주년 어울마당",
+          "desc": "서울교대 총동창회, 개교 80주년 기념 '어울마당' 개최.",
+          "link": "https://www.edupress.kr/news/articleView.html?idxno=30536"
+        },
+        {
+          "title": "방통대 학사관리 부실 질타",
+          "desc": "방통대 온라인 시험 부정행위 우려, 학점 만점자 급증.",
+          "link": "https://www.edupress.kr/news/articleView.html?idxno=30535"
+        },
+        {
+          "title": "교육감들, 신종 학폭 '야차룰' 논의",
+          "desc": "교육감협의회, 학생들 '야차룰' 유행에 긴급 대응 논의.",
+          "link": "https://www.edupress.kr/news/articleView.html?idxno=30534"
+        },
+        {
+          "title": "체험학습 사고 교사 책임 완화 요구",
+          "desc": "교육감들, 체험학습 사고 교사 책임 완화 및 아동복지법 개정 요구.",
+          "link": "https://www.edupress.kr/news/articleView.html?idxno=30533"
+        }
+      ]
+    }
+  ],
+  "createdAt": "2026-10-18T20:52:34.593Z"
+}
