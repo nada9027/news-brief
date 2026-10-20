@@ -1,0 +1,108 @@
+{
+  "date": "20261021",
+  "categories": [
+    {
+      "category": "AI 뉴스",
+      "icon": "🤖",
+      "en": "AI News",
+      "summary": "최근 AI 기술은 우리 아이들이 미래에 사용하게 될 도구들을 점점 더 똑똑하게 만들고 있습니다. 구글은 AI가 처음부터 결과물을 만드는 것이 아니라, 아이들이 직접 기획하고 수정하며 함께 만들어가는 학습 도구를 선보였습니다. 이처럼 AI 칩 개발, 3D 설계 자동화 등 다양한 분야에서 기술 발전과 함께 AI 관련 기업들의 성장과 투자 소식이 이어지고 있습니다.",
+      "insight": "미래 교육은 AI를 단순히 활용하는 것을 넘어, AI와 함께 창의적으로 문제를 해결하고 협력하는 능력을 키우는 방향으로 나아가야 합니다.",
+      "articles": [
+        {
+          "title": "구글 제미나이 노트북 개편",
+          "desc": "구글 AI 도구 제미나이 노트북이 공동 제작 기능을 추가했습니다.",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=216438"
+        },
+        {
+          "title": "텐스토렌트 대규모 투자",
+          "desc": "AI 칩 스타트업 텐스토렌트가 8조원 가치로 대규모 투자를 유치했습니다.",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=216444"
+        },
+        {
+          "title": "스카이폴AI 3D 설계 모델",
+          "desc": "스카이폴AI가 3D 설계 자동화 모델 '스카이-001'을 공개했습니다.",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=216450"
+        },
+        {
+          "title": "엘리스그룹 IPO 상장",
+          "desc": "AI 인프라 기업 엘리스그룹이 코스닥에 상장했습니다.",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=216452"
+        },
+        {
+          "title": "플리토, 역대 최대 실적",
+          "desc": "AI 데이터 기업 플리토가 창사 이래 최대 실적을 달성했습니다.",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=216447"
+        }
+      ]
+    },
+    {
+      "category": "AI·테크 논문",
+      "icon": "📄",
+      "en": "Research · AI Times KR",
+      "summary": "최근 AI 기술 관련 논문들은 대규모 언어 모델(LLM)의 성능을 매일 평가하는 도구부터, AI 에이전트의 활용 적합성, 그리고 AI를 활용한 위험 점수 진단 방법까지 다양한 연구를 다루고 있습니다. 특히 AI가 일상에서 축적될 수 있는 위험에 대한 경고와, 인간과 AI가 함께 예술적 의도를 만들어가는 새로운 창작 방식에 대한 탐구도 눈에 띕니다. 이러한 연구들은 AI가 우리 삶에 미치는 영향이 점점 더 커지고 있음을 보여줍니다.",
+      "insight": "교사들은 AI 기술의 발전 속도와 그로 인한 사회적, 윤리적 변화를 이해하고, 아이들이 미래 사회에서 AI와 건강하게 상호작용할 수 있도록 지도하는 교육적 역할에 대해 깊이 고민해야 합니다.",
+      "articles": [
+        {
+          "title": "LLM 능력 매일 평가",
+          "desc": "LLM의 다양한 능력을 매일 평가하는 도구입니다.",
+          "link": "https://arxiv.org/abs/2610.23866"
+        },
+        {
+          "title": "에이전트 AI 활용 탐구",
+          "desc": "에이전트 AI의 적합성을 탐구하는 연구입니다.",
+          "link": "https://arxiv.org/abs/2610.23921"
+        },
+        {
+          "title": "위험 점수 진단 LLM",
+          "desc": "위험 점수 차이를 설명하는 LLM 워크플로우입니다.",
+          "link": "https://arxiv.org/abs/2610.23962"
+        },
+        {
+          "title": "AI 누적 위험과 소셜 미디어",
+          "desc": "소셜 미디어를 통해 AI의 누적 위험을 논합니다.",
+          "link": "https://arxiv.org/abs/2610.24006"
+        },
+        {
+          "title": "AI와 예술적 의도 형성",
+          "desc": "인간과 AI의 협업으로 예술적 의도를 형성합니다.",
+          "link": "https://arxiv.org/abs/2610.24010"
+        }
+      ]
+    },
+    {
+      "category": "교육 뉴스",
+      "icon": "🏫",
+      "en": "Education News",
+      "summary": "최근 교육 현장에서는 수능 스마트안경 부정행위 판별 책임, 교감의 역할과 업무 부담, 유아기 독서교육의 중요성, 교실 내 소통 문제, 그리고 학교 구글 계정 유출 등 다양한 이슈들이 발생하고 있습니다. 특히 디지털 기기 사용 증가와 함께 보안 및 책임 소재에 대한 논의가 활발하며, 교사들이 직면하는 새로운 도전들이 부각되고 있습니다.",
+      "insight": "이 뉴스들은 디지털 시대의 교육 환경 변화 속에서 교사들이 겪는 현실적인 어려움과 함께, 학생들의 안전과 교육의 질 향상을 위한 학교 시스템 전반의 개선 필요성을 시사합니다.",
+      "articles": [
+        {
+          "title": "수능 스마트안경 판별",
+          "desc": "스마트안경 부정행위 육안 판별 지침에 교사들이 반발합니다.",
+          "link": "https://www.edupress.kr/news/articleView.html?idxno=30546"
+        },
+        {
+          "title": "교감의 존재 이유와 역할",
+          "desc": "교감의 늘어난 책임과 현장 어려움에 대한 칼럼입니다.",
+          "link": "https://www.edupress.kr/news/articleView.html?idxno=30545"
+        },
+        {
+          "title": "유아기 독서교육 콘서트",
+          "desc": "서울시교육청이 영유아 보호자 대상 독서교육 행사를 엽니다.",
+          "link": "https://www.edupress.kr/news/articleView.html?idxno=30541"
+        },
+        {
+          "title": "교실 전화기 소통 문제",
+          "desc": "시험 중 교실 전화기로 학생과 교사 소통에 불편이 드러났습니다.",
+          "link": "https://www.edupress.kr/news/articleView.html?idxno=30544"
+        },
+        {
+          "title": "학교 구글 계정 11만건 유출",
+          "desc": "전국 학교 구글 계정 11만여 건이 탈취되어 보안 강화가 시급합니다.",
+          "link": "https://www.edupress.kr/news/articleView.html?idxno=30543"
+        }
+      ]
+    }
+  ],
+  "createdAt": "2026-10-20T20:52:00.223Z"
+}
