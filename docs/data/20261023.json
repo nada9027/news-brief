@@ -1,0 +1,108 @@
+{
+  "date": "20261023",
+  "categories": [
+    {
+      "category": "AI 뉴스",
+      "icon": "🤖",
+      "en": "AI News",
+      "summary": "최근 AI 기술이 정말 빠르게 발전하고 있어요. AI가 스스로 학술 논문을 읽고 코드를 고치거나(스칼라이볼브), 우리 컴퓨터에서 안전하게 코딩을 돕는(플린트) 새로운 프로그램들이 등장했답니다. 또한 로봇 학습 데이터를 저렴하게 만들고(플로라), 사람처럼 자연스럽게 말하는 AI(복스트랄 3)도 개발되어 우리 생활 곳곳에 AI가 더 깊이 들어올 준비를 하고 있어요.",
+      "insight": "이러한 AI 발전은 미래 교육에서 아이들이 AI를 이해하고 활용하는 능력을 키우는 것이 중요하며, AI가 우리 삶과 학습 방식에 미칠 긍정적 변화에 주목해야 함을 시사합니다.",
+      "articles": [
+        {
+          "title": "AI, 논문 읽고 스스로 진화",
+          "desc": "AI가 학술 논문 읽고 코드 수정해 스스로 발전해요.",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=216552"
+        },
+        {
+          "title": "온디바이스 코딩 AI '플린트'",
+          "desc": "개인 컴퓨터에서 안전하게 코딩 돕는 AI 모델 공개.",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=216516"
+        },
+        {
+          "title": "로봇 학습 데이터 '플로라'",
+          "desc": "로봇 데이터 수집 비용 125배 낮추는 모델.",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=216528"
+        },
+        {
+          "title": "미스트랄, 음성 AI '복스트랄 3'",
+          "desc": "실시간 음성 인식 및 생성 AI 모델 공개.",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=216544"
+        },
+        {
+          "title": "中 빅테크, 엔비디아 칩 대량 주문",
+          "desc": "중국 기업, 엔비디아 그래픽카드 46조원 주문.",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=216548"
+        }
+      ]
+    },
+    {
+      "category": "AI·테크 논문",
+      "icon": "📄",
+      "en": "Research · AI Times KR",
+      "summary": "최근 인공지능(AI) 연구는 AI가 질문을 더 잘 이해하고, 가상 세계에서 스스로 학습하며, 과학 연구를 돕는 등 다양한 방향으로 발전하고 있습니다. 특히 AI가 모호한 질문을 명확히 하고, 비용 효율적으로 과학적 발견을 가속화하며, 복잡한 작업을 더 잘 수행하도록 진화하는 기술들이 주목받고 있습니다. 이러한 발전은 AI가 미래 사회에서 더욱 똑똑하고 유용한 도구가 될 것임을 보여줍니다.",
+      "insight": "이러한 AI 기술 발전은 우리 아이들이 살아갈 미래 사회의 학습 방식과 문제 해결 능력에 큰 영향을 미칠 것이므로, 교사들은 AI의 기본 원리와 활용 가능성에 대한 이해를 높여야 합니다.",
+      "articles": [
+        {
+          "title": "작은 모델이 더 잘 묻는다",
+          "desc": "모호한 질문에 답변하는 AI 시스템 개선.",
+          "link": "https://arxiv.org/abs/2610.28686"
+        },
+        {
+          "title": "게임 속 AI 에이전트 확장",
+          "desc": "가상 세계 AI 학습 능력 향상 연구.",
+          "link": "https://arxiv.org/abs/2610.28698"
+        },
+        {
+          "title": "LLM 활용 과학 발견 가속화",
+          "desc": "LLM으로 과학 연구 비용 절감 및 효율 증대.",
+          "link": "https://arxiv.org/abs/2610.28706"
+        },
+        {
+          "title": "과학 연구 자동화하는 AI",
+          "desc": "AI가 과학 모델 개선을 돕는 연구자 역할.",
+          "link": "https://arxiv.org/abs/2610.28763"
+        },
+        {
+          "title": "AI 에이전트 성능 향상",
+          "desc": "AI가 다양한 작업 수행으로 능력 발전.",
+          "link": "https://arxiv.org/abs/2610.28815"
+        }
+      ]
+    },
+    {
+      "category": "교육 뉴스",
+      "icon": "🏫",
+      "en": "Education News",
+      "summary": "최근 교육계에서는 국가 중장기 교육 계획을 조율할 '국가교육협의회' 신설 논의가 활발하며, 사립학교장들은 AI 시대 교육 방향과 사학의 자율성을 모색하는 시간을 가졌습니다. 한편, 수능 부정행위 방지를 위한 스마트안경 육안 판별 지침에 대해 교사들의 반발이 커지고 있으며, 학교 현장에서 교감의 역할과 책임에 대한 깊은 고민도 제기되었습니다.",
+      "insight": "새로운 교육 정책과 기술 변화 속에서 교사들의 역할과 책임 범위가 확대되고 있으며, 학교 현장의 목소리가 정책 결정 과정에 더욱 중요하게 반영되어야 할 시점입니다.",
+      "articles": [
+        {
+          "title": "국가교육협의회 신설",
+          "desc": "국가 중장기 교육계획 조율을 위한 협의회가 연내 구성됩니다.",
+          "link": "https://www.edupress.kr/news/articleView.html?idxno=30551"
+        },
+        {
+          "title": "사립학교장회 총회",
+          "desc": "사립학교장들이 AI 시대 교육 방향을 논의했습니다.",
+          "link": "https://www.edupress.kr/news/articleView.html?idxno=30550"
+        },
+        {
+          "title": "사립교장회 정기총회",
+          "desc": "사립학교 교장들이 정기총회에서 국민의례를 했습니다.",
+          "link": "https://www.edupress.kr/news/articleView.html?idxno=30547"
+        },
+        {
+          "title": "수능 스마트안경 논란",
+          "desc": "교육부의 수능 스마트안경 육안 판별 지침에 교사들이 반발합니다.",
+          "link": "https://www.edupress.kr/news/articleView.html?idxno=30546"
+        },
+        {
+          "title": "교감의 존재 이유",
+          "desc": "교감의 역할과 현실적 어려움에 대한 칼럼이 실렸습니다.",
+          "link": "https://www.edupress.kr/news/articleView.html?idxno=30545"
+        }
+      ]
+    }
+  ],
+  "createdAt": "2026-10-22T20:52:02.173Z"
+}
