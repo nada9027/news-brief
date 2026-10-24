@@ -1,0 +1,74 @@
+{
+  "date": "20261025",
+  "categories": [
+    {
+      "category": "AI 뉴스",
+      "icon": "🤖",
+      "en": "AI News",
+      "summary": "최근 인공지능(AI) 분야에서는 기술 개발 경쟁이 매우 치열합니다. 구글은 AI 개발을 위해 단기 수익을 포기할 정도이며, 오픈AI는 보안 문제와 기밀 유출 논란 속에서도 AI 학습을 이어가고 있습니다. 국내 SK그룹도 대규모 AI 데이터센터 구축에 막대한 투자를 계획하는 등 AI의 중요성이 더욱 커지고 있습니다.",
+      "insight": "미래 사회의 핵심 기술인 AI의 발전은 윤리적 문제와 보안의 중요성을 함께 부각하며, 우리 아이들이 살아갈 세상에 큰 영향을 미칠 것입니다.",
+      "articles": [
+        {
+          "title": "구글, AI 개발 최우선",
+          "desc": "구글은 AI 개발에 자원을 집중하며 단기 수익을 포기합니다.",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=216618"
+        },
+        {
+          "title": "오픈AI, 연구원 해고 논란",
+          "desc": "오픈AI가 기밀 유출 의혹으로 연구원 3명을 해고했습니다.",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=216616"
+        },
+        {
+          "title": "오픈AI, AI 학습 재개",
+          "desc": "오픈AI는 보안 강화 후 AI 모델 학습을 다시 시작했습니다.",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=216615"
+        },
+        {
+          "title": "SK, AI 데이터센터 투자",
+          "desc": "SK그룹은 대규모 AI 데이터센터 구축에 464조를 투자합니다.",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=216614"
+        },
+        {
+          "title": "앤트로픽, 클로드 출시",
+          "desc": "앤트로픽이 구글 클라우드에서 '관리형 클로드'를 선보였습니다.",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=216613"
+        }
+      ]
+    },
+    {
+      "category": "교육 뉴스",
+      "icon": "🏫",
+      "en": "Education News",
+      "summary": "최근 교육계에서는 보육교직원의 권익 보호와 교권 강화를 위한 교육당국의 적극적인 대응이 강조되고 있습니다. 또한, 입시 중심 교육의 한계를 지적하며 학생 개성과 창의성을 키우는 교육으로의 전환 필요성이 제기되었고, 미래 산업 수요에 맞춰 마이스터고 지원자가 크게 늘어나는 현상도 나타났습니다. 국가 중장기 교육발전계획을 논의할 국가교육협의회가 연내 구성될 예정입니다.",
+      "insight": "우리 아이들의 미래를 위해 교사의 권익 보호와 창의적 교육 환경 조성은 물론, 변화하는 사회에 발맞춘 진로 교육의 중요성을 다시 한번 생각하게 합니다.",
+      "articles": [
+        {
+          "title": "보육교직원 권익보호 강화",
+          "desc": "어린이집안전공제회, 육아종과 협력 확대.",
+          "link": "https://www.edupress.kr/news/articleView.html?idxno=30555"
+        },
+        {
+          "title": "마이스터고 지원자 급증",
+          "desc": "반도체 산업 호황에 지원자 두 배 증가.",
+          "link": "https://www.edupress.kr/news/articleView.html?idxno=30554"
+        },
+        {
+          "title": "교권 보호, 교육당국 대응 촉구",
+          "desc": "반복 민원 교사 교체, 교육당국 적극 대응.",
+          "link": "https://www.edupress.kr/news/articleView.html?idxno=30553"
+        },
+        {
+          "title": "입시 중심 교육 한계 지적",
+          "desc": "포스텍 총장, 학생 개성 살리는 교육 강조.",
+          "link": "https://www.edupress.kr/news/articleView.html?idxno=30552"
+        },
+        {
+          "title": "국가교육협의회 연내 구성",
+          "desc": "교육 관련 주요 기관장 참여, 정책 조율.",
+          "link": "https://www.edupress.kr/news/articleView.html?idxno=30551"
+        }
+      ]
+    }
+  ],
+  "createdAt": "2026-10-24T20:51:50.657Z"
+}
