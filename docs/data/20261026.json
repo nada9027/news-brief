@@ -1,0 +1,74 @@
+{
+  "date": "20261026",
+  "categories": [
+    {
+      "category": "AI 뉴스",
+      "icon": "🤖",
+      "en": "AI News",
+      "summary": "최근 AI는 가상 세계에서 스스로 놀이를 만들며 새로운 기술을 발견하고, 이미지에 숨겨진 복잡한 정보를 해독하는 등 놀라운 학습 및 분석 능력을 보여주고 있습니다. 또한, 텍스트 명령으로 영상을 제작하거나 음원 차트 상위권에 오르는 노래를 만드는 등 창작 분야에서도 활약하고 있습니다. 이러한 AI 기술의 빠른 발전은 컴퓨팅 자원 수요 폭증으로 이어지고 있습니다.",
+      "insight": "아이들의 자율적인 탐색과 놀이가 창의적 학습으로 이어지듯, AI도 스스로 학습하고 창작하며 우리 삶의 다양한 영역에서 새로운 가능성을 열어가고 있음을 이해하고 미래 교육에 반영해야 합니다.",
+      "articles": [
+        {
+          "title": "AI, 스스로 놀이하며 학습",
+          "desc": "AI가 가상 섬에서 놀이를 만들고 기술을 발견했습니다.",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=216631"
+        },
+        {
+          "title": "AI, 그림 속 숨은 문장 해독",
+          "desc": "AI가 그림에 숨겨진 문장을 암호 없이 88% 해독했습니다.",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=216630"
+        },
+        {
+          "title": "텐센트, AI 영상 모델 공개",
+          "desc": "텐센트가 명령으로 영상 장면을 바꾸는 AI 모델을 공개했습니다.",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=216628"
+        },
+        {
+          "title": "AI 노래, 음원 차트 3위",
+          "desc": "AI로 만든 노래 '꿈꾸던 어른이 되었나요?'가 멜론 3위에 올랐습니다.",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=216553"
+        },
+        {
+          "title": "아마존, AI 용량 완판",
+          "desc": "아마존의 AI 컴퓨팅 용량이 2027년까지 완판되었습니다.",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=216620"
+        }
+      ]
+    },
+    {
+      "category": "교육 뉴스",
+      "icon": "🏫",
+      "en": "Education News",
+      "summary": "최근 교육계에서는 대안교육의 자율성과 학부모의 교육 선택권 보장이 강조되고 있으며, 광역교육청 통합 시 학교 자율성 강화의 중요성도 논의되고 있습니다. 서울시교육청은 교권 보호와 학생 마음 성장을 위한 조직 개편을 추진하는 한편, 에듀테크 기업의 교사 개인정보 유출 사건은 디지털 보안의 중요성을 일깨웁니다. 보육교직원의 권익 보호를 위한 노력 또한 지속되고 있습니다.",
+      "insight": "교사들은 변화하는 교육 환경 속에서 학생의 학습권과 교사의 권익을 보호하고, 디지털 보안에 유의하며, 학교 자율성을 높이는 방향으로 교육 정책이 나아가도록 관심을 가져야 합니다.",
+      "articles": [
+        {
+          "title": "대안교육 선택권 보장 촉구",
+          "desc": "대안교육 자율성과 학부모 선택권 보장을 주장합니다.",
+          "link": "https://www.edupress.kr/news/articleView.html?idxno=30559"
+        },
+        {
+          "title": "교육청 통합, 학교 자율성 중요",
+          "desc": "교육청 통합 시 학교 자율성 강화가 성공의 열쇠입니다.",
+          "link": "https://www.edupress.kr/news/articleView.html?idxno=30558"
+        },
+        {
+          "title": "아이스크림 교사 개인정보 유출",
+          "desc": "에듀테크 기업 아이스크림에서 교사 개인정보 유출이 또 확인됐습니다.",
+          "link": "https://www.edupress.kr/news/articleView.html?idxno=30557"
+        },
+        {
+          "title": "서울교육청 조직개편, 교권 강화",
+          "desc": "서울교육청이 교권정책과 신설 등 조직 개편을 단행합니다.",
+          "link": "https://www.edupress.kr/news/articleView.html?idxno=30556"
+        },
+        {
+          "title": "보육교직원 권익보호 강화",
+          "desc": "어린이집안전공제회가 보육교직원 권익보호를 위해 협력합니다.",
+          "link": "https://www.edupress.kr/news/articleView.html?idxno=30555"
+        }
+      ]
+    }
+  ],
+  "createdAt": "2026-10-25T20:51:51.532Z"
+}
