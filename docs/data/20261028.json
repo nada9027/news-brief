@@ -1,0 +1,142 @@
+{
+  "date": "20261028",
+  "categories": [
+    {
+      "category": "경제·시사",
+      "icon": "💰",
+      "en": "Economy & Current Affairs",
+      "summary": "최근 한국 경제는 반도체 수출 덕분에 크게 성장했지만, 사람들이 돈을 벌어도 소비는 줄어들고 있어요. 정부는 물가 안정을 위해 노력하지만, 새로운 법이 생기면서 기업과 노동자 사이의 갈등도 커지고 있습니다. 우리 사회가 어떻게 변화하고 있는지 함께 살펴보아요.",
+      "insight": "아이들에게 우리 주변의 경제와 사회 현상이 어떻게 연결되어 있는지 쉽고 흥미롭게 설명해 줄 좋은 기회가 될 것입니다.",
+      "articles": [
+        {
+          "title": "韓경제, 반도체로 성장",
+          "desc": "3분기 경제 성장, 반도체 수출 덕분이에요.",
+          "link": "https://www.donga.com/news/Economy/article/all/20261028/134921350/2"
+        },
+        {
+          "title": "소득 늘어도 소비는 감소",
+          "desc": "사람들이 돈을 더 벌어도 지갑은 닫았어요.",
+          "link": "https://www.donga.com/news/Economy/article/all/20261028/134921066/2"
+        },
+        {
+          "title": "석유 가격 정책 고민",
+          "desc": "정부의 석유 가격 정책, 재정 부담 커요.",
+          "link": "https://www.donga.com/news/Economy/article/all/20261028/134921070/2"
+        },
+        {
+          "title": "택시 노조, 카카오와 교섭",
+          "desc": "택시 기사들이 카카오에 교섭 요구해요.",
+          "link": "https://www.donga.com/news/Economy/article/all/20261028/134921190/2"
+        },
+        {
+          "title": "산재 사망 시 과징금",
+          "desc": "기업, 산재 사망 반복 시 벌금 내요.",
+          "link": "https://www.donga.com/news/Society/article/all/20261028/134921185/2"
+        }
+      ]
+    },
+    {
+      "category": "AI 뉴스",
+      "icon": "🤖",
+      "en": "AI News",
+      "summary": "최근 AI 기술은 계속 발전하고 있지만, 복잡하게 사용할수록 비용만 늘어날 수 있다는 연구 결과가 나왔어요. 한편, 새로운 AI 모델들이 활발히 개발되고 있고, 우리나라 기업들도 AI 인프라 구축에 큰 투자를 하고 있답니다. 또한, 우리 사회는 점점 더 다양한 배경을 가진 친구들이 많아지고 있으며, AI를 위한 중요한 컴퓨터 부품인 GPU의 가치도 계속 높아지고 있어요.",
+      "insight": "이러한 소식들은 AI 기술의 효율적인 활용법과 미래 사회의 변화, 그리고 다양성 존중의 중요성을 우리 아이들에게 가르칠 좋은 기회를 제공합니다.",
+      "articles": [
+        {
+          "title": "AI 에이전트: 복잡함은 독",
+          "desc": "AI 도구, 복잡하게 쓸수록 비용만 늘어요.",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=216712"
+        },
+        {
+          "title": "난베이지, 새 AI 모델 공개",
+          "desc": "중국 난베이지, 코딩 AI 모델 선보여.",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=216711"
+        },
+        {
+          "title": "네이버, AI 인프라 투자",
+          "desc": "네이버, 엔비디아와 AI 인프라 구축해요.",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=216729"
+        },
+        {
+          "title": "전남, 다문화 학생 비중↑",
+          "desc": "전남에 이민자 2세 학생이 많아졌어요.",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=216723"
+        },
+        {
+          "title": "GPU 가격, 계속 오르고 있어요",
+          "desc": "AI 핵심 부품 GPU, 가격이 계속 상승해요.",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=216717"
+        }
+      ]
+    },
+    {
+      "category": "AI·테크 논문",
+      "icon": "📄",
+      "en": "Research · AI Times KR",
+      "summary": "최근 AI 기술은 우리 주변의 다양한 문제 해결에 활용되고 있습니다. 기업의 효율적인 운영부터 AI의 학습 능력을 높이는 연구, 그리고 온라인에서 해로운 언어를 감지하는 기술까지 발전하고 있어요. AI가 스스로 실수를 통해 배우고 더 정확해지도록 돕는 연구도 활발히 진행 중입니다.",
+      "insight": "이러한 AI 기술의 발전은 미래 사회에서 우리 아이들이 AI와 함께 더 안전하고 효율적으로 생활하며 학습할 수 있는 기반을 마련해 줄 것입니다.",
+      "articles": [
+        {
+          "title": "기업 고객-영업 담당자 배정",
+          "desc": "AI가 기업의 고객과 영업 담당자를 효율적으로 연결하는 방법을 연구합니다.",
+          "link": "https://arxiv.org/abs/2610.31701"
+        },
+        {
+          "title": "AI 에이전트 학습 방식 개선",
+          "desc": "AI 에이전트가 더 유능하게 학습하고 작업을 수행하도록 돕습니다.",
+          "link": "https://arxiv.org/abs/2610.31789"
+        },
+        {
+          "title": "무시·깔보는 언어 감지 AI",
+          "desc": "AI가 사람을 무시하거나 깔보는 언어를 찾아내는 방법을 연구합니다.",
+          "link": "https://arxiv.org/abs/2610.31808"
+        },
+        {
+          "title": "논문 오류 검증 AI",
+          "desc": "AI가 연구 논문의 오류나 빈틈을 찾아 수정하도록 돕습니다.",
+          "link": "https://arxiv.org/abs/2610.31810"
+        },
+        {
+          "title": "AI의 실수 학습 및 개선",
+          "desc": "AI가 실수에서 배우고, 그 경험을 잊지 않고 계속 발전하도록 돕습니다.",
+          "link": "https://arxiv.org/abs/2610.31846"
+        }
+      ]
+    },
+    {
+      "category": "교육 뉴스",
+      "icon": "🏫",
+      "en": "Education News",
+      "summary": "학교 비정규직 노조가 저임금 해소와 지방교육재정교부금 개편 반대를 요구하며 총파업을 예고했습니다. 한편, 교육부의 1정 자격연수 성적 승진 반영 제외 방침에 항의하는 교사들의 삭발 시위도 있었으며, 내년에는 한-아세안 교육자대회가 인천에서 열릴 예정입니다. 서울시교육청은 AI 시대에 학생들의 창의성을 돋보이게 할 AI 미술 전시회를 개최했습니다.",
+      "insight": "학교 현장에서 비정규직 총파업과 교사들의 연수 성적 반영 문제 등 다양한 갈등이 표출되는 가운데, 국제 교육 교류와 AI 활용 교육이라는 미래 지향적인 움직임도 함께 주목해야 합니다.",
+      "articles": [
+        {
+          "title": "학교비정규직 총파업 예고",
+          "desc": "학교비정규직 노조가 다음 달 총파업을 예고하며 저임금과 교부금 개편 반대를 요구합니다.",
+          "link": "https://www.edupress.kr/news/articleView.html?idxno=30566"
+        },
+        {
+          "title": "1정 연수 성적 제외 반대",
+          "desc": "교사들이 1정 자격연수 성적 승진 반영 제외 방침 철회를 요구하며 삭발 시위를 벌였습니다.",
+          "link": "https://www.edupress.kr/news/articleView.html?idxno=30564"
+        },
+        {
+          "title": "한-아세안 교육자대회 인천",
+          "desc": "한-아세안 교육자대회가 내년 9월 인천에서 개최되어 교육 교류를 모색합니다.",
+          "link": "https://www.edupress.kr/news/articleView.html?idxno=30563"
+        },
+        {
+          "title": "논어 칼럼: 재아의 성장",
+          "desc": "논어 칼럼은 독자들이 논어를 직접 읽고 공자의 진면목을 발견하길 바랍니다.",
+          "link": "https://www.edupress.kr/news/articleView.html?idxno=30561"
+        },
+        {
+          "title": "서울교육청 AI 미술 전시회",
+          "desc": "서울시교육청이 초중고 학생들의 AI 활용 미술 작품 전시회를 온·오프라인으로 엽니다.",
+          "link": "https://www.edupress.kr/news/articleView.html?idxno=30560"
+        }
+      ]
+    }
+  ],
+  "createdAt": "2026-10-27T20:53:10.953Z"
+}
