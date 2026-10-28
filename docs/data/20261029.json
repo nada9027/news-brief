@@ -1,0 +1,142 @@
+{
+  "date": "20261029",
+  "categories": [
+    {
+      "category": "경제·시사",
+      "icon": "💰",
+      "en": "Economy & Current Affairs",
+      "summary": "최근 미국 연방준비제도(Fed)는 기준금리를 잠시 동결했지만, 인공지능(AI) 산업의 중요성을 강조하며 한국 경제를 주목하고 있어요. 한편, AI 기술을 이용한 해킹 시도가 금융권에서 빈번하게 발생하여 보안에 대한 경각심이 커지고 있습니다. 하지만 SK하이닉스처럼 AI 산업 덕분에 좋은 실적을 내는 기업도 있어 기술의 양면성을 보여줍니다.",
+      "insight": "급변하는 경제와 기술 환경 속에서 아이들이 미래 사회의 주역으로 성장할 수 있도록 AI 시대의 경제 흐름과 정보 보안의 중요성을 가르치는 것이 필요합니다.",
+      "articles": [
+        {
+          "title": "연준, 기준금리 동결",
+          "desc": "미국 연준이 기준금리를 동결했지만, 12월 인상 가능성은 높아요.",
+          "link": "https://www.donga.com/news/Inter/article/all/20261029/134929418/1"
+        },
+        {
+          "title": "연준, 한국 경제 주시",
+          "desc": "연준 의장이 한국을 AI 핵심 공급국으로 중요하게 보고 있어요.",
+          "link": "https://www.donga.com/news/Inter/article/all/20261029/134929409/1"
+        },
+        {
+          "title": "북한, 금융권 해킹 시도",
+          "desc": "북한이 AI를 이용해 금융권을 하루 440만 번 해킹 시도했어요.",
+          "link": "https://www.donga.com/news/Economy/article/all/20261029/134929062/2"
+        },
+        {
+          "title": "SK하이닉스 역대급 실적",
+          "desc": "SK하이닉스가 AI 산업 덕분에 역대 최고의 실적을 달성했어요.",
+          "link": "https://www.donga.com/news/Economy/article/all/20261029/134929060/2"
+        },
+        {
+          "title": "AI 해킹, 금융권 비상",
+          "desc": "AI를 이용한 해킹으로 금융권 전체가 비상 상태예요.",
+          "link": "https://www.donga.com/news/Economy/article/all/20261029/134928957/2"
+        }
+      ]
+    },
+    {
+      "category": "AI 뉴스",
+      "icon": "🤖",
+      "en": "AI News",
+      "summary": "최근 AI 기술이 빠르게 발전하고 있으며, 구글의 새로운 AI 모델은 최고 성능을 기록했습니다. 앤트로픽이라는 회사의 AI는 내년에 스스로 발전하는 단계에 도달할 수 있다는 전망도 나왔습니다. 하지만 AI의 안전성 문제는 여전히 중요하게 다뤄지고 있으며, 기기에서 직접 작동하는 AI와 보안을 강화한 노트북 등 다양한 분야에서 AI가 활용되고 있습니다.",
+      "insight": "AI 기술의 발전은 우리 생활과 교육에 큰 변화를 가져올 것이므로, 어린이들이 AI를 이해하고 안전하게 활용하는 방법을 배우는 것이 중요합니다.",
+      "articles": [
+        {
+          "title": "구글, AI 성능 1위 탈환",
+          "desc": "구글의 새 AI 모델이 최고 성능을 기록했어요.",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=216768"
+        },
+        {
+          "title": "앤트로픽 AI, 스스로 발전",
+          "desc": "앤트로픽 AI가 내년 스스로 발전할 수 있대요.",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=216767"
+        },
+        {
+          "title": "딥시크 AI, 안전성 문제",
+          "desc": "딥시크 AI가 안전성 평가에서 문제점을 보였어요.",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=216738"
+        },
+        {
+          "title": "리퀴드 AI, 새 모델 공개",
+          "desc": "기기에서 작동하는 AI 모델이 나왔어요.",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=216761"
+        },
+        {
+          "title": "미국산 AI 노트북 개발",
+          "desc": "미국이 보안 강화 노트북을 만들어요.",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=216764"
+        }
+      ]
+    },
+    {
+      "category": "AI·테크 논문",
+      "icon": "📄",
+      "en": "Research · AI Times KR",
+      "summary": "최근 AI 기술은 우리가 생각하는 것보다 훨씬 다양한 분야에서 발전하고 있어요. AI가 시간을 절약해주는 효과를 정확히 측정하는 방법부터, 식물 질병 진단이나 의료 연구처럼 전문적인 분야에서 데이터를 효율적으로 활용하고 AI의 성능을 높이는 연구가 활발합니다. 또한, 여러 정보를 이해하는 AI가 스스로 발전하는 과정이나, AI가 과학 연구를 인간보다 더 잘하게 될 때 인간의 역할에 대한 고민까지 깊어지고 있답니다.",
+      "insight": "AI가 우리 삶의 다양한 영역에 깊숙이 들어오고 있는 만큼, AI의 장점을 현명하게 활용하고 한계점도 이해하며 인간 고유의 역할과 가치를 찾아가는 교육이 더욱 중요해질 것입니다.",
+      "articles": [
+        {
+          "title": "AI 시간 절약 측정법",
+          "desc": "AI가 절약하는 시간을 어떻게 정확히 측정할지, 실수도 고려해야 함.",
+          "link": "https://arxiv.org/abs/2610.35942"
+        },
+        {
+          "title": "AI 식물 질병 진단 개선",
+          "desc": "AI가 식물 질병 진단에 효과적이나, 데이터 부족 문제를 해결하는 전략 제안.",
+          "link": "https://arxiv.org/abs/2610.35984"
+        },
+        {
+          "title": "멀티모달 AI 자기 개선",
+          "desc": "여러 정보 이해하는 AI의 자기 개선 과정에서 발생하는 어려움 해소 방안 연구.",
+          "link": "https://arxiv.org/abs/2610.36077"
+        },
+        {
+          "title": "AI 의료 환자 그룹 선별",
+          "desc": "AI가 의료 연구 환자 그룹 선별 시, 기준 변경에 유연하게 대응하는 방법 제시.",
+          "link": "https://arxiv.org/abs/2610.36100"
+        },
+        {
+          "title": "AI 시대 과학 연구 방향",
+          "desc": "AI가 과학 연구를 잘할 때, 인간의 역할과 AI 활용법에 대한 프레임워크 제시.",
+          "link": "https://arxiv.org/abs/2610.36116"
+        }
+      ]
+    },
+    {
+      "category": "교육 뉴스",
+      "icon": "🏫",
+      "en": "Education News",
+      "summary": "최근 교육계는 주요 인사 변동과 함께 학교 현장의 중요한 변화들을 맞이하고 있습니다. 경기도와 인천 교육청의 부교육감 인사가 예정되어 있으며, 서울 서부교육지원청은 학교폭력 예방을 위한 특별 프로그램을 운영합니다. 한편, 교장공모제 확대와 교감 승진 기준 변경에 대한 우려의 목소리가 커지고 있으며, 학교 비정규직 총파업 예고로 학교 운영에 차질이 생길 가능성도 있습니다.",
+      "insight": "교사들은 교육 정책 변화와 학교 현장의 다양한 이슈에 관심을 가지고 학생 교육과 학교 운영에 미칠 영향을 깊이 이해해야 합니다.",
+      "articles": [
+        {
+          "title": "경기·인천 부교육감 인사",
+          "desc": "경기도교육청 부교육감에 이상돈, 인천은 최은희 거론.",
+          "link": "https://www.edupress.kr/news/articleView.html?idxno=30569"
+        },
+        {
+          "title": "서부교육청 '랑랑교실'",
+          "desc": "학교폭력 예방 및 또래관계 형성 프로그램 운영.",
+          "link": "https://www.edupress.kr/news/articleView.html?idxno=30568"
+        },
+        {
+          "title": "교장공모제 확대 우려",
+          "desc": "교장공모제 확대 방침이 학교 조직 약화 우려.",
+          "link": "https://www.edupress.kr/news/articleView.html?idxno=30567"
+        },
+        {
+          "title": "학교비정규직 총파업",
+          "desc": "학교비정규직, 저임금 해결 및 교부금 개편 반대 파업 예고.",
+          "link": "https://www.edupress.kr/news/articleView.html?idxno=30566"
+        },
+        {
+          "title": "1정 연수 성적 반영 제외 반대",
+          "desc": "1정 연수 성적 승진 반영 제외에 교사들 삭발 시위.",
+          "link": "https://www.edupress.kr/news/articleView.html?idxno=30564"
+        }
+      ]
+    }
+  ],
+  "createdAt": "2026-10-28T20:52:40.653Z"
+}
