@@ -1,0 +1,108 @@
+{
+  "date": "20261030",
+  "categories": [
+    {
+      "category": "AI 뉴스",
+      "icon": "🤖",
+      "en": "AI News",
+      "summary": "최근 인공지능(AI) 분야에서는 엔비디아가 40개 언어를 지원하는 음성 인식 AI를 공개하고, 앤트로픽은 AI를 활용해 신약을 개발하는 등 기술 발전이 활발합니다. 또한, AI 모델 평가 기준이 개편되면서 구글과 오픈AI 같은 주요 기업들의 순위가 새롭게 매겨지기도 했습니다. 이처럼 AI 기술은 계속해서 진화하며 우리 생활과 산업 전반에 큰 영향을 미치고 있습니다.",
+      "insight": "아이들에게 AI 기술의 다양한 활용 사례를 소개하고, 기술 발전이 가져올 미래 사회의 변화에 대해 함께 탐구하며 창의적 사고를 키울 기회를 제공할 수 있습니다.",
+      "articles": [
+        {
+          "title": "엔비디아 CEO 스파이 의혹",
+          "desc": "엔비디아 CEO, 중국 사업가와 스파이 의혹에 반박.",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=216818"
+        },
+        {
+          "title": "앤트로픽, AI 신약 개발",
+          "desc": "앤트로픽, AI 클로드로 신약 개발사 인수.",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=216778"
+        },
+        {
+          "title": "AI 모델 평가 순위 변동",
+          "desc": "AI 모델 평가 개편, 구글 1위, 오픈AI 약진.",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=216802"
+        },
+        {
+          "title": "엔비디아, 음성 인식 AI 공개",
+          "desc": "엔비디아, 40개 언어 지원 음성 인식 AI 공개.",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=216779"
+        },
+        {
+          "title": "광주 20대 인구 이동 현황",
+          "desc": "광주 20대, 수도권 유출, 전남 유입.",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=216814"
+        }
+      ]
+    },
+    {
+      "category": "AI·테크 논문",
+      "icon": "📄",
+      "en": "Research · AI Times KR",
+      "summary": "최근 AI 기술은 우리 삶과 교육 현장에 깊숙이 들어오고 있습니다. AI가 시간을 얼마나 효율적으로 사용하게 해주는지, 혹은 부족한 데이터를 보완하여 질병 진단과 같은 복잡한 문제를 해결하는 데 어떻게 기여하는지에 대한 연구들이 활발합니다. 또한, AI가 스스로 학습하고 발전하는 방식과, AI가 인간보다 특정 과학 연구를 더 잘할 때 인간의 역할은 무엇인지에 대한 깊이 있는 고민도 이어지고 있습니다.",
+      "insight": "교사들은 AI가 가져올 변화를 이해하고, AI를 교육 도구로 활용하며, 학생들이 AI와 공존하는 미래 사회의 주역으로 성장하도록 돕는 교육적 통찰력을 길러야 합니다.",
+      "articles": [
+        {
+          "title": "AI 시간 절약 측정",
+          "desc": "AI가 업무 시간을 얼마나 절약하는지 측정하는 방법을 고찰합니다.",
+          "link": "https://arxiv.org/abs/2610.35942"
+        },
+        {
+          "title": "딥러닝 모델 성능 향상",
+          "desc": "데이터 생성 전략으로 딥러닝 모델 성능을 향상시킵니다.",
+          "link": "https://arxiv.org/abs/2610.35984"
+        },
+        {
+          "title": "멀티모달 AI의 자기 개선",
+          "desc": "인간의 지도를 받아 스스로 발전하는 멀티모달 AI 연구입니다.",
+          "link": "https://arxiv.org/abs/2610.36077"
+        },
+        {
+          "title": "의료 코호트 큐레이션 AI",
+          "desc": "임상 코호트 기준 변화를 반영하는 AI 에이전트를 소개합니다.",
+          "link": "https://arxiv.org/abs/2610.36100"
+        },
+        {
+          "title": "AI 시대 인간의 과학 연구",
+          "desc": "AI가 과학을 더 잘할 때, 인간이 과학을 해야 하는 이유와 방법을 다룹니다.",
+          "link": "https://arxiv.org/abs/2610.36116"
+        }
+      ]
+    },
+    {
+      "category": "교육 뉴스",
+      "icon": "🏫",
+      "en": "Education News",
+      "summary": "최근 교육 현장의 이해를 돕는 교육과정 및 민주시민교육 관련 신간들이 출간되어 교사들의 전문성 신장에 도움을 줄 것으로 보입니다. 한편, 파독 간호사들이 미래 간호인력을 만나 뜻깊은 시간을 가졌으며, 교육청 주요 인사 소식과 학생들의 긍정적인 관계 형성을 위한 학교폭력 예방 프로그램 운영 소식도 전해졌습니다.",
+      "insight": "교사들은 교육과정 및 시민교육에 대한 이해를 높이고, 학생들의 건강한 성장과 긍정적인 또래관계 형성을 돕는 교육 활동에 지속적인 관심을 가져야 합니다.",
+      "articles": [
+        {
+          "title": "교육과정 문해력 책 출간",
+          "desc": "교육과정 이해 돕는 책으로 현장 실천 연결.",
+          "link": "https://www.edupress.kr/news/articleView.html?idxno=30572"
+        },
+        {
+          "title": "민주시민교육 신간 출간",
+          "desc": "좋은 시민 양성 위한 민주시민교육의 길 제시.",
+          "link": "https://www.edupress.kr/news/articleView.html?idxno=30571"
+        },
+        {
+          "title": "파독 간호사 학교 방문",
+          "desc": "미래 간호인력과 선배 간호사들의 뜻깊은 만남.",
+          "link": "https://www.edupress.kr/news/articleView.html?idxno=30570"
+        },
+        {
+          "title": "교육청 부교육감 인사",
+          "desc": "경기도교육청 부교육감 이상돈 유력, 인천은 최은희 거론.",
+          "link": "https://www.edupress.kr/news/articleView.html?idxno=30569"
+        },
+        {
+          "title": "학교폭력 예방 프로그램",
+          "desc": "체험 통해 또래관계 형성 및 학교폭력 예방.",
+          "link": "https://www.edupress.kr/news/articleView.html?idxno=30568"
+        }
+      ]
+    }
+  ],
+  "createdAt": "2026-10-29T20:52:02.700Z"
+}
