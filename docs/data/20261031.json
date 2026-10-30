@@ -1,0 +1,108 @@
+{
+  "date": "20261031",
+  "categories": [
+    {
+      "category": "AI 뉴스",
+      "icon": "🤖",
+      "en": "AI News",
+      "summary": "최근 인공지능(AI) 기술이 우리 생활과 산업 전반에 빠르게 스며들고 있습니다. 엔비디아와 네이버의 AI 협력, LG CNS의 AI 사업 성장, 은행의 AI 기반 보이스피싱 업무 자동화 등 다양한 분야에서 AI의 활용이 확대되고 있습니다. 이는 AI가 미래 사회의 핵심 동력이 될 것임을 보여줍니다.",
+      "insight": "교사들은 AI 기술의 발전과 활용 사례를 이해하고, 학생들이 미래 사회를 주도할 AI 리터러시를 갖추도록 교육하는 데 더욱 관심을 기울여야 합니다.",
+      "articles": [
+        {
+          "title": "엔비디아, 네이버 3대 주주",
+          "desc": "엔비디아가 네이버에 투자하여 AI 협력 강화. (1.3조원)",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=216835"
+        },
+        {
+          "title": "광양경제자유구역청 간담회",
+          "desc": "전문가들이 지역 산업 발전과 AI 활용 방안 논의.",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=216836"
+        },
+        {
+          "title": "LG CNS, AI·클라우드 성장",
+          "desc": "AI와 클라우드 사업으로 매출과 영업이익 증가.",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=216831"
+        },
+        {
+          "title": "AI로 보이스피싱 업무 자동화",
+          "desc": "AI가 은행 보이스피싱 서류 처리 시간을 88% 단축.",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=216827"
+        },
+        {
+          "title": "허깅페이스, AI 체험 데모 기증",
+          "desc": "허깅페이스가 비드래프트 AI 모델 데모를 제작.",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=216833"
+        }
+      ]
+    },
+    {
+      "category": "AI·테크 논문",
+      "icon": "📄",
+      "en": "Research · AI Times KR",
+      "summary": "이 논문들은 인공지능과 기술이 어떻게 더 똑똑하고 효율적으로 작동할 수 있는지 보여줍니다. 예를 들어, AI 모델이 복잡한 계산을 더 잘 처리하고, 정확한 결정을 내리도록 돕는 방법들을 연구합니다. 또한, AI가 실제 웹 환경에서 학습하거나 과학 연구 문제를 해결하는 데 필요한 도구들을 개발하는 내용도 담고 있습니다.",
+      "insight": "이러한 기술 발전은 우리 아이들이 미래에 만날 세상이 인공지능과 더욱 밀접하게 연결될 것임을 시사하며, AI의 잠재력과 한계를 이해하는 교육의 중요성을 강조합니다.",
+      "articles": [
+        {
+          "title": "LRMoE: MoE 훈련 효율화",
+          "desc": "MoE 모델 훈련 시 메모리 제약 문제를 해결하여 효율성을 높입니다.",
+          "link": "https://arxiv.org/abs/2610.37720"
+        },
+        {
+          "title": "모델 보정을 위한 추론",
+          "desc": "모델의 정확도를 높이기 위해 불확실성을 고려하여 보정합니다.",
+          "link": "https://arxiv.org/abs/2610.37731"
+        },
+        {
+          "title": "ThinkJev: 정확한 의사결정",
+          "desc": "언어 모델이 여러 단계의 의사결정을 더 정확하게 내리도록 돕습니다.",
+          "link": "https://arxiv.org/abs/2610.37732"
+        },
+        {
+          "title": "OpenFrontiers: 연구 문제 모음",
+          "desc": "LLM이 연구 문제를 해결하고 평가하는 데 필요한 자료를 제공합니다.",
+          "link": "https://arxiv.org/abs/2610.37739"
+        },
+        {
+          "title": "WebAnything: 웹 에이전트 환경",
+          "desc": "웹 에이전트 훈련과 평가를 위한 다양하고 재설정 가능한 웹 환경을 만듭니다.",
+          "link": "https://arxiv.org/abs/2610.37786"
+        }
+      ]
+    },
+    {
+      "category": "교육 뉴스",
+      "icon": "🏫",
+      "en": "Education News",
+      "summary": "최근 대학에서 AI를 활용한 시험 부정행위가 발생하며 기술 발전에 따른 교육 윤리의 중요성이 부각되었습니다. 한편, 전교조는 차기 위원장 선거를 통해 교권 보호와 교육 재정 확보 등 현안 해결을 모색하고 있으며, 사학연금은 폐현수막을 재활용하는 환경 캠페인을 펼쳤습니다. 또한, 교육과정 이해를 돕는 도서와 좋은 시민 양성을 위한 민주시민교육의 필요성을 다룬 신간이 출간되어 교사들의 전문성 신장과 학생 교육 방향에 대한 고민을 더하고 있습니다.",
+      "insight": "미래 사회에 대비하여 학생들에게 기술 윤리 교육과 함께 주체적인 시민 의식을 함양하는 것이 중요하며, 교사 스스로도 교육과정 이해도를 높여 변화하는 교육 환경에 유연하게 대처해야 합니다.",
+      "articles": [
+        {
+          "title": "스마트안경 부정행위",
+          "desc": "AI 시험 부정행위 증가, 윤리 교육 중요성 강조.",
+          "link": "https://www.edupress.kr/news/articleView.html?idxno=30575"
+        },
+        {
+          "title": "전교조 위원장 선거",
+          "desc": "전교조 차기 지도부 선거, 교권 보호 등 정책 경쟁.",
+          "link": "https://www.edupress.kr/news/articleView.html?idxno=30574"
+        },
+        {
+          "title": "폐현수막 공유우산",
+          "desc": "사학연금, 폐현수막 재활용해 공유우산 제작.",
+          "link": "https://www.edupress.kr/news/articleView.html?idxno=30573"
+        },
+        {
+          "title": "교육과정 이해서 출간",
+          "desc": "교육과정 이해 돕는 책 출간, 현장 실천 연결.",
+          "link": "https://www.edupress.kr/news/articleView.html?idxno=30572"
+        },
+        {
+          "title": "민주시민교육의 길",
+          "desc": "좋은 시민 양성 위한 민주시민교육 중요성 강조.",
+          "link": "https://www.edupress.kr/news/articleView.html?idxno=30571"
+        }
+      ]
+    }
+  ],
+  "createdAt": "2026-10-30T20:52:03.034Z"
+}
